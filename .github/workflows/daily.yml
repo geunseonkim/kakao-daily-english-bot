@@ -1,0 +1,58 @@
+name: Daily English Kakao
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # 매일 오전 8시 KST (전날 UTC 23:00)
+    - cron: '0 4 * * *'   # 매일 오후 1시 KST
+    - cron: '0 10 * * *'  # 매일 오후 7시 KST
+    - cron: '0 14 * * *'  # 매일 오후 11시 KST (복습)
+  workflow_dispatch:       # 수동 실행 버튼 (테스트용)
+    inputs:
+      mode:
+        description: 'run mode (main / review)'
+        required: false
+        default: 'main'
+
+jobs:
+  send-english:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Determine mode (main or review)
+        id: mode
+        run: |
+          HOUR=$(TZ=Asia/Seoul date +%H)
+          INPUT_MODE="${{ github.event.inputs.mode }}"
+          if [ "$INPUT_MODE" = "review" ] || [ "$HOUR" = "23" ]; then
+            echo "script=src/review.js" >> $GITHUB_OUTPUT
+          else
+            echo "script=src/index.js" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run
+        env:
+          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          OPENSUBTITLES_API_KEY: ${{ secrets.OPENSUBTITLES_API_KEY }}
+          OPENSUBTITLES_USERNAME: ${{ secrets.OPENSUBTITLES_USERNAME }}
+          OPENSUBTITLES_PASSWORD: ${{ secrets.OPENSUBTITLES_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node ${{ steps.mode.outputs.script }}
+
+      - name: Save today.json to repo
+        if: steps.mode.outputs.script == 'src/index.js'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/today.json
+          git diff --cached --quiet || git commit -m "chore: update today.json"
+          git push
