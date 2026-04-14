@@ -1,6 +1,9 @@
 # Daily English Kakao
 
-매일 시트콤 대사 기반 영어 표현을 카카오톡으로 자동 전송하는 프로젝트.
+매일 시트콤 대사 기반 영어 표현을 카카오톡으로 자동 전송하는 프로젝트
+
+<img width="430" height="813" alt="Screenshot 2026-04-14 at 11 15 34 PM" src="https://github.com/user-attachments/assets/3c75adbe-0483-4202-aef2-01db2def7af4" />
+
 
 ## 기능
 
