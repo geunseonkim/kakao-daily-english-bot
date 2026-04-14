@@ -1,6 +1,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import fs from 'fs';
 import path from 'path';
+import { spawnSync } from 'child_process';
 
 const KAKAO_REST_API_KEY = process.env.KAKAO_REST_API_KEY;
 const KAKAO_CLIENT_SECRET = process.env.KAKAO_CLIENT_SECRET;
@@ -144,6 +145,18 @@ async function refreshKakaoAccessToken() {
 
   const data = await res.json();
   if (!data.access_token) throw new Error(`토큰 갱신 실패: ${JSON.stringify(data)}`);
+
+  if (data.refresh_token && process.env.GH_PAT) {
+    const result = spawnSync('gh', ['secret', 'set', 'KAKAO_REFRESH_TOKEN', '--body', data.refresh_token], {
+      env: { ...process.env, GH_TOKEN: process.env.GH_PAT },
+    });
+    if (result.status === 0) {
+      console.log('리프레시 토큰 자동 갱신 완료');
+    } else {
+      console.error('리프레시 토큰 갱신 실패:', result.stderr?.toString());
+    }
+  }
+
   return data.access_token;
 }
 
