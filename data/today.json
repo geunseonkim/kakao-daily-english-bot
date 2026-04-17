@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 17.",
+  "date": "2026. 4. 18.",
   "sessions": [
     {
-      "time": "AM 07:30",
-      "episode": "Seinfeld - S04E10  The Virgin",
+      "time": "AM 07:28",
+      "episode": "The Office - S03E04  Grief Counseling",
       "dialogues": [
-        "Now, the one thing you've gotta be ready for...",
-        "But it comes fairly easy to me.",
-        "Saturday nights, do you ask her out, or is the date implied?",
-        "...and she dumps me for David Letterman.",
-        "- You see the irony? - Yeah, yeah. I see the...",
-        "He works at NBC. I work at NBC.",
-        "- I'll tell you what you got here. - Yeah?",
-        "Well, how long you've been seeing her.",
-        "I'm watching The Bold and the Beautiful.",
-        "...\"What do you do?\" and I have a girlfriend."
+        "Well, you know what? I didn't want to hear about it either, Stanley,",
+        "That is the last thing that they would want, is a day off.",
+        "You really don't get it, do you? You don't understand these people.",
+        "So you can imagine how upset I was",
+        "And I remember thinking, \"I'm a little too old for this.\"",
+        "What is the matter with you? Is that the beak?",
+        "Excellent. Do you have it with you?",
+        "Well, I'm sorry to inconvenience you, Meredith,",
+        "You never can tell what your day here is gonna turn into.",
+        "but that is what you do when things die. You honor them."
       ],
       "koreanHints": [
-        "1. 준비해야 할 게 딱 하나 있어.",
-        "2. 토요일 밤에는 데이트 신청을 따로 해? 아니면 당연히 만나는 거야?",
-        "3. 나한테는 꽤 쉬운 편이야."
+        "1. 당신은 정말 이해를 못 하는군요, 그렇죠? 이 사람들을 이해하지 못해요.",
+        "2. 당신이 여기서 보내는 하루가 어떻게 될지 절대 알 수 없어요.",
+        "3. 하지만 뭔가 죽으면 그렇게 하는 거예요. 추모하는 거죠."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- you've gotta be ready for : ~에 대비해야 한다, 준비되어 있어야 한다. have got to의 구어체로 must보다 훨씬 자연스럽고 대화체에서 자주 쓰임\n- ask someone out : 데이트 신청하다. 단순히 약속을 잡는 것이 아니라 연애 감정을 담아 데이트를 제안하는 뉘앙스\n- implied : 암묵적인, 당연하게 여겨지는. 말하지 않아도 서로 이해되는 상황을 표현할 때 유용\n- come easy to someone : ~에게 쉽게 느껴지다, 자연스럽게 되다. 특정한 능력이나 행동이 어렵지 않게 느껴질 때 사용"
-    },
-    {
-      "time": "PM 01:51",
-      "episode": "Modern Family - S02E17  Two Monkeys and a Panda",
-      "dialogues": [
-        "Cam... I can't do this. I can't.",
-        "Well, I'm a lawyer. I fill out all the legal forms...",
-        "That was good acting. Oh!",
-        "- She makes me feel like a fifth grader again. - Good for you, kid.",
-        "Okay. Well, I think this is a great project,",
-        "Phil, could you just take care of dinner, sweetie? That's all I'm asking.",
-        "Tell them we don't want our bodies inside these drawers where God cannot find us.",
-        "It's such a beautiful day. Why do we have to do this?",
-        "What am I supposed to tell the guy?",
-        "\"Ta-da\" is when you do a flip,"
-      ],
-      "koreanHints": [
-        "1. 캠... 난 이거 못하겠어. 못해.",
-        "2. 저한테 저녁 좀 챙겨줄래요, 자기야? 그것만 부탁하는 거예요.",
-        "3. 내가 그 사람한테 뭐라고 말해야 되는데?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I can't do this : 단순히 능력이 없다는 의미가 아니라 감정적으로나 심리적으로 더 이상 견딜 수 없다는 뉘앙스. 포기 직전의 절박함을 표현할 때 사용.\n- take care of : 단순히 돌본다는 의미를 넘어서 책임지고 처리한다는 뉘앙스. 식사 준비, 업무 처리 등 다양한 상황에서 활용 가능.\n- That's all I'm asking : 요청을 부드럽게 강조하면서도 \"이것만이라도\"라는 최소한의 부탁임을 나타내는 표현. 상대방의 부담을 줄이려는 의도가 담김.\n- What am I supposed to : 무엇을 해야 하는지 모르겠거나 난처한 상황에서 사용. 약간의 불만이나 답답함이 내포된 반문 표현."
-    },
-    {
-      "time": "PM 05:26",
-      "episode": "Friends - S01E07  The One with the Blackout",
-      "dialogues": [
-        "THE WOMEN'S ROOM ON THE SECOND FLOOR",
-        "ALL RIGHT, THIS IS JUST BACTINE.",
-        "PANTS AND A SWEATER? WHY, MOM?",
-        "I JUST WANT TO BITE HIS BOTTOM LIP.",
-        "♪ BUT I'LL BE THERE FOR YOU ♪",
-        "SEE, I SEE, UH... BIG PASSION IN YOUR FUTURE.",
-        "JOEY, WHAT'S GOING ON?",
-        "I'M MOVING THE CHAIR.",
-        "OH, MY GOD. IT'S HER.",
-        "HEY, DON'T LOOK AT ME."
-      ],
-      "koreanHints": [
-        "1. 나 쟤 아랫입술 깨물어주고 싶어.",
-        "2. 너의 미래에 큰 열정이 보이는데요.",
-        "3. 나한테 그런 눈빛으로 보지 마."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I just want to~ : 단순히 \"~하고 싶다\"가 아니라 \"그냥 ~하고 싶을 뿐이야\"라는 솔직한 욕구나 바람을 표현할 때. 변명이나 해명의 뉘앙스도 있음\n- in your future : \"앞으로\", \"장래에\"라는 의미로 fortune telling이나 예측 상황에서 자주 쓰임\n- Don't look at me : 직역하면 \"나를 보지 마\"지만 실제로는 \"나한테 따지지 마\", \"내 잘못 아니야\", \"나는 몰라\"라는 책임 회피의 뉘앙스로 많이 사용됨"
-    },
-    {
-      "time": "PM 10:09",
-      "episode": "Seinfeld - S06E09  The Secretary",
-      "dialogues": [
-        "so it is definitely doable.",
-        "Hope she's good-looking.",
-        "Having a secretary is incredible.",
-        "All right, I'll try it on again.",
-        "Yeah. Well, let's hurry up and eat.",
-        "What are you doing with it?",
-        "Yeah, it's very good.",
-        "The dry-cleaning number's gone too.",
-        "No, I think it's De-mi.",
-        "I thought it was Dem-i."
-      ],
-      "koreanHints": [
-        "1. 그거 충분히 가능해요.",
-        "2. 비서 있으니까 진짜 좋더라.",
-        "3. 어서 빨리 먹고 가자."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- doable : 실현 가능한, 할 만한. possible보다 구어체적이고 자연스러운 표현으로 원어민들이 일상에서 자주 사용\n- Having ~ is incredible : ~가 있으니 정말 좋다/대단하다. 경험이나 상황의 긍정적 효과를 강조할 때 쓰는 표현\n- hurry up and : 서둘러서 ~하다. 재촉하거나 빨리 행동하자고 제안할 때 쓰는 자연스러운 구어 표현"
+      "keyExpressions": "💡 핵심 표현:\n- You don't get it : \"이해를 못 하다\"라는 뜻으로, understand보다 더 구어적이고 약간 답답함이나 불만이 담긴 표현. 상대방이 상황의 본질을 파악하지 못할 때 사용\n- You never can tell : \"절대 알 수 없다\"는 의미로 You can never tell과 같은 표현. 예측 불가능한 상황을 강조할 때 쓰는 자연스러운 구어체\n- turn into : \"~로 변하다, ~이 되다\"라는 뜻으로 예상치 못한 변화나 전개를 나타낼 때 자주 쓰임\n- honor : 추모하다, 기리다라는 의미로 존중과 경의를 표하는 격식 있는 표현"
     }
   ]
 }
