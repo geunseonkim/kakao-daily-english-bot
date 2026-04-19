@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 19.",
+  "date": "2026. 4. 20.",
   "sessions": [
     {
-      "time": "AM 07:23",
-      "episode": "Modern Family - S06E01  The Long Honeymoon",
+      "time": "AM 07:25",
+      "episode": "Seinfeld - S04E09  The Opera",
       "dialogues": [
-        "Oh, my God! What am I looking at here?",
-        "Don't pull that thread, Mitchell.",
-        "we could turn the romance down just a little bit, you know?",
-        "Honey, you're part of a team, and there are people relying on you.",
-        "Okay, listen. I know how lucky I am to have you,",
-        "No one wants to get rid of you. It's just seven more days.",
-        "Hey, uh... No, Cam. Um... Hmm?",
-        "You've been a little bit... See? Look.",
-        "You'll feel good about finishing something you started,",
-        "Well, maybe some of us don't want it to end!"
+        "He said he was uncomfortable.",
+        "-He said, \"Tell me his name!\" -He said that?",
+        "Hey, hey, you selling?",
+        "Look, let me handle this.",
+        "Just give me my ticket.",
+        "How do you know his name?",
+        "What does he want from me?",
+        "♪ And, oh, what heights We'll hit ♪",
+        "then I would, you know, have to rethink the whole thing.",
+        "Now I'll put the kibosh on you."
       ],
       "koreanHints": [
-        "1. 로맨스를 조금만 낮춰도 되지 않을까?",
-        "2. 당신은 팀의 일원이고, 당신을 믿고 있는 사람들이 있어.",
-        "3. 네가 시작한 일을 끝내면 뿌듯할 거야."
+        "1. 그 사람이 나한테 뭘 원하는 거야?",
+        "2. 내가 처리할게.",
+        "3. 그럼 나는, 뭐랄까, 전체를 다시 생각해봐야 할 것 같아."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- turn something down : 볼륨이나 강도를 '낮추다'는 의미. 소리뿐 아니라 행동의 정도를 줄일 때도 쓰는 자연스러운 표현\n- part of a team : 단순히 '팀 멤버'가 아니라 '팀의 일원으로서 책임이 있다'는 소속감과 책임감을 강조하는 표현\n- rely on someone : '의지하다, 믿고 있다'는 뜻으로 신뢰와 기대가 담긴 표현\n- feel good about : '뿌듯하다, 만족스럽다'는 의미로 단순한 happy보다 성취감이나 자부심을 나타낼 때 쓰는 표현\n- finish something you started : 시작한 일을 완수하는 것의 중요성을 강조하는 관용적 표현"
-    },
-    {
-      "time": "PM 01:52",
-      "episode": "Seinfeld - S09E11  The Dealership",
-      "dialogues": [
-        "Don't think it can't happen!",
-        "I can show you where it is.",
-        "You've got a good eye there.",
-        "Hey, come on, guys. I'll show you the 900.",
-        "KRAMER: Just one more errand, and we can head back.",
-        "So Puddy, I decided I'm gonna go with",
-        "They have been promising that for a while.",
-        "I'm here helping you.",
-        "rustproofing, dealer prep.",
-        "That chick's whacked."
-      ],
-      "koreanHints": [
-        "1. 그런 일 절대 안 일어난다고 생각하지 마!",
-        "2. 당신 참 보는 눈이 있으시네요.",
-        "3. 저 여자 완전 미쳤어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Don't think it can't happen : 이중부정으로 경고나 충고할 때 쓰는 표현. \"그런 일 없을 거라고 안심하지 마\"라는 뉘앙스로 상대방에게 경각심을 일깨울 때 사용\n- have a good eye (for something) : 심미안이 있다, 보는 눈이 있다는 뜻. 좋은 것을 알아보는 안목이나 감각이 뛰어날 때 칭찬하는 표현\n- whacked : 미쳤다, 정상이 아니다는 뜻의 구어체 표현. crazy보다 더 속어적이고 강한 느낌"
-    },
-    {
-      "time": "PM 05:05",
-      "episode": "How I Met Your Mother - S09E01  The Locket",
-      "dialogues": [
-        "Marshall's flight just took off.",
-        "I know, but I knew I would.",
-        "not counting the ring bear.",
-        "Just click on \"options\"!",
-        "It's just a question of... who.",
-        "Oh, no. Not the driving gloves.",
-        "♪ No one in between...",
-        "Let's show your critics you're not just a Dumpster on wheels",
-        "Oh, oh, here's another one.",
-        "♪ How I Met Your Mother 9x01 ♪ The Locket Original Air Date on September 23, 2013"
-      ],
-      "koreanHints": [
-        "1. 알았어요, 근데 전 알 것 같았어요.",
-        "2. 그냥 누가 하느냐의 문제죠.",
-        "3. 바퀴 달린 쓰레기통이 아니라는 걸 비판자들에게 보여주자고요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I knew I would : 미래 시점에서 과거를 돌아보며 \"그럴 줄 알았어\"라고 말할 때 사용. would는 과거 시점에서 본 미래를 나타냄\n- It's just a question of : \"단지 ~의 문제다\"라는 의미로, 본질을 간단히 정리할 때 쓰는 표현. 복잡한 상황을 하나의 핵심 요소로 축약할 때 유용\n- not just : \"단지 ~만은 아니다\"라는 뉘앙스로, 부정적 인식을 반박하거나 더 나은 모습을 강조할 때 사용"
-    },
-    {
-      "time": "PM 09:53",
-      "episode": "Friends - S06E18  The One Where Ross Dates a Student",
-      "dialogues": [
-        "GOD, IT'S GREAT TO CATCH UP.",
-        "Phoebe: COMING THROUGH.",
-        "CAN YOU BELIEVE THAT?",
-        "AND, SO, LET'S FACE IT, THAT'S JUST KINDLING.",
-        "YEAH, THAT SOUNDS GREAT.",
-        "SO I GUESS ONE OF YOU WILL HAVE TO STAY AT JOEY'S.",
-        "OH, MY GOD. I DID IT.",
-        "BECAUSE I'M A TEACHER, SHE'S A STUDENT.",
-        "THERE'S A BIG-SELLING CALENDAR, HUH?",
-        "YOU WENT TO COLLEGE WITH WHO BECAME A MOVIE DIRECTOR?"
-      ],
-      "koreanHints": [
-        "1. 정말 좋다, 이렇게 근황 얘기하니까.",
-        "2. 솔직히 말하자면, 그건 그냥 불쏘시개나 다름없지.",
-        "3. 그러니까 너희 중 한 명은 조이네 집에 있어야 할 거야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- catch up : 오랜만에 만나 근황을 나누다, 밀린 이야기를 나누다. 친구나 지인과 재회했을 때 자주 쓰는 표현\n- let's face it : 솔직히 인정하자, 현실을 직시하자. 불편하거나 분명한 사실을 말할 때 쓰는 관용구\n- I guess : 추측하거나 결론을 부드럽게 말할 때. 단정적이지 않게 의견을 전달하는 원어민 필수 표현\n- will have to : 불가피한 상황이나 필요성을 나타낼 때. have to보다 미래의 의무를 강조"
+      "keyExpressions": "💡 핵심 표현:\n- What does he want from me? : 상대방의 의도를 못 알아듣겠을 때 짜증이나 당혹감을 담아 쓰는 표현. 단순 질문이 아니라 \"왜 자꾸 나를 괴롭히는 거야?\"의 뉘앙스\n- let me handle this : 상황을 자신이 처리하겠다고 자신 있게 나설 때 쓰는 표현. handle은 \"다루다, 처리하다\"의 의미로 문제 상황에 자주 사용됨\n- rethink the whole thing : 전체 계획이나 결정을 처음부터 다시 고려한다는 의미. whole thing은 구체적 명사 대신 상황 전체를 뭉뚱그려 표현할 때 편리한 표현"
     }
   ]
 }
