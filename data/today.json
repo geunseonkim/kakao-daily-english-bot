@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 20.",
+  "date": "2026. 4. 21.",
   "sessions": [
     {
-      "time": "AM 07:25",
-      "episode": "Seinfeld - S04E09  The Opera",
+      "time": "AM 07:34",
+      "episode": "The Office - S02E17  Dwight's Speech",
       "dialogues": [
-        "He said he was uncomfortable.",
-        "-He said, \"Tell me his name!\" -He said that?",
-        "Hey, hey, you selling?",
-        "Look, let me handle this.",
-        "Just give me my ticket.",
-        "How do you know his name?",
-        "What does he want from me?",
-        "♪ And, oh, what heights We'll hit ♪",
-        "then I would, you know, have to rethink the whole thing.",
-        "Now I'll put the kibosh on you."
+        "That's what she said.",
+        "But I'm not really sure where I'm going yet.",
+        "Hey, do you remember the speeches that you gave?",
+        "And it was just horrible.",
+        "I have some very great news from corporate.",
+        "Also, there will be no bonuses.",
+        "But seriously, what's the difference",
+        "And I just thought you were speaking abnormally.",
+        "And go someplace... not here.",
+        "I am the assistant regional manager."
       ],
       "koreanHints": [
-        "1. 그 사람이 나한테 뭘 원하는 거야?",
-        "2. 내가 처리할게.",
-        "3. 그럼 나는, 뭐랄까, 전체를 다시 생각해봐야 할 것 같아."
+        "1. 아직 어디로 갈지는 잘 모르겠어.",
+        "2. 근데 솔직히 뭐가 다른데?",
+        "3. 그냥 네가 평소랑 다르게 말하는 줄 알았어."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- What does he want from me? : 상대방의 의도를 못 알아듣겠을 때 짜증이나 당혹감을 담아 쓰는 표현. 단순 질문이 아니라 \"왜 자꾸 나를 괴롭히는 거야?\"의 뉘앙스\n- let me handle this : 상황을 자신이 처리하겠다고 자신 있게 나설 때 쓰는 표현. handle은 \"다루다, 처리하다\"의 의미로 문제 상황에 자주 사용됨\n- rethink the whole thing : 전체 계획이나 결정을 처음부터 다시 고려한다는 의미. whole thing은 구체적 명사 대신 상황 전체를 뭉뚱그려 표현할 때 편리한 표현"
-    },
-    {
-      "time": "PM 02:15",
-      "episode": "Friends - S03E07  The One with the Race Car Bed",
-      "dialogues": [
-        "I'm supposed to, um, fall off the Empire State Building...",
-        "Okay. I'm talking to the king.",
-        "- Thanks again, Dr. Green. - Uh-huh.",
-        "All right. Well, not exactly like I do.",
-        "...and has an evil twin.",
-        "\"Hey, the bell doesn't dismiss you. I dismiss you.\"",
-        "...I'll love you like I do in that black thing that you like.",
-        "CHANDLER: If I was a superhero who could fly and be invisible...",
-        "Those babies will sell themselves.",
-        "Hear ye, hear ye. Delivery from the Mattress King."
-      ],
-      "koreanHints": [
-        "1. 완전히 나랑 똑같지는 않지만 말이야.",
-        "2. 선생님이 수업 끝내는 거지, 종이 끝내는 게 아니야.",
-        "3. 그것들은 알아서 팔릴 거야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- not exactly : 완전히 그런 건 아니다, 꼭 그렇지는 않다 (부드럽게 부정하거나 수정할 때 사용)\n- dismiss : (수업, 회의 등을) 끝내다, 해산시키다 (단순히 끝나는 게 아니라 권한을 가진 사람이 끝내는 것)\n- sell itself/themselves : (제품이) 알아서 팔리다, 너무 좋아서 홍보 없이도 팔리다 (품질이나 매력이 뛰어남을 강조)"
-    },
-    {
-      "time": "PM 06:07",
-      "episode": "Friends - S02E21  The One with the Bullies",
-      "dialogues": [
-        "OKAY, THANKS. SORRY AGAIN.",
-        "ANYWAY, HE SAID THAT THE LITTLE FELLA'S GOING TO BE OKAY",
-        "ACTUAL BULLIES, YOU KNOW?",
-        "YEAH, GOOD LUCK, GOOD LUCK.",
-        "I DO SO WANT TO LOVE ALL ANIMALS.",
-        "WE LOVE YOU, AND WE'RE HERE FOR YOU.",
-        "YOU KNOW, THESE GUYS, THEY WERE BULLIES.",
-        "BUT HE WILL NOT TOUCH YOUR SANDWICH.",
-        "YOU GUYS JUST WALKED THROUGH THE DOOR.",
-        "H-H-HEY, ISN'T THAT THE GUY WHO USED TO WEAR YOUR HAT?"
-      ],
-      "koreanHints": [
-        "1. 그 꼬마는 괜찮을 거래요.",
-        "2. 난 정말 모든 동물들을 사랑하고 싶어요.",
-        "3. 우리는 너를 사랑하고, 네 곁에 있어줄게."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- little fella : 작은 남자아이나 작은 동물을 친근하게 부르는 표현. fella는 fellow의 구어체로 guy와 비슷하지만 더 정감 있고 부드러운 느낌\n- do so want : do를 사용해 want를 강조하는 구문. really나 very much보다 더 문어체적이고 간절한 느낌을 전달\n- be here for someone : 누군가를 위해 곁에서 지지하고 도와줄 준비가 되어 있다는 의미. 정서적 지원을 약속하는 따뜻한 표현"
-    },
-    {
-      "time": "PM 10:21",
-      "episode": "Seinfeld - S04E08  The Cheever Letters",
-      "dialogues": [
-        "When I go, I'm passing it on to her.",
-        "I mean, what are we doing here?",
-        "Hey, there, young fella.",
-        "I saved one of the cigar rings.",
-        "- All right, what do you got? - I got, you come in, you say, \"Hi.\"",
-        "- Here we go. - Let's go.",
-        "And this is my aunt, Sara.",
-        "And we've been in touch, and Sandra told Lippman!",
-        "Wow, what did you do?",
-        "- Typical things. - What's typical? Give me typical."
-      ],
-      "koreanHints": [
-        "1. 내가 죽으면, 그 애한테 물려줄 거야.",
-        "2. 우리 지금 뭐 하는 거야? (대체 왜 이러고 있는 거야?)",
-        "3. 전형적인 것들이요. - 전형적인 게 뭔데? 예를 들어봐."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- When I go : 완곡하게 '내가 죽으면'을 표현하는 자연스러운 말. die 대신 go를 써서 부드럽게 표현\n- pass something on to someone : 무언가를 다음 사람에게 물려주다, 전달하다. 유산이나 지식, 물건 등을 넘겨줄 때 쓰는 표현\n- What are we doing here? : 직역하면 '우리 여기서 뭐 하는 거야?'지만, 실제로는 '대체 왜 이러는 거야?', '이게 무슨 의미가 있어?'라는 회의적인 뉘앙스\n- Give me typical : 구체적인 예시를 요구할 때 쓰는 직설적 표현. Give me + 명사 구조로 '~을 말해봐'의 의미"
+      "keyExpressions": "💡 핵심 표현:\n- not really sure : 완전히 확신하지 못하는 상태를 부드럽게 표현. not sure보다 더 자연스럽고 대화체적임\n- but seriously : 농담이나 가벼운 대화에서 진지한 질문으로 전환할 때 쓰는 표현. 상대방의 진심을 묻거나 본론으로 들어갈 때 유용\n- what's the difference : 두 가지 선택이나 상황이 본질적으로 비슷할 때 \"별 차이 없잖아\"라는 뉘앙스로 쓰임\n- I just thought : 자신의 오해나 착각을 부드럽게 설명할 때 쓰는 표현. 변명처럼 들리지 않게 해줌\n- abnormally : normally의 반대로 평소와 다른, 비정상적인 방식을 표현"
     }
   ]
 }
