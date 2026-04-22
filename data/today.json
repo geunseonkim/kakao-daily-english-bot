@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 22.",
+  "date": "2026. 4. 23.",
   "sessions": [
     {
-      "time": "AM 07:30",
-      "episode": "Seinfeld - S03E10  The Stranded",
+      "time": "AM 07:38",
+      "episode": "The Office - S09E19  Stairmageddon",
       "dialogues": [
-        "We'll be fine. What did she say?",
-        "I'm sure he'll be here any minute.",
-        "Did you ever try and pick one of these out?",
-        "trying to get a cold medication.",
-        "Maybe you could get yourself a little bow tie flea collar.",
-        "which is usually this guy:",
-        "and they got in his carpet.",
-        "As soon as I walk outside, there'll be girls out there.",
-        "No, let's survey first, camp here.",
-        "Now, listen, let's keep an eye on each other tonight."
+        "and he was really on top of it.",
+        "He has a funny sense of humor.",
+        "There is someone else I need to thank. His name is Oscar Martinez.",
+        "I was wondering if you ever did any couples counseling?",
+        "And with my new self-awareness,",
+        "Question for the Senator's beard.",
+        "The bubble wrap is the only thing",
+        "If we're having issues, it can't hurt to talk about them, right?",
+        "Wait, wait. How are we doing this?",
+        "my days at Dunder Mifflin are probably limited."
       ],
       "koreanHints": [
-        "1. 틀림없이 곧 도착할 거야.",
-        "2. 이런 거 하나 고르려고 해본 적 있어?",
-        "3. 자, 오늘 밤 서로 계속 지켜보자고."
+        "1. 그는 그 일을 정말 잘 처리했어.",
+        "2. 문제가 있으면 얘기해보는 게 나쁠 것 없잖아, 그렇지?",
+        "3. 새롭게 자각한 덕분에"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- any minute : 지금 당장이라도, 곧. \"soon\"보다 훨씬 더 임박한 느낌을 주는 표현으로 초조하거나 기다리는 상황에서 자주 사용\n- try and + 동사 : try to보다 구어적이고 캐주얼한 표현. \"한번 ~해보다\"의 느낌\n- pick out : 여러 개 중에서 고르다, 선택하다. choose보다 신중하게 하나하나 살펴보며 고른다는 뉘앙스\n- keep an eye on : 지켜보다, 주시하다. 감시의 의미보다는 신경 쓰며 살핀다는 느낌"
-    },
-    {
-      "time": "PM 01:48",
-      "episode": "The Office - S07E06  Costume Contest",
-      "dialogues": [
-        "He went over your head to go behind your back.",
-        "And then I told them, giving Darryl full credit. So,",
-        "everyone has to vote for who gets the coupon book.",
-        "Do you know what just happened? I just made Kevin cry.",
-        "Come on. We're going to Danny's bar, Public School.",
-        "And Gabe looks like Lady Gaga. That's not Halloween.",
-        "Well, that does not sound like me.",
-        "And you can't vote for yourself.",
-        "I present to you the rational \"consumer,\"",
-        "We have one question to ask the spirit world and you want us to ask that?"
-      ],
-      "koreanHints": [
-        "1. 당신을 건너뛰고 뒤에서 일을 진행했네요.",
-        "2. 그런 말을 한 것 같지 않은데요.",
-        "3. 자기 자신한테는 투표할 수 없어요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- go over someone's head: 직속 상사나 해당 당사자를 건너뛰고 그 위 사람에게 직접 가는 것. 조직에서 위계질서를 무시하고 상급자에게 바로 보고하거나 요청할 때 씀\n- go behind someone's back: 누군가 몰래 뒤에서 일을 꾸미거나 진행하는 것. 배신감이나 신뢰 위반의 뉘앙스가 있음\n- that doesn't sound like me: 그건 내가 할/말할 것 같지 않다는 의미. 자신의 평소 성격이나 행동과 맞지 않을 때 부인하거나 의아해할 때 사용\n- vote for yourself: 자기 자신에게 투표하다. 공정성이 요구되는 상황에서 자주 금지되는 행위"
-    },
-    {
-      "time": "PM 05:48",
-      "episode": "How I Met Your Mother - S06E08  Natural History",
-      "dialogues": [
-        "if we were poor and I was trying to save the world,",
-        "He said, \"Don't touch anything\"\"",
-        "So how long have you felt this way?",
-        "and pseudo-intellectual, like...",
-        "And as if that wasn't bad enough,",
-        "So what about becoming an environmental lawyer?",
-        "who likes to play activist",
-        "Oh, hey. You guys seen Russell?",
-        "I want you to meet an old friend of mine from Exeter,",
-        "I have to go check up on the boat."
-      ],
-      "koreanHints": [
-        "1. 언제부터 그렇게 느껴왔어?",
-        "2. 그리고 그것도 모자라서",
-        "3. 환경 변호사가 되는 건 어때?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- How long have you felt this way? : 상대방의 감정이나 생각이 언제부터 시작되었는지 물을 때 쓰는 자연스러운 표현. 단순히 \"When did you start?\"보다 훨씬 부드럽고 공감적인 뉘앙스\n- as if that wasn't bad enough : 이미 나쁜 상황에 더 나쁜 일이 추가될 때 쓰는 관용구. \"설상가상으로\"의 의미로 원어민들이 불평이나 이야기 전개 시 자주 사용\n- What about -ing? : 제안이나 대안을 제시할 때 쓰는 부드러운 표현. \"How about\"보다 약간 더 진지하고 신중한 제안의 느낌"
-    },
-    {
-      "time": "PM 10:17",
-      "episode": "The Office - S09E23  Finale",
-      "dialogues": [
-        "Oh, it's the girls. Hey, Pam.",
-        "Heard you guys needed some pipes fixed, or cleaned, or whatever?",
-        "If you want her to leave, just tip her.",
-        "and now it's better than a fairytale.",
-        "which was kind of fun.",
-        "Angela, are you ready for the wedding?",
-        "Wow. That sounds incredible.",
-        "That's Baby Wawa, right? Oh, my God.",
-        "You keep forgetting about him.",
-        "Did I get that number right, Dwight?"
-      ],
-      "koreanHints": [
-        "1. 파이프 수리나 청소 같은 거 필요하다고 들었는데요?",
-        "2. 그노가 나가길 원하면 그냥 팁 주면 돼.",
-        "3. 그거 정확한 숫자 맞죠, 드와이트?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Heard you needed ~ : 주어 생략하고 바로 Heard로 시작해 \"~가 필요하다고 들었는데\"라는 뉘앙스를 전달. I heard that보다 훨씬 캐주얼하고 원어민다운 표현\n- or whatever : \"뭐 그런 거\"라는 느낌으로 리스트 끝에 붙여 대충 얼버무리거나 추가 옵션이 있음을 암시하는 구어체 표현\n- just tip her : just를 써서 \"그냥 ~하면 돼\"라는 간단한 해결책을 제시. 실용적이고 직설적인 조언을 줄 때 자주 쓰임\n- Did I get that right? : \"내가 제대로 이해한 거 맞아?\"라는 확인 표현. get something right는 정보나 사실을 정확히 파악했는지 물을 때 쓰는 자연스러운 표현"
+      "keyExpressions": "💡 핵심 표현:\n- be on top of something : 어떤 일을 완벽하게 통제하고 잘 처리하고 있다는 뉘앙스. 상황을 제대로 파악하고 관리한다는 의미로 직장에서 특히 자주 쓰임\n- it can't hurt to : ~해서 나쁠 것 없다, 해봐야 손해 볼 것 없다는 의미. 부드럽게 제안하거나 설득할 때 유용한 표현\n- self-awareness : 자기 인식, 자각. 자신의 감정, 행동, 성격을 객관적으로 이해하는 능력을 말하며 심리학이나 자기계발 맥락에서 많이 사용됨\n- have issues : 문제가 있다는 뜻. problems보다 부드럽고 완곡한 표현으로 관계나 감정 문제에 자주 쓰임"
     }
   ]
 }
