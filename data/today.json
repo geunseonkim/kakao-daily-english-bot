@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 24.",
+  "date": "2026. 4. 25.",
   "sessions": [
     {
-      "time": "AM 07:34",
-      "episode": "Modern Family - S01E01  Pilot",
+      "time": "AM 07:32",
+      "episode": "The Office - S09E15  Couples Discount",
       "dialogues": [
-        "So, soak it. Keep it.",
-        "It seemed like all we did was fight and make love, fight and make love, fight and make love.",
-        "That's it? That's- No, no, no, no.",
-        "And now you have to follow through.",
-        "She is not a girl. She's a woman.",
-        "You're right, you're right. Okay. I'm sorry.",
-        "Kids? [Sighs] Phil, would you get them? [Video Game Sounds]",
-        "Okay. If that's what you really want to do. Seriously.",
-        "to make the same bad mistakes I made.",
-        "- He tripped him, Jay. Where's the penalty? - [Whistle Blows]"
+        "But if you guys know of any work, I'm fully available.",
+        "Obviously, that's why I'm here.",
+        "On a boat in the ocean.",
+        "My boyfriend does look like a pretty girl, doesn't he?",
+        "Okay, the issue is that you need to run this stuff by me.",
+        "But I'm just saying I'm also excited about the Wallace meeting.",
+        "Well, there's one problem.",
+        "We have to find a different way to communicate",
+        "I was just looking over the paperwork.",
+        "And you intentionally left out a kind of major intimate detail."
       ],
       "koreanHints": [
-        "1. 싸우고 사랑하고, 싸우고 사랑하고, 싸우고 사랑하고 그런 것만 했던 것 같아요.",
-        "2. 그리고 이제 끝까지 해내야 해.",
-        "3. 내가 했던 것과 똑같은 나쁜 실수를 하는 것."
+        "1. 혹시 일거리 아시는 거 있으면, 저 언제든 가능해요.",
+        "2. 이런 건 나한테 먼저 확인받고 진행해야 한다고.",
+        "3. 의도적으로 꽤 중요한 사적인 디테일을 빼먹으셨네요."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- all we did was : ~하는 것밖에 하지 않았다. 과거의 반복적이고 단조로운 행동을 강조할 때 쓰는 표현\n- follow through : 시작한 일을 끝까지 해내다, 약속을 지키다. 중도 포기하지 않고 완수한다는 의미\n- make the same mistake : 같은 실수를 반복하다. 과거의 잘못을 되풀이한다는 뜻으로 자주 쓰임"
-    },
-    {
-      "time": "PM 01:56",
-      "episode": "The Office - S04E06  Branch Wars",
-      "dialogues": [
-        "A, my name is Alan and my wife's name is Alice",
-        "Damn it. What can we sell?",
-        "Are you calling Karen? No, I'm not calling Karen.",
-        "I'm sorry, Andy, but this is a closed club.",
-        "You said we couldn't make any more stops. I really had to go.",
-        "Michael, watch the road! Oh, God!",
-        "I'm going to miss you, man.",
-        "No. That is a terrible idea. Don't do this.",
-        "I want to stay in touch.",
-        "I have to do something to his eyes."
-      ],
-      "koreanHints": [
-        "1. 이건 폐쇄 클럽이에요.",
-        "2. 길 좀 봐요! 아, 이런!",
-        "3. 연락하고 지내요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- closed club : 폐쇄적인 모임이나 그룹을 의미하며, 새로운 멤버를 받지 않거나 특정인만 참여 가능하다는 뉘앙스. 실제로 회원제 클럽뿐 아니라 비유적으로도 자주 사용됨\n- watch the road : 운전 중 딴 짓 하는 사람에게 쓰는 표현. watch out과 비슷하지만 더 구체적으로 도로/앞을 보라는 의미\n- stay in touch : 연락을 유지하다. keep in touch와 같은 의미로, 헤어질 때나 관계를 이어가고 싶을 때 쓰는 자연스러운 표현"
-    },
-    {
-      "time": "PM 05:59",
-      "episode": "Friends - S04E11  The One with Phoebe's Uterus",
-      "dialogues": [
-        "It made them so happy, I decided to carry their baby.",
-        "I'll be giving someone the greatest gift.",
-        "Why were you at court?",
-        "I don't know, but Donald Trump wants his blue blazer black.",
-        "I figure, the first time I had a baby, it'd be with someone I love.",
-        "I mean, morning sickness, uh, labor.",
-        "A year ago, I didn't know I had a brother. Now I have a sister!",
-        "If you decide to do this, we'll be supportive like crazy.",
-        "Well, you know what I meant.",
-        "And you're afraid you won't be able to fill his shoes?"
-      ],
-      "koreanHints": [
-        "1. 그게 그 사람들을 너무 행복하게 해줘서, 나도 그들의 아기를 낳아주기로 했어.",
-        "2. 나는 누군가에게 최고의 선물을 주는 거잖아.",
-        "3. 이걸 하기로 결정하면, 우리가 미친 듯이 응원해줄게."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- It made them so happy (that) : ~가 그들을 너무 행복하게 만들어서. 어떤 일의 결과나 영향을 설명할 때 쓰는 자연스러운 구조. that은 생략 가능.\n- the greatest gift : 최고의 선물. 단순히 gift가 아니라 the greatest를 써서 감동이나 가치를 강조하는 표현.\n- be supportive : 지지하다, 응원하다. support보다 더 따뜻하고 지속적인 지원의 뉘앙스.\n- like crazy : 미친 듯이, 엄청나게. 강도를 강조할 때 쓰는 구어체 표현."
-    },
-    {
-      "time": "PM 10:14",
-      "episode": "The Office - S04E04  Money",
-      "dialogues": [
-        "How are you doing this?",
-        "a few more minutes to...",
-        "Michael, I'm gonna set you",
-        "who do I call about that?",
-        "So you are filming history.",
-        "Okay, well, she takes her",
-        "and she's totally not",
-        "and my other business'.",
-        "which one is correct?",
-        "(WHISPERING) Do you know"
-      ],
-      "koreanHints": [
-        "1. 어떻게 이걸 하고 있는 거예요?",
-        "2. 그러면 역사를 촬영하고 있는 거네요.",
-        "3. 어느 게 맞는 건가요?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- How are you doing this? : 상대방이 뭔가 놀랍거나 이해가 안 되는 일을 해낼 때 \"도대체 어떻게 하는 거야?\"라는 뉘앙스로 쓰는 표현. 단순히 방법을 물을 때보다는 놀라움이나 의아함이 담긴 질문\n- So you are ~ : 상대방의 말이나 상황을 확인하며 \"그러니까~하는 거네요\", \"그럼~인 거구나\"처럼 이해한 내용을 정리할 때 쓰는 자연스러운 표현\n- which one is correct? : 두 가지 이상의 선택지나 의견이 있을 때 \"어느 게 맞는 거죠?\"라고 확인하는 실용적 표현"
+      "keyExpressions": "💡 핵심 표현:\n- fully available : 단순히 available이 아닌 fully를 붙여 \"완전히 시간이 남\", \"언제든지 가능함\"을 강조하는 표현. 구직이나 스케줄 조율 시 자주 사용\n- run this by me : 누군가에게 먼저 확인받다, 검토받다는 뜻의 구동사. 회사나 팀워크 상황에서 허락이나 의견을 구할 때 필수 표현\n- left out : 의도적이든 아니든 뭔가를 빼먹다, 제외하다는 의미. leave out의 과거형으로 일상과 업무에서 모두 빈번하게 사용\n- kind of : 문법적으로는 부적절하지만 원어민이 자주 쓰는 완충 표현. \"좀\", \"어느 정도\"의 뉘앙스로 강도를 부드럽게 조절"
     }
   ]
 }
