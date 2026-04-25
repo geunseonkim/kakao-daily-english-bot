@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 25.",
+  "date": "2026. 4. 26.",
   "sessions": [
     {
-      "time": "AM 07:32",
-      "episode": "The Office - S09E15  Couples Discount",
+      "time": "AM 07:25",
+      "episode": "How I Met Your Mother - S07E19  The Broath",
       "dialogues": [
-        "But if you guys know of any work, I'm fully available.",
-        "Obviously, that's why I'm here.",
-        "On a boat in the ocean.",
-        "My boyfriend does look like a pretty girl, doesn't he?",
-        "Okay, the issue is that you need to run this stuff by me.",
-        "But I'm just saying I'm also excited about the Wallace meeting.",
-        "Well, there's one problem.",
-        "We have to find a different way to communicate",
-        "I was just looking over the paperwork.",
-        "And you intentionally left out a kind of major intimate detail."
+        "The one person I want to talk to most barely looks me",
+        "You had no right to do that.",
+        "I want you to meet my friends.",
+        "Nothing. I just worship chaos.",
+        "It's gonna be legen...",
+        "Is there any way we can just... go back to normal?",
+        "And I-I know how much it hurt that I didn't say it back,",
+        "- And I'll be the bossy-",
+        "And now, to seal this sacred vow,",
+        "fighting over my apartment."
       ],
       "koreanHints": [
-        "1. 혹시 일거리 아시는 거 있으면, 저 언제든 가능해요.",
-        "2. 이런 건 나한테 먼저 확인받고 진행해야 한다고.",
-        "3. 의도적으로 꽤 중요한 사적인 디테일을 빼먹으셨네요."
+        "1. 그럴 권리 없었어.",
+        "2. 그냥 다시 예전처럼 지낼 수는 없을까?",
+        "3. 내가 대꾸 안 한 게 얼마나 상처였는지 알아요."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- fully available : 단순히 available이 아닌 fully를 붙여 \"완전히 시간이 남\", \"언제든지 가능함\"을 강조하는 표현. 구직이나 스케줄 조율 시 자주 사용\n- run this by me : 누군가에게 먼저 확인받다, 검토받다는 뜻의 구동사. 회사나 팀워크 상황에서 허락이나 의견을 구할 때 필수 표현\n- left out : 의도적이든 아니든 뭔가를 빼먹다, 제외하다는 의미. leave out의 과거형으로 일상과 업무에서 모두 빈번하게 사용\n- kind of : 문법적으로는 부적절하지만 원어민이 자주 쓰는 완충 표현. \"좀\", \"어느 정도\"의 뉘앙스로 강도를 부드럽게 조절"
-    },
-    {
-      "time": "PM 01:37",
-      "episode": "The Office - S06E13  The Banker",
-      "dialogues": [
-        "people ask me if it's a family recipe,",
-        "Hey! Okay, everybody.",
-        "Yes, actually nicer than Santa. Jesus doesn't judge.",
-        "But when you need my help",
-        "Not really. I'm just tired. The days are short. I don't know.",
-        "Listen to what I am saying unto you.",
-        "I'm not gonna go tell Phyllis that she can't be Santa.",
-        "and I told them to get creative.",
-        "Nope, it's not \"ugh.\"",
-        "You get a thousand helium balloons attached to you"
-      ],
-      "koreanHints": [
-        "1. 사람들이 나한테 그게 집안 대대로 내려오는 비법이냐고 물어봐요.",
-        "2. 근데 네가 내 도움이 필요할 땐",
-        "3. 별로 그런 건 아니고요. 그냥 피곤해서요. 해가 짧아졌잖아요. 모르겠네요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- family recipe : 집안 대대로 내려오는 요리 비법. 가족만 아는 특별한 레시피를 뜻하며 일상에서 자주 쓰는 표현\n- when you need my help : 상대방의 이중적 태도를 지적할 때 쓰는 표현. \"필요할 때만 찾는다\"는 뉘앙스\n- Not really : 부정 질문이나 추측에 대해 부드럽게 부인할 때 쓰는 표현. \"꼭 그런 건 아니에요\" 정도의 완곡한 부정\n- The days are short : 겨울철 해가 일찍 지는 것을 표현. 계절성 우울감이나 피로를 설명할 때 자주 쓰임\n- I don't know : 문장 끝에 써서 자기 감정이나 상황을 확실히 설명 못하겠다는 뉘앙스. 단순한 \"모른다\"가 아님"
-    },
-    {
-      "time": "PM 05:05",
-      "episode": "Modern Family - S09E09  Tough Love",
-      "dialogues": [
-        "But it's gonna be good for you, sweetie.",
-        "Or nowhere near there.",
-        "in my very identifiable red Gore-Tex jacket.",
-        "Just goes to show you...",
-        "I then foraged some wild blueberries and honey",
-        "- Mm-hmm. - Kids are calling them \"Dum-Dums.\"",
-        "There's this new designer drug called Dexomorphone.",
-        "on the north campus during the basketball game.",
-        "a cold, brisk current,",
-        "Good thing I smell like berries, honey, and raw fish,"
-      ],
-      "koreanHints": [
-        "1. 그게 너한테 좋을 거야, 얘야.",
-        "2. 그것 봐라...",
-        "3. 내가 베리 향에, 꿀 향에, 생선 냄새까지 나니 다행이네."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- It's gonna be good for you : 직접적인 조언이나 설득할 때 쓰는 표현. 상대방이 원하지 않더라도 장기적으로 이롭다는 뉘앙스를 담아 부드럽게 권유할 때 사용\n- Just goes to show (you) : 어떤 상황이나 사건이 특정 교훈이나 사실을 증명한다는 의미. \"그것 봐라\", \"이것이 증명하듯이\"라는 뉘앙스로 일상에서 자주 쓰임\n- Good thing (that)... : 다행스러운 상황을 표현할 때 쓰는 자연스러운 구어체. \"다행히도\"보다 가볍고 캐주얼한 느낌"
-    },
-    {
-      "time": "PM 09:55",
-      "episode": "The Office - S01E04  Tax Dodge",
-      "dialogues": [
-        "[snaps, fingers] [whispers ] Pen, pen.",
-        "-Hey, baby girl. Guess what? -What?",
-        "Well, hardly unscathed.",
-        "but our collective focus would still be…?",
-        "You're sitting on my sandwich.",
-        "She's donated it, hasn't she?",
-        "Sounds like a tall story, Nick.",
-        "Should we just drop them like it's hot here?",
-        "You're burdened with a lot of people's problems.",
-        "-A bit tricky with the old ball and chain. -Yeah."
-      ],
-      "koreanHints": [
-        "1. 거의 무사하진 않았지.",
-        "2. 네가 다른 사람들의 문제를 너무 많이 떠안고 있구나.",
-        "3. 마누라 때문에 좀 어렵지. 그렇지."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- hardly unscathed : 상처 없이 빠져나왔다고 하기 어렵다는 뜻. unscathed는 '무사한, 다치지 않은'이라는 뜻으로 hardly와 함께 쓰여 은근히 피해를 입었음을 표현\n- be burdened with : ~을 짊어지다, ~의 부담을 안다. 물리적/정신적으로 무거운 짐을 떠안고 있다는 뉘앙스\n- the old ball and chain : 아내를 유머러스하게 지칭하는 구어 표현. 족쇄처럼 자유를 제한한다는 농담 섞인 뉘앙스로, 주로 남성들끼리 가볍게 쓰는 표현"
+      "keyExpressions": "💡 핵심 표현:\n- have no right to: 단순히 권리가 없다는 것을 넘어서, 상대방의 월권 행동에 대한 강한 불쾌감과 비난을 담아 쓰는 표현. \"감히 그럴 자격이 없다\"는 뉘앙스\n- go back to normal: 관계나 상황이 틀어진 후 \"예전처럼 돌아가다\"라는 의미. get back to normal보다 go back이 더 자연스러운 대화체\n- say it back: 상대방이 한 말(특히 감정 표현)을 그대로 되돌려 말하는 것. I love you에 I love you too로 답하는 상황 등에서 자주 사용"
     }
   ]
 }
