@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 27.",
+  "date": "2026. 4. 28.",
   "sessions": [
     {
-      "time": "AM 07:27",
-      "episode": "Seinfeld - S07E01  The Engagement",
+      "time": "AM 07:39",
+      "episode": "How I Met Your Mother - S02E21  Something Borrowed",
       "dialogues": [
-        "They're playing at the same Cineplex.",
-        "\"Happy, pappy.\" What does that mean?",
-        "There is this dog in the courtyard",
-        "[HOARSELY] I lost my voice just screaming at this thing.",
-        "Yeah, like I don't know that I'm pathetic.",
-        "So tell her not to say it.",
-        "who specializes in exactly these kinds of sticky situations.",
-        "in a situation after something like that.",
-        "Do you ever get the feeling like you had a haircut,",
-        "I don't think we should see each other anymore."
+        "at the historic Van Smoot House in upstate New York.",
+        "The closer you get to the big day, the more concessions you make.",
+        "Well, it's only the biggest day of her life, so...",
+        "We could just give it some style.",
+        "And maybe you already know someone who went down to the courthouse",
+        "You're the worst best man ever! I hate you!",
+        "Shouldn't be hard to find out. Most of them are pretty bad.",
+        "Marshall accidentally shaved part of his head.",
+        "to the music of half a harp played by a woman who's crowning,",
+        "I don't think I need advice on how to be cool,"
       ],
       "koreanHints": [
-        "1. 그런 일이 있고 나서 그런 상황에 처하면 어떻게 해야 하는지 모르겠어.",
-        "2. 나도 내가 한심한 거 모를 줄 알아?",
-        "3. 우리 이제 그만 만나는 게 좋을 것 같아."
+        "1. 결혼 날짜가 다가올수록 타협할 게 더 많아지는 법이야.",
+        "2. 그 사람 인생에서 가장 큰 날인데, 당연하지...",
+        "3. 조언 따위는 필요 없을 것 같은데."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- after something like that : 그런 일이 있고 난 후에, 그런 일을 겪고 나서. 막연하게 불편하거나 곤란한 상황을 돌려 말할 때 사용\n- like I don't know : 내가 모를 줄 알아?, 내가 모를 것 같아?라는 반어적 표현. 상대방이 뻔한 걸 지적할 때 약간 defensive하게 반응하는 뉘앙스\n- I don't think we should~ : 관계를 정리할 때 쓰는 완곡한 표현. I think we shouldn't보다 부드러운 거절\n- pathetic : 한심한, 불쌍한. 자조적으로 쓰면 자기비하의 뉘앙스\n- see each other : 연인 관계로 만나다, 사귀다"
-    },
-    {
-      "time": "PM 02:27",
-      "episode": "How I Met Your Mother - S05E18  Say Cheese",
-      "dialogues": [
-        "Cute photo, right, kids?",
-        "And I meant every word.",
-        "than being here, with just my four best friends.",
-        "You don't want Amanda in the photo, do you?",
-        "Or we could just keep on strolling down Best Birthday Ever Avenue.",
-        "It is physically impossible for me to take a bad picture.",
-        "(CLEARS THROAT) Well, a little bonus.",
-        "If anything, you should apologize to me.",
-        "this guy, for our third date, brought me to his brother's wedding.",
-        "and it makes them think that things are really serious."
-      ],
-      "koreanHints": [
-        "1. 진짜 한 마디 한 마디 다 진심이었어.",
-        "2. 어차피 너한테 사과해야 할 사람은 나라고.",
-        "3. 그리고 그게 진짜 심각한 사이라고 착각하게 만들잖아."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- mean every word : 한 말을 전부 진심으로 하다. 빈말이나 립서비스가 아니라 정말 그렇게 생각한다는 뉘앙스를 강하게 전달할 때 사용\n- if anything : 오히려, 어차피. 상대방의 주장을 반박하면서 정반대의 상황을 제시할 때 쓰는 표현. 논쟁이나 변론 상황에서 자주 등장\n- make someone think : 누군가로 하여금 생각하게 만들다. 착각하게 하거나 특정한 인상을 주는 상황을 설명할 때 유용한 패턴"
-    },
-    {
-      "time": "PM 06:16",
-      "episode": "Friends - S04E12  The One with the Embryos",
-      "dialogues": [
-        "THAT IS A \"BOYS'\" APARTMENT!",
-        "THAT SHE'S BECOMING A ROOSTER.",
-        "♪ WHEN IT HASN'T BEEN YOUR DAY ♪",
-        "YOU KNOW, THEY WANT YOU SO MUCH.",
-        "WHAT KIND OF CHANGES?",
-        "♪ 'CAUSE YOU'RE THERE FOR ME, TOO. ♪",
-        "YOU NEED THIS, OR YOU LOSE THE GAME.",
-        "HOW MANY CATEGORIES ARE THERE?",
-        "TRANSFERRED INTO MY UTERUS.",
-        "BECAUSE THAT GIVES YOU A 25% CHANCE"
-      ],
-      "koreanHints": [
-        "1. 너 이거 꼭 맞춰야 해, 안 그러면 게임에서 지는 거야.",
-        "2. 카테고리가 몇 개나 있어?",
-        "3. 그게 너한테 25% 확률을 주는 거거든."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- You need this, or... : 조건을 제시하며 경고할 때 쓰는 표현. \"이거 해야 해, 안 그러면...\"의 뉘앙스로 상대에게 압박감이나 긴박함을 전달\n- How many... are there? : 개수를 물을 때 가장 자연스러운 구조. \"There are~\" 구문의 의문문 형태\n- That gives you a... chance : 어떤 행동이나 선택이 특정 확률/기회를 제공한다고 설명할 때 쓰는 표현. 논리적 결과를 설명하는 뉘앙스"
-    },
-    {
-      "time": "PM 10:29",
-      "episode": "Friends - S01E07  The One with the Blackout",
-      "dialogues": [
-        "Emily's cousin kicked me out.",
-        "...and I keep knocking them right out of the park.",
-        "But just talk to me. Tell me if something bothers you.",
-        "We got plenty of space. There's still some by that speaker.",
-        "I don't know about that.",
-        "He's a big, tap-dancing pimp!",
-        "- You're fake laughing too, right? - The tears are real.",
-        "Ross is the greatest guy. He's very reliable...",
-        "Dude, I'm telling you, I'm fine.",
-        "There you go. He's a pimp."
-      ],
-      "koreanHints": [
-        "1. 뭔가 신경 쓰이는 거 있으면 나한테 얘기해.",
-        "2. 나 진짜 괜찮다니까.",
-        "3. 그건 잘 모르겠는데."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- if something bothers you : 뭔가 신경 쓰이거나 불편한 게 있을 때 쓰는 자연스러운 표현. \"괴롭히다\"는 직역보다는 \"신경 쓰이다, 거슬리다, 불편하다\"의 뉘앙스\n- I'm telling you : 상대방을 설득하거나 강조할 때 쓰는 표현. \"내 말 들어봐, 진짜야, 정말이야\"의 느낌으로 확신을 전달\n- I don't know about that : 상대방 의견에 은근히 반대하거나 의심스러울 때 부드럽게 이의를 제기하는 표현. 직접적 거절보다 완곡함"
+      "keyExpressions": "💡 핵심 표현:\n- the closer... the more : ~하면 할수록 더 ~하다 (비교급 비례 구문으로 두 가지 변화가 동시에 일어남을 표현)\n- the big day : 결혼식, 중요한 날 (특별한 행사나 이벤트를 지칭하는 관용적 표현)\n- make concessions : 양보하다, 타협하다 (원하는 것을 포기하고 타협점을 찾는다는 뉘앙스)\n- it's only : 고작 ~일 뿐인데, ~인데 당연하지 (반어적으로 실제로는 매우 중요하다는 의미를 강조)\n- I don't think I need : ~가 필요 없을 것 같은데 (need 앞에 don't를 써서 완곡하게 거절하는 표현)"
     }
   ]
 }
