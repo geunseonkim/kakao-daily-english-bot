@@ -1,71 +1,27 @@
 {
-  "date": "2026. 4. 28.",
+  "date": "2026. 4. 29.",
   "sessions": [
     {
-      "time": "AM 07:39",
-      "episode": "How I Met Your Mother - S02E21  Something Borrowed",
+      "time": "AM 07:45",
+      "episode": "Seinfeld - S08E21  The Muffin Tops",
       "dialogues": [
-        "at the historic Van Smoot House in upstate New York.",
-        "The closer you get to the big day, the more concessions you make.",
-        "Well, it's only the biggest day of her life, so...",
-        "We could just give it some style.",
-        "And maybe you already know someone who went down to the courthouse",
-        "You're the worst best man ever! I hate you!",
-        "Shouldn't be hard to find out. Most of them are pretty bad.",
-        "Marshall accidentally shaved part of his head.",
-        "to the music of half a harp played by a woman who's crowning,",
-        "I don't think I need advice on how to be cool,"
+        "People wanna know the stories behind the stories.",
+        "I'll make it worth your while.",
+        "He asked you to watch them, not wear them.",
+        "- It doesn't matter. - No, no. Sure it matters.",
+        "- A muffin-top store? - What did I just say?",
+        "Little Rock, Arkansas.",
+        "Some new-clothes shopping.",
+        "The last thing this guy is qualified to give a tour of is reality.",
+        "Actually, I kind of need to speak to you.",
+        "- Where are you going? - I'm gonna be this guy's friend."
       ],
       "koreanHints": [
-        "1. 결혼 날짜가 다가올수록 타협할 게 더 많아지는 법이야.",
-        "2. 그 사람 인생에서 가장 큰 날인데, 당연하지...",
-        "3. 조언 따위는 필요 없을 것 같은데."
+        "1. 사람들은 뒷이야기를 알고 싶어 하잖아.",
+        "2. 제대로 보상해줄게.",
+        "3. 이 사람한테 현실 투어를 시킬 자격은 제일 없어."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- the closer... the more : ~하면 할수록 더 ~하다 (비교급 비례 구문으로 두 가지 변화가 동시에 일어남을 표현)\n- the big day : 결혼식, 중요한 날 (특별한 행사나 이벤트를 지칭하는 관용적 표현)\n- make concessions : 양보하다, 타협하다 (원하는 것을 포기하고 타협점을 찾는다는 뉘앙스)\n- it's only : 고작 ~일 뿐인데, ~인데 당연하지 (반어적으로 실제로는 매우 중요하다는 의미를 강조)\n- I don't think I need : ~가 필요 없을 것 같은데 (need 앞에 don't를 써서 완곡하게 거절하는 표현)"
-    },
-    {
-      "time": "PM 02:33",
-      "episode": "The Office - S05E01  Weight Loss",
-      "dialogues": [
-        "Also, and no pressure, the teacher, he's a catch.",
-        "and pushed me out of the car.",
-        "I'll see you later, love.",
-        "And eventually declare my love for her.",
-        "Let's move that up. There we go.",
-        "{\\pos(190,200)}I'm excited to lose weight for the wedding.",
-        "Dunder Mifflin. This is Ronnie.",
-        "I'll marry you right here in this building.",
-        "Listen, dummy, it's not that hard.",
-        "Then dinner by myself."
-      ],
-      "koreanHints": [
-        "1. 그리고 부담 갖지 말고, 선생님이 괜찮은 남자더라.",
-        "2. 나중에 봐요, 자기야.",
-        "3. 들어봐, 멍청아, 그렇게 어려운 거 아니야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- no pressure : 부담 갖지 말라는 의미로 제안이나 정보를 전달할 때 상대방의 심리적 부담을 덜어주기 위해 쓰는 표현\n- he's a catch : 그 사람이 연애 상대로 매력적이고 조건이 좋다는 뜻. 놓치기 아까운 사람이라는 긍정적 뉘앙스\n- it's not that hard : 생각보다 어렵지 않다는 의미로 상대방을 격려하거나 안심시킬 때 사용\n- dummy : 친한 사이에서 농담조로 쓰는 '멍청이, 바보'. 상황에 따라 친근하거나 짜증의 뉘앙스\n- see you later : 작별 인사의 가장 자연스러운 표현. love를 붙이면 애정 표현이 됨"
-    },
-    {
-      "time": "PM 06:21",
-      "episode": "Seinfeld - S07E14  The Cadillac (1)",
-      "dialogues": [
-        "Where you gonna get a better meal?",
-        "Yeah, I've been getting HBO for free.",
-        "What do you mean, \"could have\"?",
-        "Like I don't know that.",
-        "- Forget it. - Elaine.",
-        "You happen to know where he is?",
-        "I had no idea you had this kind of money.",
-        "Jerry, he wants me to fix him up with Marisa Tomei.",
-        "- I mean, you've seen her? - Katharine Hepburn? Yeah.",
-        "I'm looking for the guy who lives over here."
-      ],
-      "koreanHints": [
-        "1. 이보다 좋은 식사를 어디서 찾겠어?",
-        "2. 그 사람이 어디 있는지 혹시 알아?",
-        "3. 네가 이런 돈이 있는 줄은 전혀 몰랐어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Where you gonna get : 반문하며 최고임을 강조할 때 쓰는 표현. \"어디서 이것보다 나은 걸 찾겠어?\"라는 뉘앙스로 자신의 선택이나 제안이 최선임을 주장할 때 사용\n- happen to : 우연히, 혹시라는 부드러운 뉘앙스를 더해 직접적인 질문을 완화시키는 표현. 상대에게 압박감 없이 정보를 물어볼 때 유용\n- had no idea : 전혀 몰랐다는 강한 놀라움이나 의외성을 표현. \"didn't know\"보다 더 감정이 실린 표현\n- this kind of : 막연하게 \"이 정도의, 이런 류의\"를 의미하며 구체적 수치보다는 정도나 범주를 나타낼 때 사용"
+      "keyExpressions": "💡 핵심 표현:\n- the stories behind the stories : 겉으로 보이는 이야기 뒤에 숨겨진 진짜 이야기, 비하인드 스토리. 단순히 behind the scenes가 아니라 더 깊은 맥락이나 배경을 의미할 때 사용\n- make it worth your while : 상대방의 시간과 노력에 대해 충분한 보상을 하겠다는 표현. 제안이나 부탁할 때 설득력을 높이는 관용구\n- the last thing someone is qualified to do : 그 사람이 할 자격이 가장 없는 일이라는 강한 부정 표현. 반어적으로 부적격함을 강조할 때 사용"
     }
   ]
 }
