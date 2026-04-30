@@ -1,93 +1,27 @@
 {
-  "date": "2026. 4. 30.",
+  "date": "2026. 5. 1.",
   "sessions": [
     {
-      "time": "AM 07:45",
-      "episode": "Modern Family - S09E14  Written in the Stars",
+      "time": "AM 07:41",
+      "episode": "Seinfeld - S05E15  The Pie",
       "dialogues": [
-        "Sor... Sorry, I'm a little obsessed with space.",
-        "to find a good-looking genius?",
-        "I have never had that drink.",
-        "Can we have a... Can we have a different table?",
-        "No, I mean, um... Thank you.",
-        "How can you not hear this?",
-        "Well, I'm sorry, Joe. I don't owe you anything.",
-        "(voice breaking) Oh, my God, Mitchell.",
-        "Oh, my G... No. What?",
-        "(hushed) We've really only texted."
+        "You know, possible suspects.",
+        "I've seen her before. She's not your girlfriend.",
+        "- That was really good. - Yeah. Are you full?",
+        "I'm dropping you off at work, right?",
+        "All right, I'm looking for Poppie.",
+        "Best apple pie in the city.",
+        "It's quieter down here.",
+        "- That's a great idea. - Tell me about it.",
+        "Well-dressed or getting killed.",
+        "I'm just gonna be wishing there were walkways."
       ],
       "koreanHints": [
-        "1. 미안, 나 우주에 좀 과하게 빠져있어.",
-        "2. 다른 테이블로 옮겨도 될까요?",
-        "3. 이거 안 들려? 어떻게 못 들어?"
+        "1. 배불러?",
+        "2. 정말 좋은 생각이야. - 그러게 말이야.",
+        "3. 여기가 더 조용하네."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- I'm obsessed with : 단순히 '좋아한다'를 넘어서 집착 수준으로 빠져있다는 의미. I like나 I love보다 훨씬 강한 표현으로 원어민들이 일상에서 자주 사용\n- Can we have a different : 레스토랑이나 서비스 상황에서 무언가를 바꿔달라고 정중하게 요청할 때 쓰는 표현. Can I get 보다 Can we have가 더 공손한 뉘앙스\n- How can you not : '어떻게 ~하지 않을 수 있어?'라는 의미로, 상대방이 당연히 해야 할 것을 하지 않을 때 놀라움이나 불만을 표현하는 수사적 질문"
-    },
-    {
-      "time": "PM 02:32",
-      "episode": "Seinfeld - S09E18  The Frogger",
-      "dialogues": [
-        "[FROGGER POWERING DOWN]",
-        "I think it's nice. ELAINE: What?!",
-        "How come I haven't read about it?",
-        "do you wanna come with us to Mario's Pizza?",
-        "No. I-I need a guy that can rig a Frogger machine",
-        "All right, make it the large sodas.",
-        "PETERMAN: ♪ Get well Get well soon ♪",
-        "Be that long. I mean, most action movies are...",
-        "Well, I'm doing it, Jerry.",
-        "I mean, now we're celebrating a sick day?"
-      ],
-      "koreanHints": [
-        "1. 그렇게 오래 걸리진 않을 거야. 액션 영화 대부분은...",
-        "2. 글쎄, 난 할 거야, 제리.",
-        "3. 이제 우리가 병가를 축하하는 거야?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Be that long : 문맥상 앞의 won't/can't 등을 생략한 구어체 표현. \"그렇게 오래 걸리지 않을 거야\"라는 뉘앙스로 원어민들이 캐주얼한 대화에서 자주 쓰는 축약형\n- I'm doing it : 단순히 \"할 거야\"가 아니라 \"반대에도 불구하고 내 의지대로 밀고 나가겠다\"는 결연한 의지를 담은 표현\n- now we're celebrating~ : \"이제 우리가 ~까지 축하하는 거야?\"라며 상황이 과하거나 이상하다고 지적할 때 쓰는 반어적 표현"
-    },
-    {
-      "time": "PM 06:10",
-      "episode": "2006 - The Gymnast",
-      "dialogues": [
-        "All right, all right...",
-        "You have got to stop staring at that poster!",
-        "by the spring at any cost!",
-        "Well, I'm so sorry. I--",
-        "All because of this blasted painting.",
-        "If I do it again, that extends my payment book",
-        "Yeah, well, you're going.",
-        "blaming them for all the ills of society.",
-        "Greatest show on earth.",
-        "They've called an emergency meeting."
-      ],
-      "koreanHints": [
-        "1. 그 포스터 쳐다보는 거 좀 그만해!",
-        "2. 내가 또 그러면, 할부 기간이 연장되는 거야",
-        "3. 긴급 회의를 소집했대."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- have got to: 'must'보다 강한 어조로 \"정말 꼭 ~해야 해\"라는 뉘앙스. 구어체에서 자주 쓰이며 화자의 강한 의지나 불만을 표현할 때 사용\n- stare at: 'look at'과 달리 뚫어지게 오래 쳐다보는 것. 무례하거나 집착적으로 보는 느낌을 줌\n- extend: 기간, 기한, 계약 등을 '연장하다'. 비즈니스나 공식 상황에서 자주 쓰이는 실용적 동사\n- call a meeting: 회의를 '소집하다, 요청하다'. 'have a meeting'보다 긴급하고 공식적인 느낌"
-    },
-    {
-      "time": "PM 10:45",
-      "episode": "Seinfeld - S09E05  The Junk Mail",
-      "dialogues": [
-        "- He still nuts? - What do you think?",
-        "You don't understand. This is Fragile Frankie Merman.",
-        "A mailman you know, maybe even trust, will offer to give you a lift.",
-        "- No, that's us. - Great.",
-        "Whitey Fisk, the guy who snuck you into Last Tango in Paris.",
-        "She's just remembering this old commercial.",
-        "Wait a second. What...? What, what is this?",
-        "But you don't know the half of what goes on here.",
-        "Now I demand to know what's going on.",
-        "So you never saw Last Tango in Paris?"
-      ],
-      "koreanHints": [
-        "1. 잠깐만. 뭐... 이게 뭐야?",
-        "2. 그런데 여기서 무슨 일이 일어나는지 절반도 모르실 거예요.",
-        "3. 이제 무슨 일인지 알려주셔야겠어요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Wait a second : 잠깐만요, 잠시만요. 뭔가 이상하거나 예상과 다를 때, 또는 생각할 시간이 필요할 때 자연스럽게 쓰는 표현. Wait a minute보다 약간 더 짧은 뉘앙스\n- don't know the half of it/what : 실제 상황의 절반도 모른다는 뜻으로, 겉으로 보이는 것보다 훨씬 더 복잡하거나 심각하다는 걸 강조할 때 쓰는 관용구\n- demand to know : 단순히 알고 싶다가 아니라 알 권리가 있으니 말해달라고 강하게 요구하는 표현. ask보다 훨씬 강한 어조"
+      "keyExpressions": "💡 핵심 표현:\n- Are you full? : 식사 후 \"배불러?\" 묻는 가장 자연스러운 표현. \"Did you eat enough?\"보다 훨씬 캐주얼하고 일상적\n- Tell me about it : \"그러게 말이야\", \"정말 그래\" 라는 의미로 상대방 말에 강하게 공감할 때 쓰는 관용구. 실제로 뭔가 말해달라는 게 아님\n- down here : 단순히 \"여기\"가 아니라 \"이 아래쪽\", \"이쪽으로 내려온 곳\"이라는 공간적 위치를 자연스럽게 표현"
     }
   ]
 }
