@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 1.",
+  "date": "2026. 5. 2.",
   "sessions": [
     {
-      "time": "AM 07:41",
-      "episode": "Seinfeld - S05E15  The Pie",
+      "time": "AM 07:40",
+      "episode": "Friends - S01E06  The One with the Butt",
       "dialogues": [
-        "You know, possible suspects.",
-        "I've seen her before. She's not your girlfriend.",
-        "- That was really good. - Yeah. Are you full?",
-        "I'm dropping you off at work, right?",
-        "All right, I'm looking for Poppie.",
-        "Best apple pie in the city.",
-        "It's quieter down here.",
-        "- That's a great idea. - Tell me about it.",
-        "Well-dressed or getting killed.",
-        "I'm just gonna be wishing there were walkways."
+        "I don't think this was your shot.",
+        "Look at them. Look at how happy they are.",
+        "But if you have to ask....",
+        "-Oh, my God, I'm late! -Oh, no, no, no.",
+        "You got the whole night, huh?",
+        "...to scrub that Teflon pan with a plastic brush.",
+        "Okay, go into the bathroom. Use whatever you want.",
+        "Okay, and the robe is lost.",
+        "Well, the way I see it, the guy's upset here, you know?",
+        "...and beautiful, intelligent, unattainable...."
       ],
       "koreanHints": [
-        "1. 배불러?",
-        "2. 정말 좋은 생각이야. - 그러게 말이야.",
-        "3. 여기가 더 조용하네."
+        "1. 이게 네 기회였던 것 같진 않아.",
+        "2. 저들 좀 봐. 얼마나 행복해 보이는지.",
+        "3. 내가 보기에는, 이 남자가 속상한 거잖아, 그렇지?"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- Are you full? : 식사 후 \"배불러?\" 묻는 가장 자연스러운 표현. \"Did you eat enough?\"보다 훨씬 캐주얼하고 일상적\n- Tell me about it : \"그러게 말이야\", \"정말 그래\" 라는 의미로 상대방 말에 강하게 공감할 때 쓰는 관용구. 실제로 뭔가 말해달라는 게 아님\n- down here : 단순히 \"여기\"가 아니라 \"이 아래쪽\", \"이쪽으로 내려온 곳\"이라는 공간적 위치를 자연스럽게 표현"
-    },
-    {
-      "time": "PM 02:44",
-      "episode": "The Office - S02E09  Email Surveillance",
-      "dialogues": [
-        "He told me he couldn't show it to me, but he has a gun.",
-        "No, try Michael Scott.",
-        "Alright everybody. Lock the doors. Turn off the lights.",
-        "If I step on a mine in Scranton, Pennsylvania,",
-        "We have a serious problem here.",
-        "Maybe we can get him to hide and wait somewhere.",
-        "Crew that I am one of.",
-        "Of course. Hanging with my crew.",
-        "- No thanks. - Alright.",
-        "Okay, this is a duet, so, somebody else ?"
-      ],
-      "koreanHints": [
-        "1. 우리 여기 심각한 문제가 생겼어요.",
-        "2. 이건 듀엣이니까, 다른 사람 누가 할래요?",
-        "3. 당연하죠. 제 친구들이랑 놀아요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- We have a serious problem here : 단순히 \"문제가 있다\"가 아니라 \"심각한 문제가 생겼다\"며 상황의 중대함을 강조할 때 쓰는 표현. here를 붙이면 지금 이 상황에서라는 긴박함이 더해집니다.\n- somebody else : 다른 누군가를 제안하거나 찾을 때 쓰는 자연스러운 표현. anyone else보다 구어체에서 더 흔하게 사용됩니다.\n- hanging with : hang out과 같은 의미지만 더 캐주얼하고 젊은 느낌. 친구들과 시간을 보낸다는 뉘앙스로 원어민이 일상에서 자주 씁니다.\n- my crew : 내 친구들, 내 무리를 뜻하는 구어체 표현. team이나 friends보다 친밀하고 결속력 있는 그룹이라는 느낌을 줍니다."
-    },
-    {
-      "time": "PM 06:00",
-      "episode": "How I Met Your Mother - S09E21  Gary Blauman",
-      "dialogues": [
-        "Please stick around, for the bride.",
-        "in Europe on his honeymoon.",
-        "Singles tables are cruel.",
-        "I mean, where's he gonna sit?",
-        "(laughs) Okay. (chuckles)",
-        "I was surprised when you called.",
-        "Right?! Oh, and when he was at Harvard...",
-        "Hey, there's the blushing bride...",
-        "with the 50-page manuscript in Roosevelt's breast pocket",
-        "Teddy Roosevelt was the coolest guy ever."
-      ],
-      "koreanHints": [
-        "1. 신부를 위해서라도 좀 남아있어 줘.",
-        "2. 싱글 테이블은 정말 잔인해.",
-        "3. 네가 전화해서 놀랐어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- stick around : 그냥 '머물다'가 아니라 '(떠나지 않고) 계속 남아있다, 근처에 있어주다'라는 캐주얼한 표현. stay보다 구어적이고 자연스러움\n- for the bride : '신부를 위해서'라는 의미로, for someone을 써서 누군가를 배려하거나 그 사람 때문에 뭔가를 한다는 뉘앙스\n- Singles tables are cruel : 결혼식이나 파티에서 혼자 온 사람들을 한 테이블에 앉히는 관습을 비판하는 표현. cruel은 '잔인하다, 가혹하다'는 강한 표현\n- I was surprised when : 과거의 특정 시점에 놀랐던 감정을 표현할 때 쓰는 자연스러운 패턴"
-    },
-    {
-      "time": "PM 10:10",
-      "episode": "Friends - S01E21  The One with the Fake Monica",
-      "dialogues": [
-        "Say what's in your heart.",
-        "Doesn't make any sense.",
-        "Would you go out with me?",
-        "- Well, Ross doesn't. - We'd like it if no one told him yet.",
-        "- Actually, it looks really good. - It looks pretty good!",
-        "...that it mattered what I said or where I said it.",
-        "Then all your stuff would be here.",
-        "You are so great! I love you.",
-        "Or all the things you taught him.",
-        "You go seduce her until she cracks."
-      ],
-      "koreanHints": [
-        "1. 마음속에 있는 걸 말해봐.",
-        "2. 전혀 말이 안 되는데.",
-        "3. 나랑 데이트할래?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- what's in your heart : 마음속 깊이 있는 진심, 진짜 감정을 의미. \"tell me your feelings\"보다 더 깊고 진솔한 감정을 요구할 때 사용\n- make sense : 논리적으로 이치에 맞다, 이해가 된다는 뜻. 부정형으로 쓰면 \"말도 안 된다, 앞뒤가 안 맞는다\"는 의미\n- go out with someone : 데이트하다, 사귀다. \"date\"보다 자연스럽고 캐주얼한 표현으로 원어민이 더 자주 사용"
+      "keyExpressions": "💡 핵심 표현:\n- this was your shot: '이게 네 기회였다'는 의미로, shot은 기회, 시도를 뜻하는 구어 표현. 과거형으로 쓰여 '그게 네 기회였다'고 회고할 때 자주 사용\n- Look at how + 형용사 + 주어 + 동사: '얼마나 ~한지 봐'라는 감탄 표현. how 뒤에 형용사를 써서 정도를 강조\n- the way I see it: '내가 보기에는, 내 생각에는'이라는 의미로 자신의 의견을 부드럽게 제시할 때 쓰는 관용구"
     }
   ]
 }
