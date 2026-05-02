@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 2.",
+  "date": "2026. 5. 3.",
   "sessions": [
     {
-      "time": "AM 07:40",
-      "episode": "Friends - S01E06  The One with the Butt",
+      "time": "AM 07:30",
+      "episode": "How I Met Your Mother - S04E16  Sorry, Bro",
       "dialogues": [
-        "I don't think this was your shot.",
-        "Look at them. Look at how happy they are.",
-        "But if you have to ask....",
-        "-Oh, my God, I'm late! -Oh, no, no, no.",
-        "You got the whole night, huh?",
-        "...to scrub that Teflon pan with a plastic brush.",
-        "Okay, go into the bathroom. Use whatever you want.",
-        "Okay, and the robe is lost.",
-        "Well, the way I see it, the guy's upset here, you know?",
-        "...and beautiful, intelligent, unattainable...."
+        "You thought I actually bought tickets to wrestlemania?",
+        "We all did stuff we regret in college.",
+        "Pants story. Tell it again.",
+        "Oh. Yeah, the pants story.",
+        "I guess having lunch with her just reminded me of what it was like to be 18",
+        "It was great. It was great.",
+        "What? That's it. It was just one kiss in the restaurant.",
+        "You guys know what I mean. Ted's gonna fall in love,",
+        "when you were a fresh-faced farm girl with a virgin's glow.",
+        "and then Karen's gonna cheat on him"
       ],
       "koreanHints": [
-        "1. 이게 네 기회였던 것 같진 않아.",
-        "2. 저들 좀 봐. 얼마나 행복해 보이는지.",
-        "3. 내가 보기에는, 이 남자가 속상한 거잖아, 그렇지?"
+        "1. 우리 다 대학 때 후회되는 짓 했잖아.",
+        "2. 그녀랑 점심 먹는 게 18살 때가 어땠는지 생각나게 한 것 같아.",
+        "3. 테드는 사랑에 빠질 거고, 그다음에 카렌이 바람피울 거야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- this was your shot: '이게 네 기회였다'는 의미로, shot은 기회, 시도를 뜻하는 구어 표현. 과거형으로 쓰여 '그게 네 기회였다'고 회고할 때 자주 사용\n- Look at how + 형용사 + 주어 + 동사: '얼마나 ~한지 봐'라는 감탄 표현. how 뒤에 형용사를 써서 정도를 강조\n- the way I see it: '내가 보기에는, 내 생각에는'이라는 의미로 자신의 의견을 부드럽게 제시할 때 쓰는 관용구"
-    },
-    {
-      "time": "PM 02:13",
-      "episode": "Modern Family - S07E18  The Party",
-      "dialogues": [
-        "but two hot exchange students just started at our school.",
-        "I finished a big job for a spa,",
-        "I still got it on Betamax.",
-        "Well, that's a lot of talk coming from a couple jabronis.",
-        "Everyone just be cool!",
-        "Call Claire. She's not home.",
-        "Are you okay? Oh, God.",
-        "Does that technology work on people too?",
-        "Oh, Manny meant pancakes.",
-        "but Jay gets uncomfortable when it's just the two of us."
-      ],
-      "koreanHints": [
-        "1. 글쎄, 그건 떠벌이들 치고는 말이 좀 많은데.",
-        "2. 그거 사람한테도 되나요?",
-        "3. 제이는 우리 둘만 있으면 불편해해."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- that's a lot of talk coming from : ~치고는 말이 많다, ~가 그런 말을 하다니 건방지다는 뉘앙스. 상대방이 자격이나 실력이 없는데 큰소리칠 때 빈정대듯 쓰는 표현\n- jabroni : 바보, 허풍쟁이, 별 볼일 없는 사람을 가리키는 구어체 표현. 가볍게 놀리거나 무시할 때 사용\n- work on : ~에 효과가 있다, ~에게 통하다. 약이나 방법이 특정 대상에게 효과적인지 물을 때 자주 쓰임\n- get uncomfortable : 불편해지다, 어색해지다. 심리적으로 편하지 않은 상태를 나타낼 때 쓰는 자연스러운 표현\n- when it's just the two of us : 우리 둘만 있을 때. 제3자 없이 단둘이 있는 상황을 표현하는 관용적 말투"
-    },
-    {
-      "time": "PM 05:20",
-      "episode": "How I Met Your Mother - S01E02  Purple Giraffe",
-      "dialogues": [
-        "What, like what? It's like, like, \"Let's fall in love,",
-        "OLDER TED: She didn't show up.",
-        "So, uh, hey, you, uh, reporting a news story or something?",
-        "This Friday. Did I say next Friday? Yeah, sorry.",
-        "I think I'm in love with you.",
-        "Lily recognized me from the news...",
-        "Hi, have you met Ted?",
-        "And then I saw Robin. She was incredible.",
-        "which made me say something stupid.",
-        "Hey, she's gonna show up."
-      ],
-      "koreanHints": [
-        "1. 그녀 올 거야.",
-        "2. 뭐라는 거야, 무슨? 그러니까, \"사랑에 빠지자\"는 식으로",
-        "3. 그게 나한테 바보 같은 말을 하게 만들었어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- show up : 나타나다, 오다. come보다 구어적이고 자연스러운 표현. 약속 장소에 도착하거나 기대했던 사람이 나타날 때 씀\n- like what : 상대방 말을 되물으며 구체적 설명을 요구할 때. \"무슨 소리야?\", \"예를 들면?\" 같은 뉘앙스\n- made me say/do : ~가 나로 하여금 ~하게 만들었다. 외부 상황이나 감정이 자신의 행동에 영향을 줬을 때 책임을 부드럽게 전가하는 표현\n- something stupid : 바보 같은 짓/말. 실수나 후회되는 행동을 가볍게 표현할 때 자주 씀"
-    },
-    {
-      "time": "PM 10:00",
-      "episode": "Seinfeld - S09E11  The Dealership",
-      "dialogues": [
-        "It's wrinkled. It's worthless.",
-        "Maybe we'd better get moving.",
-        "Make this next right and swing back to the dealership.",
-        "They put out some more doughnuts.",
-        "What do you think the Nazis were doing? That was the heil- five.",
-        "What I would do with you.",
-        "That's the hot colour. High-five.",
-        "Have you noticed your boyfriend has developed an annoying little habit?",
-        "Can I interest you in a little supplemental restraint?",
-        "Why don't we take this boiler out for a shakedown, huh?"
-      ],
-      "koreanHints": [
-        "1. 우리 이제 출발하는 게 좋겠어.",
-        "2. 이 차를 한번 몰아보는 게 어때요?",
-        "3. 다음 코너에서 우회전해서 딜러십으로 돌아가."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- we'd better get moving : 단순히 \"가자\"가 아니라 \"슬슬 출발해야겠다\"는 뉘앙스. get moving은 행동을 시작하거나 서두르자는 의미로 자주 쓰임\n- take something out for a shakedown : 새 차나 장비를 시험 삼아 운전해보다. shakedown은 성능 테스트를 의미하는 구어체 표현\n- make this next right : 운전 중 길안내할 때 쓰는 자연스러운 표현. \"다음에 우회전해\"라는 의미\n- swing back : 단순히 돌아가는 게 아니라 빙 돌아서 되돌아간다는 느낌. 캐주얼한 표현"
+      "keyExpressions": "💡 핵심 표현:\n- stuff we regret : 후회되는 일들. stuff는 구어체에서 things보다 훨씬 자주 쓰이며 구체적으로 명시하지 않아도 될 일들을 뭉뚱그려 말할 때 사용\n- remind someone of : ~에게 ~을 생각나게 하다. 과거 기억이나 느낌을 떠올리게 할 때 쓰는 자연스러운 표현\n- what it was like to : ~하는 게 어땠는지. 과거 경험이나 상황을 회상할 때 쓰는 원어민 필수 패턴\n- gonna fall in love : 사랑에 빠질 거야. gonna는 구어체에서 going to보다 압도적으로 많이 쓰임\n- cheat on someone : ~에게 바람피우다. 연인 관계에서 배신할 때 쓰는 대표적인 표현"
     }
   ]
 }
