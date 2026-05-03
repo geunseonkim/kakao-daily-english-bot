@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 3.",
+  "date": "2026. 5. 4.",
   "sessions": [
     {
       "time": "AM 07:30",
-      "episode": "How I Met Your Mother - S04E16  Sorry, Bro",
+      "episode": "Seinfeld - S03E06  The Parking Garage",
       "dialogues": [
-        "You thought I actually bought tickets to wrestlemania?",
-        "We all did stuff we regret in college.",
-        "Pants story. Tell it again.",
-        "Oh. Yeah, the pants story.",
-        "I guess having lunch with her just reminded me of what it was like to be 18",
-        "It was great. It was great.",
-        "What? That's it. It was just one kiss in the restaurant.",
-        "You guys know what I mean. Ted's gonna fall in love,",
-        "when you were a fresh-faced farm girl with a virgin's glow.",
-        "and then Karen's gonna cheat on him"
+        "Okay, my fish are dying right in front of me.",
+        "You know I looked everywhere?",
+        "You should see what my father used to do before he bought a new car.",
+        "You're aware of that? Kill them.",
+        "-What's with you? -My ear itches.",
+        "Every one of them believed that the secret of life...",
+        "...for my living room. This was a waste of time.",
+        "-Isn't it the other way? -There's no other way.",
+        "...you still don't really know, sometimes, which way to walk...",
+        "...we'll find the car, Jerry will show up and we'll never find you!"
       ],
       "koreanHints": [
-        "1. 우리 다 대학 때 후회되는 짓 했잖아.",
-        "2. 그녀랑 점심 먹는 게 18살 때가 어땠는지 생각나게 한 것 같아.",
-        "3. 테드는 사랑에 빠질 거고, 그다음에 카렌이 바람피울 거야."
+        "1. 저기요, 제 물고기들이 지금 제 눈앞에서 죽어가고 있어요.",
+        "2. 제가 어디든 다 찾아봤다는 거 알죠?",
+        "3. 우리 아버지가 새 차 사시기 전에 뭘 하셨는지 보셨어야 하는데."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- stuff we regret : 후회되는 일들. stuff는 구어체에서 things보다 훨씬 자주 쓰이며 구체적으로 명시하지 않아도 될 일들을 뭉뚱그려 말할 때 사용\n- remind someone of : ~에게 ~을 생각나게 하다. 과거 기억이나 느낌을 떠올리게 할 때 쓰는 자연스러운 표현\n- what it was like to : ~하는 게 어땠는지. 과거 경험이나 상황을 회상할 때 쓰는 원어민 필수 패턴\n- gonna fall in love : 사랑에 빠질 거야. gonna는 구어체에서 going to보다 압도적으로 많이 쓰임\n- cheat on someone : ~에게 바람피우다. 연인 관계에서 배신할 때 쓰는 대표적인 표현"
-    },
-    {
-      "time": "PM 02:32",
-      "episode": "Modern Family - S11E17  Finale (1)",
-      "dialogues": [
-        "but you cannot repeat it to anyone, especially Mitchell!",
-        "already sad about Mitchell leaving,",
-        "He's a big guy, like Cam,",
-        "It was enough to make you curse God",
-        "He was the only constant.",
-        "that there's a second side to my note.",
-        "and it spits it right back at me in Español.",
-        "I'm sorry, I mean \"Spanish.\"",
-        "That... There, that's it. I'm done.",
-        "Thank you for allowing me"
-      ],
-      "koreanHints": [
-        "1. 누구한테도 이 얘기 반복하면 안 돼요, 특히 Mitchell한테는요!",
-        "2. 신을 저주하고 싶을 만큼 충분했어",
-        "3. 저기, 그거야. 나 끝났어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- repeat it to anyone : 단순히 \"말하다\"가 아니라 \"남의 말을 다른 사람에게 옮기다, 퍼뜨리다\"라는 뉘앙스. 비밀이나 gossip 상황에서 자주 쓰임\n- enough to make you ~ : \"~할 만큼 충분히\"라는 의미로, 어떤 상황이 극단적인 반응을 일으킬 정도로 심각함을 표현\n- that's it : \"그게 다야, 끝이야\"라는 뉘앙스. 포기, 결정, 마무리 등 다양한 상황에서 쓰이는 원어민 필수 표현\n- I'm done : \"나 끝났어\"로 과제 완료부터 포기, 지침, 관계 종료까지 문맥에 따라 다양하게 쓰임"
-    },
-    {
-      "time": "PM 05:46",
-      "episode": "How I Met Your Mother - S08E16  Bad Crazy",
-      "dialogues": [
-        "The girl who finally got me to say...",
-        "on the bus and I let that old lady pick him up?",
-        "He probably just wants to be held.",
-        "The truth was, the thought of holding him terrified her,",
-        "Oh, no, it looks like somebody's not happy.",
-        "Okay. Well, uh, Jeanette is a big Marilyn Monroe fan.",
-        "Screw loose! That's the problem.",
-        "NARRATOR: And that, kids, was how I found out",
-        "There you go! Now it's working!",
-        "But, kids, I'll be honest."
-      ],
-      "koreanHints": [
-        "1. 그 애 아마 그냥 안아주길 원하는 것 같아.",
-        "2. 사실은, 그를 안아주는 것에 대한 생각이 그녀를 겁먹게 했어.",
-        "3. 저기, 누군가 기분이 안 좋은 것 같은데."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- want to be held : 안아주길 원하다. 수동태를 활용해 '누군가에게 안기고 싶다'는 뉘앙스를 표현. hold는 단순히 '잡다'가 아닌 '품에 안다'는 따뜻한 느낌.\n- the thought of ~ing : ~한다는 생각만으로도. 실제 행동이 아닌 생각 자체를 명사화할 때 쓰는 자연스러운 패턴.\n- terrify : 겁먹게 하다, 공포를 주다. scare보다 강한 느낌으로 심리적으로 압도당하는 상태를 표현.\n- it looks like : ~인 것 같다. seems보다 구어적이고 자연스러운 추측 표현.\n- somebody's not happy : 누군가 기분이 안 좋다. 완곡하게 불만이나 화난 상태를 표현하는 원어민다운 말투."
-    },
-    {
-      "time": "PM 09:59",
-      "episode": "The Office - S05E08  Frame Toby",
-      "dialogues": [
-        "Also, it's icky back there.",
-        "Their heart's in the right place.",
-        "David Wallace is on the line for you.",
-        "Maybe I just block Toby from my mind.",
-        "You're eating them so fast, are they even touching your tongue?",
-        "Toby works here again.",
-        "Yeah, punch him. Hey, hey.",
-        "No. For one thing, he's not gay.",
-        "is the obnoxious one?",
-        "You should probably just meander back there,"
-      ],
-      "koreanHints": [
-        "1. 그 사람들도 나쁜 의도는 아니야.",
-        "2. 너무 빨리 먹어서 혀에 닿기는 하는 거야?",
-        "3. 그냥 슬슬 저쪽으로 가 있는 게 좋을 것 같은데."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- one's heart is in the right place : 의도는 좋다, 나쁜 마음은 없다는 뜻. 결과가 좋지 않거나 방법이 서툴러도 선한 의도였음을 인정할 때 쓰는 표현\n- are they even : 의문문에서 even을 넣어 회의적이거나 놀라움을 표현. \"정말 ~하기는 한 거야?\"라는 뉘앙스\n- meander : 천천히 어슬렁거리며 가다, 빙 돌아가다. 직접적이지 않고 느긋하게 움직이는 모습을 표현하는 단어"
+      "keyExpressions": "💡 핵심 표현:\n- right in front of me : 바로 내 눈앞에서. 상황의 급박함이나 명백함을 강조할 때 사용하는 표현\n- I looked everywhere : 모든 곳을 다 찾아봤다는 의미. 철저히 찾았음을 나타낼 때 쓰는 자연스러운 표현\n- You should see : 상대방이 직접 봤어야 한다는 뉘앙스로, 놀라운 일이나 믿기 어려운 일을 설명할 때 쓰는 구어체 표현\n- used to do : 과거의 습관이나 반복적 행동을 나타내는 표현"
     }
   ]
 }
