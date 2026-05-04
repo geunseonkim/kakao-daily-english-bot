@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 4.",
+  "date": "2026. 5. 5.",
   "sessions": [
     {
-      "time": "AM 07:30",
-      "episode": "Seinfeld - S03E06  The Parking Garage",
+      "time": "AM 07:47",
+      "episode": "Friends - S03E18  The One with the Hypnosis Tape",
       "dialogues": [
-        "Okay, my fish are dying right in front of me.",
-        "You know I looked everywhere?",
-        "You should see what my father used to do before he bought a new car.",
-        "You're aware of that? Kill them.",
-        "-What's with you? -My ear itches.",
-        "Every one of them believed that the secret of life...",
-        "...for my living room. This was a waste of time.",
-        "-Isn't it the other way? -There's no other way.",
-        "...you still don't really know, sometimes, which way to walk...",
-        "...we'll find the car, Jerry will show up and we'll never find you!"
+        "OH, THIS IS JUST SO EXCITING.",
+        "AND THEN I TRIED TO FIND A PAY PHONE",
+        "I NEVER HAD A DAD AROUND, AND NOW I ALWAYS WILL",
+        "WHAT DOES AGE MATTER?",
+        "I HAVE EVERYTHING TO LOSE.",
+        "\"HEY! LET'S GO HANG OUT AT TOTALLY NUDE NUDES.\"",
+        "AND THEN YOU'RE GOING TO HATE YOURSELF.",
+        "OH, MY GOD. MONICA'S GOING TO GO OUT",
+        "ARE ELIGIBLE STRAIGHT MEN.",
+        "PHEEBS, HE'S NOT A MIND READER."
       ],
       "koreanHints": [
-        "1. 저기요, 제 물고기들이 지금 제 눈앞에서 죽어가고 있어요.",
-        "2. 제가 어디든 다 찾아봤다는 거 알죠?",
-        "3. 우리 아버지가 새 차 사시기 전에 뭘 하셨는지 보셨어야 하는데."
+        "1. 나이가 무슨 상관이야?",
+        "2. 나한텐 잃을 게 너무 많아.",
+        "3. 그리고 나서 너 자신이 정말 싫어질 거야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- right in front of me : 바로 내 눈앞에서. 상황의 급박함이나 명백함을 강조할 때 사용하는 표현\n- I looked everywhere : 모든 곳을 다 찾아봤다는 의미. 철저히 찾았음을 나타낼 때 쓰는 자연스러운 표현\n- You should see : 상대방이 직접 봤어야 한다는 뉘앙스로, 놀라운 일이나 믿기 어려운 일을 설명할 때 쓰는 구어체 표현\n- used to do : 과거의 습관이나 반복적 행동을 나타내는 표현"
-    },
-    {
-      "time": "PM 02:36",
-      "episode": "Seinfeld - S09E09  The Apology",
-      "dialogues": [
-        "You got some suds over here.",
-        "You know, George, I think I can help you.",
-        "is that there's good naked and bad naked.",
-        "and suffering from intense malaise.",
-        "When are you getting out?",
-        "I asked if I could borrow a sweater.",
-        "\"Dismantle latch hasp beneath main drainage line.\"",
-        "Well, maybe she just practices good hygiene.",
-        "Oh, okay. Well, thanks, buddy.",
-        "Is there anybody else here but you?"
-      ],
-      "koreanHints": [
-        "1. 내가 도와줄 수 있을 것 같은데.",
-        "2. 좋은 노출이 있고 나쁜 노출이 있다는 거야.",
-        "3. 그냥 위생관념이 철저한 거 아닐까."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I think I can help you : 상대방에게 도움을 제안할 때 쓰는 부드러운 표현. \"I can help you\"보다 \"I think\"를 붙여서 겸손하고 조심스럽게 제안하는 뉘앙스\n- there's good A and bad A : 같은 범주 안에서도 좋고 나쁨이 구분된다는 걸 표현할 때. 일상에서 의견을 나눌 때 자주 쓰는 패턴\n- practice good hygiene : \"위생을 철저히 지키다\"라는 의미. practice는 \"실천하다, 습관적으로 하다\"의 뉘앙스로 good habits, safe sex 등과도 자주 쓰임"
-    },
-    {
-      "time": "PM 06:18",
-      "episode": "How I Met Your Mother - S08E05  The Autumn of Break-Ups",
-      "dialogues": [
-        "You've been a hell of a wingman.",
-        "the Mosby Boys were put on the case, and it was...",
-        "That was Victoria asking you to move to Denver with her.",
-        "I'll go... Aah... fetch him.",
-        "I think he always wanted a wingman who was a bit of a dog too.",
-        "Besides, we dated before, and that time counts.",
-        "Ted, tell her that you're not gonna stop being friends with Robin.",
-        "You guys dated before. That time counts.",
-        "That dude seems fine to me.",
-        "Why did you need to tell me that?"
-      ],
-      "koreanHints": [
-        "1. 넌 정말 최고의 조력자였어.",
-        "2. 우리 전에 사귄 적 있잖아. 그건 포함되는 거야.",
-        "3. 왜 굳이 나한테 그걸 말해야 했어?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- a hell of a : 정말 대단한, 엄청난 (긍정적 강조 표현. a hell of a guy, a hell of a night 등으로 활용)\n- wingman : 친구의 연애를 돕는 조력자 (원래 전투기 편대 비행에서 유래. 일상에서 친구를 돕는 사람을 의미)\n- That counts : 그것도 포함돼, 그것도 인정돼 (계산이나 고려 대상에 들어간다는 의미)\n- Why did you need to~ : 왜 굳이 ~해야 했어? (need to를 써서 불필요했다는 불만을 은근히 표현)"
-    },
-    {
-      "time": "PM 10:48",
-      "episode": "The Office - S04E12  Did I Stutter?",
-      "dialogues": [
-        "I'm glad you're here.",
-        "Just go back in there and stay composed, all right?",
-        "- He needs help balancing some travel receipts.",
-        "It's strictly Scranton business. Two seconds.",
-        "My friend Disray got news specs. Disray spect.",
-        "- You don't need to go any further. Her breasts?",
-        "What do you call a butt load of lawyers driving off a cliff?",
-        "- So you have to know how to work this.",
-        "\"More tomorrow. xoxo, Michael.\"",
-        "- were having sex. - Oh."
-      ],
-      "koreanHints": [
-        "1. 네가 여기 있어서 다행이야.",
-        "2. 그냥 다시 들어가서 침착함을 유지해, 알았지?",
-        "3. 그거 어떻게 다루는지 알아야 해."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I'm glad ~: 기쁘다, 다행이다라는 뉘앙스로 감사나 안도감을 자연스럽게 표현. I'm happy보다 차분하고 진심 어린 느낌\n- stay composed: 침착함을 유지하다. stay calm보다 격식 있고 감정 통제의 의미가 강함. 긴장되거나 스트레스 상황에서 많이 사용\n- know how to work something: 어떤 것을 다루는 법을 안다. work는 기계나 시스템을 작동시키거나 다룬다는 실용적 의미\n- go back in there: 다시 그 안으로 들어가다. there을 붙여 특정 장소나 상황을 지칭하는 구어체 표현\n- all right?: 문장 끝에 붙여 확인이나 동의를 구하는 표현. okay?보다 부드럽고 설득적"
+      "keyExpressions": "💡 핵심 표현:\n- What does [X] matter? : \"~이 무슨 상관이야?\"라는 뉘앙스로, 어떤 것이 중요하지 않다고 반문할 때 쓰는 표현. What does it matter?처럼 단독으로도 자주 사용됨\n- have everything to lose : 잃을 게 많다는 의미로, 현재 가진 것이 많아서 위험을 감수하기 어려운 상황을 표현. 반대는 have nothing to lose\n- hate yourself : 자신의 행동에 대해 후회하고 자책할 때 쓰는 표현. 실제로 자신을 미워한다기보다 강한 후회를 나타냄"
     }
   ]
 }
