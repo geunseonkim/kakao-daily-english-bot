@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 10.",
+  "date": "2026. 5. 11.",
   "sessions": [
     {
-      "time": "AM 07:32",
-      "episode": "Modern Family - S08E01  A Tale of Three Cities",
+      "time": "AM 07:36",
+      "episode": "Modern Family - S10E02  Kiss and Tell",
       "dialogues": [
-        "Oh, let go -- let go of my hair.",
-        "Aromatic cedar flakeboard -- game a-changed.",
-        "that I am a very successful businesswoman.",
-        "Okay, yeah, t-teach me that.",
-        "You always take your family's side.",
-        "But we arrived to find Cam's grandma on her deathbed.",
-        "It just popped into my head",
-        "I guess it looks weird with us parked right here",
-        "I'm gonna take a quick tub.",
-        "by accidentally erasing her \"Matlocks.\""
+        "because, as gays, we wouldn't dare judge anyone",
+        "and that Mitch and Cam had them.",
+        "I let Dylan get in my head,",
+        "when your people act very emotional",
+        "What's going on with you?",
+        "They happened with them,",
+        "but, regardless, I want to be supportive.",
+        "I kissed my ex-boyfriend!",
+        "you got all defensive, and you boob-shamed me.",
+        "What I want to do is hang up on you right now."
       ],
       "koreanHints": [
-        "1. 너 맨날 네 가족 편만 들잖아.",
-        "2. 그냥 갑자기 생각났어.",
-        "3. 우리가 바로 여기 주차해 있으니까 좀 이상해 보이긴 하네."
+        "1. 딜런이 내 머릿속에 들어와서 이상한 생각을 하게 만들었어.",
+        "2. 무슨 일 있어?",
+        "3. 지금 당장 전화 끊고 싶은 심정이야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- take someone's side : 누군가의 편을 들다. 중립적이지 않고 한쪽을 지지한다는 의미로, 갈등 상황에서 자주 쓰이는 표현\n- pop into one's head : (생각이) 갑자기 떠오르다. 계획하지 않았는데 불현듯 생각이 난다는 자연스러운 뉘앙스\n- I guess : 추측이나 완곡한 의견 표현. 단정짓지 않고 부드럽게 말할 때 원어민들이 습관적으로 사용"
-    },
-    {
-      "time": "PM 02:39",
-      "episode": "Seinfeld - S03E15  The Suicide",
-      "dialogues": [
-        "- Right. How much do they cost? - The junior?",
-        "and you don't have the guts to kiss his girlfriend?",
-        "It stung my foot. That's probably what Rula was trying to warn you about.",
-        "You're a little paranormal.",
-        "- Really? - We should go sometime.",
-        "The plain cake with the sweet brown crumbs on the top.",
-        "But your mother's bald too.",
-        "- How you doing? - Good enough.",
-        "Well, once I didn't have dinner till, like, 9:00.",
-        "Then kiss me right in front of him."
-      ],
-      "koreanHints": [
-        "1. 그런데 넌 그 친구 여자친구한테 키스할 배짱도 없다고?",
-        "2. 충분히 잘 지내.",
-        "3. 그럼 그 앞에서 나한테 키스해."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- have the guts to : 무언가를 할 용기나 배짱이 있다는 의미. have the courage보다 구어체이고 좀 더 대담한 느낌을 줌. 주로 부정문이나 의문문에서 누군가를 도발하거나 비꼬는 뉘앙스로 자주 쓰임\n- good enough : 완벽하진 않지만 괜찮다, 충분히 좋다는 의미. 상태를 물을 때 great이나 fine보다 현실적이고 솔직한 답변으로 쓰임\n- right in front of : 바로 앞에서, 눈앞에서라는 의미. right가 붙어서 직접적이고 대담한 느낌을 강조함"
-    },
-    {
-      "time": "PM 05:53",
-      "episode": "Friends - S08E20  The One with the Baby Shower",
-      "dialogues": [
-        "- Spiteful? - That's right.",
-        "We'll take care of it. We'll call her. You go home and get ready.",
-        "It's Bogota, but close enough.",
-        "The audition's in a couple hours, and I don't understand the game.",
-        "You're right. I'm about to have a baby.",
-        "And by the way, you're very pretty.\"",
-        "You know what? Maybe it's not absolutely vital that you live with us.",
-        "Do you want some help?",
-        "You know, before there was television.",
-        "And when I say people, I mean me."
-      ],
-      "koreanHints": [
-        "1. 우리가 처리할게. 우리가 그녀한테 전화할게. 너는 집에 가서 준비해.",
-        "2. 있잖아, 네가 우리랑 꼭 같이 살아야 하는 건 아닐 수도 있어.",
-        "3. 도움이 필요해?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- take care of it : 어떤 일을 책임지고 처리하겠다는 뉘앙스. 상대방을 안심시키면서 맡기라고 할 때 자주 쓰는 표현\n- You know what? : 말을 꺼내기 전에 상대방의 주의를 환기시키거나, 조심스럽게 새로운 의견을 제시할 때 쓰는 표현\n- absolutely vital : 절대적으로 필수적이라는 강조 표현. vital만 써도 되지만 absolutely를 붙여 강조의 정도를 조절\n- Do you want some help? : 도움이 필요한지 부드럽게 묻는 표현. Need 대신 want를 써서 더 자연스럽고 부담 없는 느낌"
-    },
-    {
-      "time": "PM 10:07",
-      "episode": "Modern Family - S04E24  Goodnight, Gracie",
-      "dialogues": [
-        "but she seemed like a lovely woman.",
-        "Really? She must have written it before she died.",
-        "We got some bad news yesterday.",
-        "Ooh, she's tough. [Judge] Next.",
-        "Yeah. This place is full of stories like that.",
-        "- Thirty days in county jail. - [Gavel Raps]",
-        "Hey, guys? I made cookies.",
-        "I'm down there for a funeral... Such a sad event...",
-        "It wasn't unexpected, he was with her...",
-        "I told you I had never been with a woman."
-      ],
-      "koreanHints": [
-        "1. 어제 안 좋은 소식을 들었어요.",
-        "2. 그녀는 좋은 분이셨던 것 같아요.",
-        "3. 여기는 그런 사연들이 정말 많아요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- get (bad) news : 소식을 듣다, 전해 받다. hear news보다 자연스럽고 구어적인 표현. 뉴스를 수동적으로 듣는 것이 아니라 받아들이는 느낌.\n- seem like : ~인 것 같다, ~처럼 보이다. 직접 경험하지 않았지만 간접적으로 느낀 인상을 말할 때 쓰는 자연스러운 표현.\n- be full of : ~로 가득하다. 물리적인 것뿐 아니라 사연, 감정, 가능성 등 추상적인 개념에도 폭넓게 사용.\n- stories like that : 그런 사연들, 그런 이야기들. 앞서 언급된 상황과 비슷한 경우들을 가리킬 때 쓰는 자연스러운 표현."
+      "keyExpressions": "💡 핵심 표현:\n- get in someone's head : 누군가의 생각에 영향을 미치거나 혼란스럽게 만드는 것. 특히 부정적으로 의심이나 불안을 심어줄 때 사용하는 자연스러운 표현\n- What's going on with you? : \"무슨 일이야?\"보다 더 깊은 관심을 보이며 상대의 평소와 다른 행동이나 감정 변화를 물어볼 때 쓰는 표현\n- hang up on someone : 상대방이 말하는 도중에 일방적으로 전화를 끊어버리는 것. 화가 났거나 더 이상 대화하고 싶지 않을 때 사용"
     }
   ]
 }
