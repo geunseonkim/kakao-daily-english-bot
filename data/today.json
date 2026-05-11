@@ -1,49 +1,27 @@
 {
-  "date": "2026. 5. 11.",
+  "date": "2026. 5. 12.",
   "sessions": [
     {
-      "time": "AM 07:36",
-      "episode": "Modern Family - S10E02  Kiss and Tell",
+      "time": "AM 07:44",
+      "episode": "Friends - S09E11  The One Where Rachel Goes Back to Work",
       "dialogues": [
-        "because, as gays, we wouldn't dare judge anyone",
-        "and that Mitch and Cam had them.",
-        "I let Dylan get in my head,",
-        "when your people act very emotional",
-        "What's going on with you?",
-        "They happened with them,",
-        "but, regardless, I want to be supportive.",
-        "I kissed my ex-boyfriend!",
-        "you got all defensive, and you boob-shamed me.",
-        "What I want to do is hang up on you right now."
+        "So you have to tell Monica",
+        "but I think I'm caught up on everything.",
+        "Look, I'm starting a whole new career now.",
+        "All right, well, there you go, you win.",
+        "and it's your job and you're a little crazy.",
+        "Hey, listen, Pheebs, I was just talking to the director",
+        "No one will ever remember that I worked here.",
+        "you don't hit Drake... You just wait on the tables.",
+        "but I would call security.",
+        "You win. You get to do the presentation."
       ],
       "koreanHints": [
-        "1. 딜런이 내 머릿속에 들어와서 이상한 생각을 하게 만들었어.",
-        "2. 무슨 일 있어?",
-        "3. 지금 당장 전화 끊고 싶은 심정이야."
+        "1. 이제 완전히 새로운 커리어를 시작하는 거잖아.",
+        "2. 네가 이겼어. 네가 프레젠테이션 하는 거야.",
+        "3. 내가 여기서 일했던 것도 아무도 기억 못 할 거야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- get in someone's head : 누군가의 생각에 영향을 미치거나 혼란스럽게 만드는 것. 특히 부정적으로 의심이나 불안을 심어줄 때 사용하는 자연스러운 표현\n- What's going on with you? : \"무슨 일이야?\"보다 더 깊은 관심을 보이며 상대의 평소와 다른 행동이나 감정 변화를 물어볼 때 쓰는 표현\n- hang up on someone : 상대방이 말하는 도중에 일방적으로 전화를 끊어버리는 것. 화가 났거나 더 이상 대화하고 싶지 않을 때 사용"
-    },
-    {
-      "time": "PM 07:38",
-      "episode": "The Office - S02E14  The Carpet",
-      "dialogues": [
-        "and it was directed at me.",
-        "So, this is sort of like my audition tape.",
-        "I think I can have a career as a very specific",
-        "But it's... but it was still wrong.",
-        "He'd come in and sit there sometimes. Ah.",
-        "No, I'm not holding your coffee.",
-        "I didn't get a good look at it.",
-        "Jim's been looking at me kind of a lot all week.",
-        "You can't expect to be friends with everybody.",
-        "Whoa! God! Yuck! Yuck, yuck, yuck."
-      ],
-      "koreanHints": [
-        "1. 모든 사람이랑 친구가 될 거라고 기대할 순 없잖아.",
-        "2. 제대로 못 봤어요.",
-        "3. 나는 매우 특정한 분야에서 경력을 쌓을 수 있을 것 같아."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- You can't expect to ~ : ~을 기대할 수는 없다는 뉘앙스로, 현실적인 조언이나 위로를 할 때 자주 쓰는 표현. 상대방의 기대치를 낮춰주거나 현실을 직시시킬 때 유용함.\n- get a good look at : 제대로 보다, 자세히 보다는 의미. see와 달리 충분히 관찰할 시간이나 기회가 있었는지를 강조하는 표현.\n- have a career as : ~로서 경력을 쌓다, 직업을 갖다. work as보다 장기적이고 전문적인 진로를 의미함."
+      "keyExpressions": "💡 핵심 표현:\n- a whole new : 완전히 새로운, 전혀 다른 (단순히 new가 아닌 완전한 새출발의 뉘앙스)\n- You win : 네가 이겼어, 네 마음대로 해 (논쟁이나 의견 대립에서 양보할 때 쓰는 표현)\n- get to do : ~할 기회를 갖다, ~하게 되다 (특권이나 기회의 의미를 담은 표현)\n- No one will ever : 절대 아무도 ~하지 않을 것이다 (강한 부정의 뉘앙스)"
     }
   ]
 }
