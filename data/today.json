@@ -1,71 +1,27 @@
 {
-  "date": "2026. 5. 13.",
+  "date": "2026. 5. 14.",
   "sessions": [
     {
-      "time": "AM 07:52",
-      "episode": "Friends - S03E10  The One Where Rachel Quits",
+      "time": "AM 07:56",
+      "episode": "Friends - S08E14  The One with the Secret Closet",
       "dialogues": [
-        "- I'm pressing. - No...",
-        "Well, yeah, I'm still pursuing that.",
-        "Well, I'm also sending out...",
-        "Remember when you came, you spent two weeks getting trained by another waitress?",
-        "All right, do you have any, uh, coconut-flavored deities?",
-        "Since we don't have a TV, the lady across the alley...",
-        "Actually, uh, Terry wants you to take the training again.",
-        "...in, like, tinsel and twinkly lights.",
-        "Remember Dad bought every one of my boxes and I ate them all?",
-        "I think you'd have to clean a whole lot of apartments to go all the way to India."
+        "We can't do that. What if they come by for a visit?",
+        "- What's up? - I left my guitar here.",
+        "- Can I play for you? - No.",
+        "Okay, okay, fine! Now you know. I'm sick.",
+        "- You said everything was okay. - What do I know? I'm not a doctor.",
+        "Who's that annoying girl soccer player?",
+        "I wanted to have a few beers..",
+        "Maybe she's having her cake and eating it too.",
+        "But, Joey, I don't think Ross wants me to move in and disrupt his life.",
+        "Yeah, but hey, hey. You always have liked my building."
       ],
       "koreanHints": [
-        "1. 아, 네 아직 그쪽으로 계속 알아보고 있어요.",
-        "2. 아파트 엄청 많이 청소해야 인도까지 갈 수 있을 것 같은데.",
-        "3. 우리 아빠가 내 판매 박스 다 사주셨고, 나는 그거 다 먹었잖아."
+        "1. 그 사람들이 놀러 오면 어떡하게? 그건 안 돼.",
+        "2. 그녀는 이득만 다 챙기는 것 같아.",
+        "3. 난 로스 생활에 끼어들어서 방해하고 싶지 않아."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- pursue : 단순히 '추구하다'가 아니라 적극적으로 '계속 알아보다, 추진하다'라는 뉘앙스. 진로, 기회, 관계 등을 지속적으로 쫓아갈 때 쓰는 격식있는 표현\n- a whole lot of : '엄청 많은, 상당히 많은'이라는 구어체 강조 표현. a lot of보다 훨씬 강한 느낌\n- go all the way to : 멀리 떨어진 곳까지 '아예, 끝까지, 완전히' 간다는 의미. 물리적 거리뿐 아니라 노력의 정도를 강조할 때도 사용"
-    },
-    {
-      "time": "PM 02:51",
-      "episode": "How I Met Your Mother - S09E19  Vesuvius",
-      "dialogues": [
-        "All right, well, let's, let's pick you a suit.",
-        "he's buried... Behind the very same church,",
-        "I'll get it. Oh, no. Got it. Sit down.",
-        "(sobbing): I can't! I can't.",
-        "Narshall. How dare they?",
-        "Oh! Is this your wedding day? (chuckles)",
-        "it's no big deal. You should be flattered.\"",
-        "if Jed can get his wiener unstuck from that thermos.",
-        "I can't believe that Ted wouldn't let us see it.",
-        "Yeah. Why was he hanging so much beef on this movie?"
-      ],
-      "koreanHints": [
-        "1. 내가 할게. 아 괜찮아. 내가 가져올게. 앉아 있어.",
-        "2. 그렇게까지 큰일은 아니에요. 오히려 좋게 받아들이셔야죠.",
-        "3. 도대체 왜 테드가 그 영화에 그렇게 집착했던 거야?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I'll get it / Got it : 전화나 문 등에 응답할 때, 또는 물건을 가지러 갈 때 쓰는 자연스러운 표현. \"내가 할게\"라는 즉각적인 반응을 나타냄\n- no big deal : \"별일 아니야, 대수롭지 않아\"라는 뜻으로 상황을 가볍게 만들 때 흔히 쓰는 관용구\n- be flattered : 칭찬이나 관심을 받아 기분 좋게 여기다. \"영광으로 알다, 좋게 받아들이다\"\n- hang beef on something : 어떤 일에 지나치게 집착하거나 과도하게 신경 쓰다는 구어체 표현"
-    },
-    {
-      "time": "PM 06:44",
-      "episode": "How I Met Your Mother - S02E02  The Scorpion and the Toad",
-      "dialogues": [
-        "San Francisco is so happening right now.",
-        "Oh, bad news. Marshall got food poisoning.",
-        "Give me the card! I'm not giving you any card.",
-        "Stop it. You don't want to see",
-        "Oh, I've been blabbering on about my summer.",
-        "But it's good, I mean, work is great...",
-        "Trust me. I'm a girl.",
-        "All right. Tonight, we're going to go to the bar...",
-        "You're not going to like it.",
-        "Sorry, buddy, I'm taking this one, too."
-      ],
-      "koreanHints": [
-        "1. 계속 내 여름 얘기만 떠들었네요.",
-        "2. 나쁜 소식이 있어. 마샬이 식중독 걸렸어.",
-        "3. 믿어, 나 여자야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- blabber on about something : 어떤 주제에 대해 쉴 새 없이 떠들다, 장황하게 늘어놓다. talk처럼 중립적이지 않고 자기 반성적이거나 약간 부정적인 뉘앙스가 있음\n- bad news : 나쁜 소식을 전할 때 대화를 시작하는 자연스러운 표현. 뒤에 바로 내용이 이어지며 일상에서 매우 자주 쓰임\n- food poisoning : 식중독. get food poisoning은 식중독에 걸리다는 뜻의 고정 표현\n- Trust me : 상대를 설득하거나 자신의 말에 확신을 심어줄 때 쓰는 표현. 뒤에 이유나 근거를 덧붙이는 패턴이 흔함"
+      "keyExpressions": "💡 핵심 표현:\n- come by : 잠깐 들르다, 방문하다. drop by보다 자연스럽고 캐주얼한 표현으로 원어민들이 일상에서 자주 사용\n- have one's cake and eat it too : 두 가지 이득을 동시에 다 누리다, 좋은 것만 다 가지려 하다. 보통 불가능하거나 욕심 많은 상황을 표현할 때 사용하는 관용구\n- disrupt someone's life : 누군가의 삶을 방해하다, 혼란스럽게 하다. interrupt보다 더 심각하고 지속적인 방해를 의미"
     }
   ]
 }
