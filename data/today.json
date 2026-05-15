@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 15.",
+  "date": "2026. 5. 16.",
   "sessions": [
     {
-      "time": "AM 07:49",
-      "episode": "Modern Family - S02E04  Strangers on a Treadmill",
+      "time": "AM 07:46",
+      "episode": "The Office - S02E04  The Fire",
       "dialogues": [
-        "I just don't think I have to go all arriba, arriba with them.",
-        "Listen, on this very, very happy occasion,",
-        "You don't look good in bicycle shorts.",
-        "Mitchell, get back here!",
-        "Oh, and here she is. Okay, you know what? I can't be here.",
-        "Oh, yeah, no, I heard what you said to my boyfriend.",
-        "You stole my index cards.",
-        "They were right in here. I know, and we looked everywhere, honey.",
-        "This is about a very special young lady...",
-        "Come over and meet my friend Julio and his wife."
+        "Can I just do it, please?",
+        "And he has been a temp here",
+        "Keep an existing cust...",
+        "a permanent number, right?",
+        "Marjorie's not here today.",
+        "to save up money for school.",
+        "they're, like, going out",
+        "You didn't even go to college.",
+        "That's gonna keep you warm",
+        "people read more books."
       ],
       "koreanHints": [
-        "1. 자전거 반바지는 너한테 안 어울려.",
-        "2. 아, 그래, 내 남자친구한테 뭐라고 한 거 다 들었어.",
-        "3. 이리 와서 내 친구 훌리오랑 그 부인 만나봐."
+        "1. 그냥 제가 해도 될까요?",
+        "2. 학비 모으려고요.",
+        "3. 너 대학도 안 나왔잖아."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- look good in : ~을 입었을 때 잘 어울리다, ~이 어울리다. 옷이나 특정 스타일이 그 사람에게 잘 맞는지 평가할 때 쓰는 자연스러운 표현\n- Oh, yeah, no : 아이러니하거나 부정적인 뉘앙스를 강조할 때 쓰는 구어체 표현. yeah 뒤에 no가 와서 \"그래, 맞아, 근데 아니지\"라는 느낌\n- I heard what you said : 누군가 한 말을 이미 들었다고 할 때. 간접적으로 따지거나 문제 삼을 때 자주 사용\n- Come over : 이쪽으로 오다, 방문하다. 캐주얼한 초대나 부를 때 쓰는 필수 표현\n- meet my friend : 친구를 소개할 때 쓰는 가장 자연스러운 표현"
-    },
-    {
-      "time": "PM 02:57",
-      "episode": "How I Met Your Mother - S05E03  Robin 101",
-      "dialogues": [
-        "When Robin's PMS-ing, what kind of chocolate should you get her?",
-        "But there's one name none of us ever expected to hear him called.",
-        "And you will cry for the third time that night.",
-        "See you, sweetie. Good luck.",
-        "Do you know anyone? Yeah, let me think.",
-        "We're dating. Come back to bed.",
-        "I knew there was a skank, but I thought she'd at least be dumb.",
-        "Bowl. Bowl. I understand.",
-        "to become a better boyfriend to Robin, which I do not,",
-        "Yeah. I'll grab my coat."
-      ],
-      "koreanHints": [
-        "1. 누구 아는 사람 있어? 그래, 내가 생각 좀 해볼게.",
-        "2. 알겠어요. 알겠다니까요. 이해했어요.",
-        "3. 그래. 코트 가져올게."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- let me think : 즉석에서 답하기 어려울 때 자연스럽게 시간을 버는 표현. \"생각 좀 해볼게\"라는 뉘앙스로 단순 I will think보다 훨씬 자주 쓰임\n- I understand : 상대방의 말이나 상황을 이해했다고 확인하는 표현. 종종 반복해서 말하면 \"진짜 알았다니까\"라는 약간 답답한 느낌도 전달됨\n- grab : get보다 캐주얼하고 빠른 동작을 나타내는 표현. \"휙 집다, 챙기다\"의 뉘앙스로 일상 대화에서 매우 자주 사용됨"
-    },
-    {
-      "time": "PM 06:48",
-      "episode": "How I Met Your Mother - S09E08  The Lighthouse",
-      "dialogues": [
-        "Plus, Ted's mom wanted me out of the house.",
-        "I guess Daphne gets to pick the music",
-        "so she can get married and put this whole thing behind her.",
-        "they got caught in that big storm.",
-        "there's a lighthouse.",
-        "You know, when Ted was seven,",
-        "My mom makes the best scrambled eggs.",
-        "at the Pinewood Derby Regionals in Wheeling, West Virginia.",
-        "cats and dogs all over this-this, this friendship.",
-        "There was just one problem."
-      ],
-      "koreanHints": [
-        "1. 엄마가 나한테 집에서 나가 있으래.",
-        "2. 그들이 그 큰 폭풍에 갇혔어.",
-        "3. 그녀가 결혼해서 이 모든 일을 뒤로하고 넘어갈 수 있게."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- wanted me out of : ~에서 나가 있기를 원하다. kick out처럼 강제적이지 않고, 부드럽게 떠나 있어달라고 바라는 뉘앙스\n- get caught in : (예상치 못한 상황에) 갇히다, 휘말리다. 비, 폭풍, 교통체증, 문제 등에 빠졌을 때 자주 쓰는 표현\n- put something behind you : (안 좋은 일을) 뒤로하고 넘어가다, 잊고 앞으로 나아가다. 과거의 힘든 일을 털어내고 앞으로 가는 느낌"
-    },
-    {
-      "time": "PM 10:55",
-      "episode": "Modern Family - S11E05  The Last Halloween",
-      "dialogues": [
-        "You can do better than...",
-        "Lily is still not answering. Did you track her location?",
-        "Mitchell, we basically forced our daughter",
-        "Yeah, class act. Keep looking.",
-        "but he had such a crazy body!",
-        "- with his dad. - How do you know that?",
-        "We could scar her if we don't handle it right.",
-        "I'm sorry. I'm not mad at you.",
-        "We've stopped four Martha Stewarts,",
-        "I am, uh, right behind you."
-      ],
-      "koreanHints": [
-        "1. 제대로 처리하지 않으면 애한테 트라우마를 줄 수 있어.",
-        "2. 미안해. 너한테 화난 거 아냐.",
-        "3. 나는, 음, 바로 뒤에 있어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- scar someone: 누군가에게 정신적 상처나 트라우마를 남기다. 단순히 hurt보다 깊고 오래가는 심리적 상처를 의미합니다.\n- handle it right: 상황을 제대로/올바르게 처리하다. deal with보다 더 능숙하고 신중한 대처를 강조할 때 씁니다.\n- mad at you: 너한테 화났다. angry with보다 구어체에서 훨씬 자연스럽고 일상적으로 쓰이는 표현입니다.\n- right behind you: 바로 뒤에 있다. 물리적 위치뿐 아니라 '전적으로 지지한다'는 의미로도 자주 씁니다."
+      "keyExpressions": "💡 핵심 표현:\n- Can I just... : 약간 답답하거나 간절한 마음으로 \"그냥 제가 ~해도 될까요?\"라고 허락을 구할 때. just를 넣어 '간단하게, 빨리'라는 뉘앙스 추가\n- save up money for : 특정 목적을 위해 돈을 '모으다'. save와 달리 save up은 목표 달성을 위해 꾸준히, 계획적으로 모은다는 의미\n- didn't even : '심지어 ~조차 하지 않았다'는 강조 표현. 상대방의 자격이나 경험 부족을 지적할 때 자주 사용"
     }
   ]
 }
