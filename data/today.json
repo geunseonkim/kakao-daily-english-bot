@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 16.",
+  "date": "2026. 5. 17.",
   "sessions": [
     {
-      "time": "AM 07:46",
-      "episode": "The Office - S02E04  The Fire",
+      "time": "AM 07:35",
+      "episode": "Modern Family - S08E06  Grab It",
       "dialogues": [
-        "Can I just do it, please?",
-        "And he has been a temp here",
-        "Keep an existing cust...",
-        "a permanent number, right?",
-        "Marjorie's not here today.",
-        "to save up money for school.",
-        "they're, like, going out",
-        "You didn't even go to college.",
-        "That's gonna keep you warm",
-        "people read more books."
+        "while everyone else's significant other",
+        "Hey, there's Jay. Maybe he can...",
+        "Fortunately, clueless boobs are one group",
+        "and he was as good as new.",
+        "Okay, you're just tired. I'm gonna make you an espresso, and you go back.",
+        "You're gonna be fine once you drink...",
+        "Listen, Phil, I can't do this.",
+        "- Front door open. - Ay, no!",
+        "Stand back... I'm gonna throw one of these emergency rocks through the glass!",
+        "I'm texting the front desk."
       ],
       "koreanHints": [
-        "1. 그냥 제가 해도 될까요?",
-        "2. 학비 모으려고요.",
-        "3. 너 대학도 안 나왔잖아."
+        "1. 괜찮아, 그냥 피곤한 거야. 에스프레소 한 잔 만들어 줄게, 그럼 다시 돌아가.",
+        "2. 들어봐 필, 난 이거 못 하겠어.",
+        "3. 유리창에 비상용 돌 중 하나를 던질 거야! 뒤로 물러서!"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- Can I just... : 약간 답답하거나 간절한 마음으로 \"그냥 제가 ~해도 될까요?\"라고 허락을 구할 때. just를 넣어 '간단하게, 빨리'라는 뉘앙스 추가\n- save up money for : 특정 목적을 위해 돈을 '모으다'. save와 달리 save up은 목표 달성을 위해 꾸준히, 계획적으로 모은다는 의미\n- didn't even : '심지어 ~조차 하지 않았다'는 강조 표현. 상대방의 자격이나 경험 부족을 지적할 때 자주 사용"
-    },
-    {
-      "time": "PM 02:29",
-      "episode": "Modern Family - S07E05  The Verdict",
-      "dialogues": [
-        "Um, nothing. I just gashed it trying to get into the filing cabinet.",
-        "- He's not even on trial. - Then he should be.",
-        "As much as we don't like to use the word \"no\"...",
-        "And if any of these tykes start acting up,",
-        "Anyway, it's a distressed-oak model that I like to call...",
-        "If it's melting, so what? We move the party up a little.",
-        "but if that guy wasn't legit, how did he know that Luke was my son?",
-        "But Jay's not here. Yeah, who will give Herm's farewell speech?",
-        "What is the problem with inviting Majarcus and Roland?",
-        "- You're still on this. - I took a picture of the guy and sent it to Mom."
-      ],
-      "koreanHints": [
-        "1. 그가 사기꾼이 아니었다면, 루크가 내 아들이라는 걸 어떻게 알았겠어?",
-        "2. 서류 캐비닛을 열려다가 베었어요.",
-        "3. 녹는다고 해서 뭐 어때요? 파티 시간을 좀 당기면 되죠."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- legit : 'legitimate'의 줄임말로 진짜, 합법적, 믿을 만한이라는 뜻. 원어민들이 일상 대화에서 매우 자주 사용하는 구어체 표현\n- gash : 베이거나 찢어져서 깊고 긴 상처가 났을 때 쓰는 동사. cut보다 더 심한 상처의 뉘앙스\n- so what? : 그래서 뭐 어쩌라고? 별일 아니라는 태도를 보일 때 쓰는 반응 표현\n- move up : 일정이나 시간을 앞당기다. 반대는 push back"
-    },
-    {
-      "time": "PM 05:47",
-      "episode": "Friends - S07E19  The One with Ross and Monica's Cousin",
-      "dialogues": [
-        "Okay, this one's a mushroom cap.",
-        "That's what you say about porn.",
-        "Hey, Cousin Cassie's coming to stay with us for a few days.",
-        "Whoo! Great! Very Monica.",
-        "about these three Italian brothers",
-        "if we just get organized, all right?",
-        "So, to get this part, you can't be...?",
-        "I don't know. Cowboy theme?",
-        "We can't do this by Friday.",
-        "Chandler, she's our cousin."
-      ],
-      "koreanHints": [
-        "1. 우리가 체계적으로만 하면 되는 거잖아?",
-        "2. 그러니까 이 역할을 따려면, 너는 ~이면 안 된다는 거지?",
-        "3. 금요일까지는 이거 못 해."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- if we just ~ : '우리가 그냥 ~만 하면 돼'라는 뉘앙스. just를 써서 일이 생각보다 간단하다는 느낌을 줌. 상대를 설득하거나 안심시킬 때 자주 사용\n- get organized : 단순히 '정리하다'가 아니라 '체계를 잡다, 조직적으로 움직이다'는 의미. 계획을 세우고 효율적으로 일을 처리한다는 뉘앙스\n- to get this part : 배우가 '역할을 따다, 오디션에 합격하다'라는 의미. get the role, land the part도 같은 표현\n- by Friday : '금요일까지'라는 마감 기한. until Friday는 금요일 내내를 포함하지만, by Friday는 금요일 이전 또는 당일까지 완료를 의미"
-    },
-    {
-      "time": "PM 10:12",
-      "episode": "Modern Family - S07E06  The More You Ignore Me",
-      "dialogues": [
-        "If I could just... Okay. Come with me!",
-        "My great-aunt Miranda was the only one that could make it,",
-        "'cause you're worried they're too much like their namby-pamby dad,",
-        "You are the one who went to the liquor store and bought... What?",
-        "You wanted my honest opinion.",
-        "You know what? Caltech is hard.",
-        "even if it is a wormy little dork that worships me.",
-        "Look, he's up. Okay, we're gonna leave the two of you alone.",
-        "I hate myself so much.",
-        "with a box full of our family's homemade hair relaxer,"
-      ],
-      "koreanHints": [
-        "1. 네 솔직한 의견을 원했잖아.",
-        "2. 있잖아, 칼텍은 어려워.",
-        "3. 나 자신이 너무 싫어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- You wanted my honest opinion : 상대방이 먼저 솔직한 의견을 요청했을 때 쓰는 방어적 표현. 비판 후 \"네가 원한 거잖아\"라는 뉘앙스로 자주 사용됨\n- You know what? : 화제를 전환하거나 강조할 때 쓰는 구어체 표현. 짜증, 단호함, 깨달음 등 다양한 감정을 담을 수 있음\n- I hate myself so much : 자책할 때 쓰는 강한 표현. so much가 붙어 감정의 강도를 극대화함"
+      "keyExpressions": "💡 핵심 표현:\n- you're just tired : 상대방의 이상한 행동이나 말에 대해 \"그냥 피곤해서 그래\"라고 부드럽게 설명하거나 변명할 때 쓰는 표현. 상대를 위로하거나 상황을 가볍게 넘기려는 뉘앙스\n- I can't do this : 어떤 상황이나 관계를 더 이상 지속할 수 없다고 선언할 때 쓰는 표현. 단순히 능력이 없다는 것보다 정서적으로 감당이 안 된다는 의미\n- stand back : 위험한 상황에서 \"물러서라, 비켜라\"라고 경고할 때 쓰는 표현. step back보다 더 긴급하고 강한 느낌\n- I'm gonna : I'm going to의 구어체. 일상 대화에서 거의 항상 gonna로 발음되며 자연스러운 회화체의 핵심"
     }
   ]
 }
