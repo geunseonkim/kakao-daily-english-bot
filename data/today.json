@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 17.",
+  "date": "2026. 5. 18.",
   "sessions": [
     {
-      "time": "AM 07:35",
-      "episode": "Modern Family - S08E06  Grab It",
+      "time": "AM 07:43",
+      "episode": "Modern Family - S08E12  Do You Believe In Magic",
       "dialogues": [
-        "while everyone else's significant other",
-        "Hey, there's Jay. Maybe he can...",
-        "Fortunately, clueless boobs are one group",
-        "and he was as good as new.",
-        "Okay, you're just tired. I'm gonna make you an espresso, and you go back.",
-        "You're gonna be fine once you drink...",
-        "Listen, Phil, I can't do this.",
-        "- Front door open. - Ay, no!",
-        "Stand back... I'm gonna throw one of these emergency rocks through the glass!",
-        "I'm texting the front desk."
+        "She kind of dropped the ball on my gift,",
+        "Okay, what... I don't know what to do.",
+        "They... they chose to build near the woods.",
+        "Sal, you okay? You seem not yourself.",
+        "- Lift it, lift it. - Oh, clumsy, clumsy.",
+        "Hey. Margaret said you keep the phone records.",
+        "I thought you were working today.",
+        "We just assumed you were a member of Cirque Du Soleil.",
+        "- an early settler. - Settler.",
+        "Yup, because you're bending over backwards"
       ],
       "koreanHints": [
-        "1. 괜찮아, 그냥 피곤한 거야. 에스프레소 한 잔 만들어 줄게, 그럼 다시 돌아가.",
-        "2. 들어봐 필, 난 이거 못 하겠어.",
-        "3. 유리창에 비상용 돌 중 하나를 던질 거야! 뒤로 물러서!"
+        "1. 그녀가 내 선물 준비하는 걸 좀 망쳤어.",
+        "2. 네가 평소 같지 않아. 괜찮아?",
+        "3. 네가 지금 무리하고 있잖아."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- you're just tired : 상대방의 이상한 행동이나 말에 대해 \"그냥 피곤해서 그래\"라고 부드럽게 설명하거나 변명할 때 쓰는 표현. 상대를 위로하거나 상황을 가볍게 넘기려는 뉘앙스\n- I can't do this : 어떤 상황이나 관계를 더 이상 지속할 수 없다고 선언할 때 쓰는 표현. 단순히 능력이 없다는 것보다 정서적으로 감당이 안 된다는 의미\n- stand back : 위험한 상황에서 \"물러서라, 비켜라\"라고 경고할 때 쓰는 표현. step back보다 더 긴급하고 강한 느낌\n- I'm gonna : I'm going to의 구어체. 일상 대화에서 거의 항상 gonna로 발음되며 자연스러운 회화체의 핵심"
-    },
-    {
-      "time": "PM 02:50",
-      "episode": "Friends - S05E12  The One with Chandler's Work Laugh",
-      "dialogues": [
-        "Nobody's judging you.",
-        "The One with Chandler's Work Laugh",
-        "Sorry. Monica and Chandler are making love.",
-        "What is new with you?",
-        "l know. l can do this.",
-        "Except for that time at that strip club.",
-        "-We can't do that. -We can't do that.",
-        "You know, l feel like we don't talk anymore.",
-        "GROUP: Hey, Ross. ROSS: Yeah.",
-        ". . .and spend some time with my friend, Monica."
-      ],
-      "koreanHints": [
-        "1. 아무도 너 판단하지 않아.",
-        "2. 뭐 새로운 일 있어?",
-        "3. 우리 요즘 대화를 안 하는 것 같아."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- judge someone : 단순히 '판단하다'를 넘어서 '비난하다, 평가하다'는 뉘앙스. 상대방이 걱정하거나 불안해할 때 안심시킬 때 자주 씀\n- What is new with you? : \"What's up?\"보다 더 구체적으로 근황을 물을 때 쓰는 표현. 한동안 못 본 사람에게 최근 소식을 궁금해하는 뉘앙스\n- feel like : '~인 것 같다'는 주관적 느낌을 표현. I think보다 부드럽고 감정적인 느낌\n- not anymore : '더 이상 ~하지 않다'. 과거와 현재의 변화를 강조할 때 쓰는 표현"
-    },
-    {
-      "time": "PM 06:04",
-      "episode": "The Office - S05E21  Michael Scott Paper Company",
-      "dialogues": [
-        "- I didn't know you played soccer.",
-        "I was on the orange team.",
-        "- Yeah, well, that makes two of us.",
-        "- So, uh- - Can you please stop that?",
-        "Yeah, I guess it's not so bad.",
-        "- It's Michael! - I'm swamped, Michael.",
-        "No, we're not gonna hire Ryan.",
-        "Michael, that's fantastic.",
-        "- All right. It's healthy too, so...",
-        "- Plain tea. Simple man, after my own heart."
-      ],
-      "koreanHints": [
-        "1. 뭐, 우리 둘 다 마찬가지네요.",
-        "2. 나쁘지 않은 것 같네요.",
-        "3. 나와 같은 마음을 가진 단순한 사람이군요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- that makes two of us : 상대방과 같은 상황이거나 같은 의견일 때 \"나도 그래\", \"우리 둘 다 마찬가지네\"라는 뜻으로 쓰는 표현. 공감이나 동의를 표현할 때 원어민들이 자주 사용함\n- I guess it's not so bad : 기대보다 나쁘지 않거나 받아들일 만하다고 느낄 때 쓰는 표현. \"생각보다 괜찮네\"의 뉘앙스\n- after my own heart : 자신과 취향, 성격, 가치관이 비슷한 사람을 가리킬 때 쓰는 관용구. \"내 마음에 쏙 드는\", \"나와 같은 부류의\" 정도의 의미"
-    },
-    {
-      "time": "PM 10:09",
-      "episode": "Modern Family - S01E06  Run for Your Wife",
-      "dialogues": [
-        "Oh, she knows. [Chuckles] Hey, buddy. Soon as I'm done...",
-        "Not now. I got a conference call. But how about after that?",
-        "with influences from her Asian heritage.",
-        "I ran a half-marathon last year.",
-        "Well, her head was somewhat protected. Protected?",
-        "- Was she wearing a hat? - Yes, yes, like a hat.",
-        "You seriously wanna race me?",
-        "Really? You thought \"ghetto-fabulous\" might be medically relevant?",
-        "and destroy everything that makes him who he is.",
-        "Yeah, well, he's a nervous eater."
-      ],
-      "koreanHints": [
-        "1. 지금은 안 돼. 전화 회의가 있거든. 그거 끝나고 하는 거 어때?",
-        "2. 진심으로 나랑 경주하고 싶은 거야?",
-        "3. 뭐, 쟤는 긴장하면 먹거든."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I got a ~: 일상 대화에서 I have a ~보다 훨씬 자주 쓰는 표현. 약속, 일정, 할 일이 있다고 자연스럽게 말할 때 사용\n- How about after that?: 대안을 제시하며 부드럽게 협상할 때 쓰는 표현. after that은 방금 언급한 일 이후를 가리킴\n- You seriously ~?: 상대방의 의도나 진심을 확인하면서 살짝 놀라거나 의아함을 표현. Are you serious?보다 더 구어체\n- wanna: want to의 구어체. 일상 대화에서 압도적으로 많이 쓰임\n- nervous eater: 긴장하면 먹는 사람. nervous + 명사 패턴으로 습관이나 특성을 표현"
+      "keyExpressions": "💡 핵심 표현:\n- drop the ball : 실수하다, 책임을 다하지 못하다. 원래 해야 할 일을 제대로 못했을 때 쓰는 표현으로 스포츠에서 공을 놓친 데서 유래했습니다.\n- not yourself : 평소답지 않다, 컨디션이나 기분이 안 좋아 보이다. 누군가가 평소 모습과 달라 보일 때 걱정하며 쓰는 자연스러운 표현입니다.\n- bend over backwards : 무리해서 애쓰다, 최선을 다하다. 뒤로 몸을 젖힐 정도로 노력한다는 뜻으로 누군가를 위해 지나치게 애쓸 때 씁니다."
     }
   ]
 }
