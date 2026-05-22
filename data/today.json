@@ -1,71 +1,27 @@
 {
-  "date": "2026. 5. 22.",
+  "date": "2026. 5. 23.",
   "sessions": [
     {
-      "time": "AM 07:57",
-      "episode": "How I Met Your Mother - S07E19  The Broath",
+      "time": "AM 07:49",
+      "episode": "How I Met Your Mother - S06E23  Landmarks",
       "dialogues": [
-        "QUINN: And I'll be the bossy bitch who says:",
-        "She's not just using me.",
-        "The one person I want to talk to most barely looks me",
-        "I'm not ashamed of you.",
-        "That was supposed to be a surprise for Barney.",
-        "You prove that you're just some heartless stripper",
-        "I can't believe you wouldn't",
-        "What's going on, you guys?",
-        "What expensive trip to Hawaii?",
-        "is that you felt the need to lie about me."
+        "Okay, first hear my demands. One,",
+        "And then this happened.",
+        "\"Too bad someone bribed the kitchen",
+        "Meet the new lawyer I hired to help save The Arcadian.",
+        "Yeah, I know your friend Ted. So,",
+        "Good night. Good night.",
+        "\"Oh, hey, guys. Didn't see you there.",
+        "\"you're going to have to come back to GNB.",
+        "I just need to find a good rhyme to end on.",
+        "\"to take them off the menu tonight."
       ],
       "koreanHints": [
-        "1. 그녀가 나를 이용하는 게 아니야.",
-        "2. 나는 너를 부끄러워하지 않아.",
-        "3. 나한테 정말 중요한 건 네가 나에 대해 거짓말을 해야 한다고 느꼈다는 거야."
+        "1. 먼저 내 조건부터 들어봐. 첫째,",
+        "2. 그리고 이런 일이 벌어졌지.",
+        "3. 마무리할 좋은 운율만 찾으면 돼."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- She's just using me : 누군가가 자신을 단지 이용만 하고 있다는 표현. just를 넣어 '진심이 없이 오직 이용만 한다'는 부정적 뉘앙스를 강조\n- be ashamed of someone : 누군가를 부끄럽게 여기다, 창피해하다. 관계에서 상대방을 인정하지 않거나 숨기고 싶을 때 쓰는 표현\n- feel the need to : ~해야 한다고 느끼다, ~할 필요성을 느끼다. have to보다 심리적인 압박감이나 의무감을 더 강조하는 표현"
-    },
-    {
-      "time": "PM 03:10",
-      "episode": "Modern Family - S04E07  Arrested",
-      "dialogues": [
-        "That's... That's fantastic.",
-        "I should be in school. I'm missing biology right now.",
-        "And thank you for your letters.",
-        "Okay, you know what? Nobody's getting any more shots.",
-        "but I'm already going to the I'd-rather-blow-my-brains-out jamboree.",
-        "I'd like to confer with my client now. Thank you.",
-        "Since when do you drive the speed limit?",
-        "I'm on my way to a retreat in Ojai.",
-        "It's fauxcon disgusting. You can't tell the difference.",
-        "Well, in my experience, these things can take time, so settle in."
-      ],
-      "koreanHints": [
-        "1. 언제부터 제한속도 지키면서 다녔어?",
-        "2. 제 의뢰인과 상담 좀 하겠습니다. 감사합니다.",
-        "3. 제 경험상, 이런 일은 시간이 좀 걸리니까 편하게 계세요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Since when do you... : 상대방의 평소와 다른 행동을 지적하며 따질 때 쓰는 표현. \"언제부터 네가 그랬어?\"라는 뉘앙스로 약간 비꼬는 느낌이 있음\n- confer with : 공식적으로 협의하다, 상담하다. consult보다 더 격식 있고 전문적인 느낌\n- settle in : 자리 잡고 편하게 있다, 오래 있을 준비를 하다. 시간이 걸릴 것을 암시하는 표현\n- in my experience : 자신의 경험을 근거로 조언하거나 의견을 제시할 때 쓰는 자연스러운 도입부"
-    },
-    {
-      "time": "PM 07:24",
-      "episode": "Modern Family - S06E13  Rash Decisions",
-      "dialogues": [
-        "Here's all you need to know...",
-        "I get it. You're at that age when you want to separate.",
-        "I smell something, Gloria. What's new around here?",
-        "Hey, Judy, that was a hilarious e-mail. Pickles are better than men.",
-        "I guess I better say good-bye.",
-        "- Joe's allergic. - No.",
-        "I saw that. Andy sent it to me.",
-        "Am I right, Sport Coat?",
-        "- I'll be fine. - Oh, Jay, I'm so proud of you.",
-        "Yeah, and I figured since she likes you so much, maybe you guys could keep her."
-      ],
-      "koreanHints": [
-        "1. 알아야 할 건 이것뿐이야...",
-        "2. 알겠어. 네가 떨어져 나가고 싶어 하는 나이구나.",
-        "3. 그래, 그녀가 너를 엄청 좋아하니까, 너희가 키워주면 어떨까 싶어서."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Here's all you need to know : 복잡한 상황을 단순화해서 설명할 때 쓰는 표현. \"요점만 말하자면\", \"핵심은 이거야\"라는 뉘앙스\n- You're at that age when : 특정 나이대의 전형적인 행동이나 특징을 언급할 때 쓰는 패턴. 공감하며 이해한다는 느낌을 줌\n- I figured since : \"~니까 ~할 거라고 생각했어\"라는 뜻으로, 자신의 추론이나 판단을 부드럽게 설명할 때 쓰는 일상 표현"
+      "keyExpressions": "💡 핵심 표현:\n- hear my demands : 단순히 듣는다는 의미를 넘어서 '요구사항을 들어달라'는 협상이나 거래 상황에서 쓰는 표현. 'listen to'보다 더 강한 느낌\n- this happened : 예상치 못한 일이나 특별한 사건이 발생했을 때 쓰는 표현. 스토리텔링할 때 자주 사용\n- end on : 어떤 것으로 마무리하다, 끝맺다는 의미. end with보다 자연스럽고 원어민스러운 표현\n- I just need to : '그냥 ~만 하면 돼'라는 뉘앙스로 남은 일이 간단하거나 작다는 것을 강조"
     }
   ]
 }
