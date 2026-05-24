@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 24.",
+  "date": "2026. 5. 25.",
   "sessions": [
     {
-      "time": "AM 07:42",
-      "episode": "Friends - S08E15  The One with the Birthing Video",
+      "time": "AM 07:46",
+      "episode": "The Office - S09E09  Dwight Christmas",
       "dialogues": [
-        "It'd be like you falling in love with a cat.",
-        "- Oh! Hey, Rach! - Hi.",
-        "What's going on, huh? Girl trouble?",
-        "Well, you used to be.",
-        "He spends a day with you, and look!",
-        "What's she doing here?",
-        "I'm gonna get in my sweats and eat this in bed.",
-        "- I'll take him to Wendy's. - He's fine.",
-        "Ripped by mrnch@dh.net.mk",
-        "Oh, Joey, you bummed him out! This is the happiest dog in the world."
+        "possibly be forgetting?",
+        "so I can get a real good night",
+        "for my first day of work.",
+        "a mini-version of cake?",
+        "have my kneecap shattered",
+        "Funny how that works.",
+        "philia meaning \"love,\"",
+        "What about an authentic",
+        "It makes your neck look",
+        "Merry Christmas, everyone!"
       ],
       "koreanHints": [
-        "1. 무슨 일이야? 여자 문제라도 있어?",
-        "2. 예전엔 그랬잖아.",
-        "3. 조이, 네가 실망시켰잖아! 세상에서 제일 행복한 강아지였는데."
+        "1. 그것 참 묘하게 돌아가네요.",
+        "2. 첫 출근날을 위해서요.",
+        "3. 모두들 메리 크리스마스!"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- Girl trouble : 여자 관계로 인한 문제나 고민. \"relationship problems\"보다 가볍고 구어적인 표현. Boy trouble도 같은 방식으로 사용\n- used to be : 과거에는 그랬지만 지금은 아닌 상태를 나타냄. 변화를 암시하며 현재와 대조할 때 자주 사용\n- bum someone out : 누군가를 실망시키거나 기분 상하게 만들다. disappoint보다 캐주얼하고 일상적인 표현"
-    },
-    {
-      "time": "PM 03:03",
-      "episode": "Friends - S03E20  The One with the Dollhouse",
-      "dialogues": [
-        "You'll take her out again and end it. . .",
-        "Yeah, with the mug-painting.",
-        "Then she could rip off his shirt and kiss his chest and stomach.",
-        "l can't believe we go on in a week.",
-        "Well, give me the phone then.",
-        "When a guy says he'll call, it doesn't mean he's going to call.",
-        "Adrianne's looking for a reason to stay, right?",
-        "You have to call her.",
-        "Stop it! You must stop!",
-        "Maybe if it had more heat."
-      ],
-      "koreanHints": [
-        "1. 남자가 전화하겠다고 하면, 그게 정말 전화한다는 뜻은 아니야.",
-        "2. 그럼 전화기 이리 줘.",
-        "3. 전화해야 돼."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- he'll call vs. he's going to call : 둘 다 미래를 나타내지만, will은 즉흥적 약속이나 가벼운 의도를, be going to는 실제 계획이나 의도를 강하게 나타냄. 이 대사는 이 차이를 활용해 말과 실제 의도가 다름을 표현\n- it doesn't mean : ~를 의미하는 건 아니다. 오해를 바로잡거나 진짜 의미를 설명할 때 자주 쓰는 표현\n- give me ~ then : then을 문장 끝에 붙이면 \"그럼\", \"그렇다면\"이라는 뉘앙스로 상대 말을 받아 자연스럽게 요청하는 느낌\n- You have to : must보다 훨씬 자연스럽고 일상적인 강한 권유나 의무 표현"
-    },
-    {
-      "time": "PM 06:21",
-      "episode": "The Office - S02E03  Office Olympics",
-      "dialogues": [
-        "so, about as productive as any other day,",
-        "Wait. So, that's the problem, it's solved. What?",
-        "Kevin and I play this paper football game",
-        "Home Alone, Risky Business. Take your pants off, run around.",
-        "Okay, fine, just leave it down. Whiner.",
-        "No, I'm like Butch Cassidy,",
-        "I play lots of games, just not at work.",
-        "Okay, we will be competing for gold, silver and bronze yogurt lids.",
-        "I'm going to put a surround sound system.",
-        "Are we ready to sign some papers?"
-      ],
-      "koreanHints": [
-        "1. 그러니까, 다른 날이랑 똑같이 생산적이었다는 거지.",
-        "2. 잠깐. 그러니까, 그게 문제였는데, 해결됐다고? 뭐?",
-        "3. 좋아, 알았어, 그냥 내려둬. 징징이야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- about as ~ as : 대략, 거의 ~만큼이나 (비교 표현에 '대충'의 뉘앙스를 더함. 종종 반어적으로 쓰여 별로라는 의미 전달)\n- So, that's the problem, it's solved : 그래서 그게 문제였는데 해결됐다는 거지 (상황을 확인하거나 요약할 때 쓰는 구어체 표현)\n- Fine : 좋아, 알았어 (양보하거나 포기할 때 쓰는 표현. 약간 짜증 섞인 동의)\n- Whiner : 징징이, 불평쟁이 (작은 일에도 계속 불평하는 사람을 가리키는 구어체 표현)"
-    },
-    {
-      "time": "PM 10:15",
-      "episode": "How I Met Your Mother - S05E01  Definitions",
-      "dialogues": [
-        "It's just, they kissed!",
-        "I'm freeking out, I don't think I can do this",
-        "A gifriend's a bit much, Brad, okay?",
-        "and we were gonna go on camping trips together",
-        "I'so excited about this whip!",
-        "Until all of a sudden, it was the Friday",
-        "That's why we kept it a secret.",
-        "What did tell you about smoking in here?",
-        "and not at least try and figure out",
-        "I will, some other time."
-      ],
-      "koreanHints": [
-        "1. 너무 떨려서 이거 못 할 것 같아",
-        "2. 여자친구는 좀 과한 거 아냐?",
-        "3. 그래서 우리가 비밀로 했던 거야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- freak out : 극도로 긴장하거나 당황해서 패닉 상태가 되는 것. 불안해서 어쩔 줄 모르는 상태를 표현할 때 일상에서 매우 자주 쓰임\n- a bit much : 뭔가가 지나치거나 과하다는 느낌을 부드럽게 표현. 직접적으로 \"too much\"라고 하기보다 완곡하게 말할 때 사용\n- That's why~ : \"그래서~, 그게 바로 ~한 이유야\"라는 뜻으로 앞의 상황에 대한 이유나 결과를 자연스럽게 설명할 때 쓰는 연결 표현"
+      "keyExpressions": "💡 핵심 표현:\n- Funny how... : 상황의 아이러니나 우연의 일치를 지적할 때 쓰는 표현. \"그것 참 재미있게도/묘하게도\"라는 뉘앙스로, 실제로 웃긴 게 아니라 역설적이거나 흥미로운 상황을 언급할 때 사용\n- first day of work : \"첫 출근날\"을 의미하는 자연스러운 표현. \"first working day\"보다 훨씬 자연스럽고 일상적\n- everyone : 여러 사람에게 인사하거나 공지할 때 자주 쓰는 호칭. \"everybody\"보다 약간 더 격식 있는 느낌"
     }
   ]
 }
