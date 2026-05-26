@@ -1,49 +1,27 @@
 {
-  "date": "2026. 5. 26.",
+  "date": "2026. 5. 27.",
   "sessions": [
     {
-      "time": "AM 07:51",
-      "episode": "The Office - S03E12  Traveling Salesmen",
+      "time": "AM 08:00",
+      "episode": "Friends - S05E02  The One with All the Kissing",
       "dialogues": [
-        "All the little birds on...",
-        "\"And I will laugh in the faces",
-        "more than almost anything in the world,",
-        "and Dwight Schrute trivia.",
-        "athletic and special skills resume",
-        "and it's very exciting.",
-        "and have less experience.",
-        "I like having these little moments with you.",
-        "We can offer our biggest discounts",
-        "I overslept. Damn rooster didn't crow."
+        "People came up to me going, \"Mrs. Geller! Why are you cry?\"",
+        "I heard it! And it's ridiculous!",
+        "I need to take a rain check. My roommate is really sick.",
+        "What'll we high-five about at the stupid park?",
+        "Remember that thing we just discussed that you wanted to do?",
+        "I'll just have to accept it.",
+        "And I need to say it makes me very uncomfortable...",
+        "How great! Where's the trip?",
+        "Thanks, Rach. You're the best.",
+        "Monica's right. Swing dancing can be tricky."
       ],
       "koreanHints": [
-        "1. 너랑 이렇게 잠깐씩 시간 보내는 거 좋아.",
-        "2. 우리가 최대 할인을 제공할 수 있어요.",
-        "3. 늦잠 잤어. 망할 수탉이 울지 않았거든."
+        "1. 다음으로 미뤄야 할 것 같아. 룸메이트가 많이 아파서.",
+        "2. 난 그냥 받아들여야겠지 뭐.",
+        "3. 그리고 그게 나를 정말 불편하게 만든다는 걸 말해야겠어..."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- have a moment with someone : 누군가와 특별한 시간을 보내다. 짧지만 의미 있는 순간을 함께할 때 쓰는 표현\n- offer a discount : 할인을 제공하다. provide보다 offer가 비즈니스 상황에서 더 자연스러움\n- oversleep : 늦잠 자다. sleep late(늦게 자다)와 다르게 '의도치 않게 너무 늦게까지 잔' 상황에 사용\n- didn't crow : (수탉이) 울지 않았다. crow는 수탉의 울음소리를 나타내는 특정 동사"
-    },
-    {
-      "time": "PM 03:09",
-      "episode": "The Office - S06E26  Whistleblower",
-      "dialogues": [
-        "- The property you're looking at is in great shape.",
-        "Anyone who talked to the press, please raise your hand.",
-        "- Holly Flax from the Nashua branch.",
-        "or he wants to use her services to mop after a murder.",
-        "- So now everyone hate Andy and it's this whole mess",
-        "I say we just smash all the computers.",
-        "By the way, it has a very spacious basement office.",
-        "that none of my employees did it,",
-        "of being a pedophile.",
-        "- Can you now? - Absolutely."
-      ],
-      "koreanHints": [
-        "1. 언론에 제보한 사람은 손 들어주세요.",
-        "2. 이제 다들 앤디를 싫어하고 완전 난리가 났어.",
-        "3. 그냥 컴퓨터 다 부숴버리자."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- talk to the press : 언론에 제보하다, 언론과 인터뷰하다. 단순히 말하는 게 아니라 공식적으로 정보를 흘리거나 인터뷰하는 상황에 쓰는 표현\n- this whole mess : 완전 엉망인 상황, 난장판. whole을 넣어서 상황이 얼마나 복잡하고 엉망인지 강조\n- I say we (동사원형) : 내 생각엔 우리가 ~하는 게 좋겠어. 제안이나 의견을 제시할 때 쓰는 구어체 표현"
+      "keyExpressions": "💡 핵심 표현:\n- take a rain check : 제안이나 초대를 거절하되 나중으로 미루고 싶을 때 쓰는 정중한 표현. 완전히 거절하는 것이 아니라 다음 기회를 기대한다는 뉘앙스.\n- I'll just have to ~ : 내키지 않지만 어쩔 수 없이 받아들이거나 해야 한다는 체념의 뉘앙스. just가 그 감정을 강조함.\n- it makes me uncomfortable : ~이 나를 불편하게 만든다. 직접적으로 싫다고 하지 않고 자신의 감정을 전달하는 부드러운 표현."
     }
   ]
 }
