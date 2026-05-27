@@ -1,71 +1,27 @@
 {
-  "date": "2026. 5. 27.",
+  "date": "2026. 5. 28.",
   "sessions": [
     {
-      "time": "AM 08:00",
-      "episode": "Friends - S05E02  The One with All the Kissing",
+      "time": "AM 12:27",
+      "episode": "Modern Family - S03E21  Planes, Trains and Cars",
       "dialogues": [
-        "People came up to me going, \"Mrs. Geller! Why are you cry?\"",
-        "I heard it! And it's ridiculous!",
-        "I need to take a rain check. My roommate is really sick.",
-        "What'll we high-five about at the stupid park?",
-        "Remember that thing we just discussed that you wanted to do?",
-        "I'll just have to accept it.",
-        "And I need to say it makes me very uncomfortable...",
-        "How great! Where's the trip?",
-        "Thanks, Rach. You're the best.",
-        "Monica's right. Swing dancing can be tricky."
+        "Ugh. Stop texting me.",
+        "We're gonna get some ice from the machine in the parking lot.",
+        "the unexpected twists and turns,",
+        "People didn't expect much from me,",
+        "Let her hate us. You turned out great. I did, didn't I?",
+        "Ay, I'm sorry, Jay. I know how much you mean to those guys,",
+        "How you doing there, sport?",
+        "They forget you're there, and you learn so much.",
+        "You still want to feel that you're the big kahuna on the campus.",
+        "Manny, we're gonna be right back."
       ],
       "koreanHints": [
-        "1. 다음으로 미뤄야 할 것 같아. 룸메이트가 많이 아파서.",
-        "2. 난 그냥 받아들여야겠지 뭐.",
-        "3. 그리고 그게 나를 정말 불편하게 만든다는 걸 말해야겠어..."
+        "1. 사람들이 나한테 별로 기대하지 않았어.",
+        "2. 그들은 네가 거기 있다는 걸 잊어버리고, 그래서 넌 많은 걸 배우게 돼.",
+        "3. 넌 여전히 캠퍼스의 실세라고 느끼고 싶은 거야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- take a rain check : 제안이나 초대를 거절하되 나중으로 미루고 싶을 때 쓰는 정중한 표현. 완전히 거절하는 것이 아니라 다음 기회를 기대한다는 뉘앙스.\n- I'll just have to ~ : 내키지 않지만 어쩔 수 없이 받아들이거나 해야 한다는 체념의 뉘앙스. just가 그 감정을 강조함.\n- it makes me uncomfortable : ~이 나를 불편하게 만든다. 직접적으로 싫다고 하지 않고 자신의 감정을 전달하는 부드러운 표현."
-    },
-    {
-      "time": "PM 03:23",
-      "episode": "Seinfeld - S09E16  The Burning",
-      "dialogues": [
-        "She thinks it's someone named Rafe.",
-        "It's like those hip musicians",
-        "I knew I had hit my high note,",
-        "And feel the gonorrhea in themselves.",
-        "So self-absorbed and egotistical.",
-        "How 'bout you? You wanna trade?",
-        "Mickey, he got bacterial meningitis.",
-        "Hey, so Sophie gave me the \"it's me\" on the phone today.",
-        "Well, yeah. I got him because he seemed so one-dimensional.",
-        "She said there's some tractor story"
-      ],
-      "koreanHints": [
-        "1. 너는 어때? 바꿀래?",
-        "2. 완전 자기밖에 모르고 자아도취에 빠진 사람이야.",
-        "3. 그래, 맞아. 걔가 너무 단순해 보여서 데려온 거야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- How 'bout you? : \"너는 어때?\"라는 뜻으로 상대방에게 같은 질문을 되돌릴 때 쓰는 자연스러운 구어체 표현\n- You wanna trade? : \"바꿀래?\"라는 뜻으로 물건, 자리, 상황 등을 서로 교환하자고 제안할 때 쓰는 캐주얼한 표현\n- self-absorbed : 자기밖에 모르는, 자기 생각에만 빠진 상태를 나타내는 표현으로 부정적 뉘앙스\n- egotistical : 자아도취적인, 자만심이 강한 사람을 묘사할 때 쓰는 표현\n- one-dimensional : 단순한, 깊이가 없는, 한 가지 측면만 있는 사람이나 사물을 묘사할 때 쓰는 표현"
-    },
-    {
-      "time": "PM 07:55",
-      "episode": "How I Met Your Mother - S01E01  Pilot",
-      "dialogues": [
-        "You're leaving a note.",
-        "We were just talking about this earlier today.",
-        "♪ How I Met Your Mother 8x01 ♪ Farhampton Original Air Date on September 24, 2012",
-        "You're deliriously exhausted.",
-        "I mean, that note is what keeps you sane.",
-        "and, uh, I don't have a lot of girlfriends.",
-        "Heck, this calls for some champagne.",
-        "that have a zombie and become total babies.",
-        "We're not gonna be the kind of people",
-        "Oh, my God, why don't you both just admit it:"
-      ],
-      "koreanHints": [
-        "1. 너 완전 지쳐서 헛소리하는 거야.",
-        "2. 그 쪽지가 네 정신 줄 붙들어주는 거잖아.",
-        "3. 우리 그런 사람들 되지 말자."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- deliriously exhausted : 단순히 tired가 아니라 너무 지쳐서 정신이 몽롱하고 제대로 판단할 수 없는 상태. deliriously는 정신이 혼미한 정도를 강조할 때 쓰는 부사\n- keep someone sane : 누군가의 정신 건강을 유지시키다, 정신 줄을 붙들어주다. 힘든 상황에서 무너지지 않게 해주는 것을 표현할 때 자주 사용\n- the kind of people : 특정 부류의 사람들을 지칭. 부정적이거나 긍정적인 특성을 가진 사람 집단을 말할 때 원어민들이 즐겨 쓰는 표현"
+      "keyExpressions": "💡 핵심 표현:\n- expect much from someone : 누군가에게 많은 것을 기대하다. 능력이나 성과에 대한 기대치를 표현할 때 쓰는 자연스러운 표현\n- forget you're there : 네 존재를 잊다, 투명인간 취급하다. 실제로 무시당하거나 눈에 띄지 않는 상황을 묘사할 때 사용\n- big kahuna : 조직이나 그룹에서 가장 중요한 인물, 실세, 우두머리. 하와이어에서 유래한 구어체 표현"
     }
   ]
 }
