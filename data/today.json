@@ -1,93 +1,27 @@
 {
-  "date": "2026. 5. 31.",
+  "date": "2026. 6. 1.",
   "sessions": [
     {
-      "time": "오전 07:46",
-      "episode": "How I Met Your Mother - S07E07  Noretta",
+      "time": "오전 07:48",
+      "episode": "Friends - S01E05  The One with the East German Laundry Detergent",
       "dialogues": [
-        "The way she does everything perfectly? What's not to like?",
-        "[Chuckles] Oh, man. Okay.",
-        "You think I'm the first person Ted asked?",
-        "[Sighs] That bath was wonderful. Thank you. Of course.",
-        "[Others] Bam! Top of the charts!",
-        "They're in the shape of an accordion. What!",
-        "And that's gonna be tonight!",
-        "Lily! Come on! You'll be the hottest girl there!",
-        "Wow. You really are pretty fragile.",
-        "Yes. And I hope you have some aspirin at home..."
+        "-l'm not fine. Here she is. -Wait here, okay? Breathe.",
+        "You know, like a little fuzzy bear.",
+        "So, Rachel, what are you doing tonight?",
+        "-That's it? -Yeah, it was really hard.",
+        "What's going on? You go out with tons of girls.",
+        "That's because l'm wearing a dress that accents my boobs.",
+        "l go on three auditions a month and say l'm an actor, but he's--",
+        "-What? -What did you get me there?",
+        "But l saved it. l put my basket on top.",
+        "lt's laundry. The thinking-through is minimal."
       ],
       "koreanHints": [
-        "1. 그녀가 모든 걸 완벽하게 하는 게 싫을 게 뭐가 있겠어?",
-        "2. 너 정말 유리멘탈이구나.",
-        "3. 너 네가 테드가 제일 먼저 부탁한 사람이라고 생각해?"
+        "1. 너 수많은 여자들이랑 데이트하잖아.",
+        "2. 그게 다야? 진짜 어려웠는데.",
+        "3. 빨래인데 뭐. 생각할 것도 없지."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- What's not to like? : 뭐가 싫겠어? / 안 좋을 게 뭐가 있어? 라는 뉘앙스로, 긍정적인 것에 대해 반문하며 동의를 이끌어낼 때 쓰는 표현\n- fragile : 신체적으로 약하다는 뜻 외에도 감정적으로 쉽게 상처받거나 민감한 사람을 묘사할 때 쓰는 표현\n- the first person ~ : 첫 번째 사람이라는 의미로, 순서나 우선순위를 강조할 때 자주 쓰는 패턴\n- the way she does~ : ~하는 방식, ~하는 게 라는 뉘앙스로 어떤 행동이나 습관을 지칭할 때 쓰는 자연스러운 표현"
-    },
-    {
-      "time": "오후 03:21",
-      "episode": "Seinfeld - S03E19  The Limo",
-      "dialogues": [
-        "- O'Brien! - Is that him?",
-        "Well, if you're gonna be O'Brien, why can't I be somebody?",
-        "It's a long story. I can't tell you now.",
-        "I just didn't have anything to do tonight.",
-        "I don't care. No! Fine!",
-        "The Knicks are playing the Bulls tonight!",
-        "There's no real person can act the way he does.",
-        "At Madison Square Garden, of course. I have the four passes.",
-        "like it's having a nervous breakdown.",
-        "I know Jerry. He's not a Nazi."
-      ],
-      "koreanHints": [
-        "1. 네가 그 사람 행세를 할 거면, 나는 왜 다른 사람 행세하면 안 돼?",
-        "2. 말이 길어. 지금은 얘기 못 해.",
-        "3. 그냥 오늘 저녁에 할 일이 없었어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- if you're gonna be ~ : 'going to'의 구어체 축약형으로, 원어민이 실제 대화에서 매우 자주 쓰는 표현. \"~할 거라면\"이라는 조건의 뉘앙스를 자연스럽게 전달\n- It's a long story : 설명하기 복잡하거나 시간이 오래 걸릴 때 쓰는 관용구. \"지금은 설명하기 어렵다\"는 의미로 대화를 우회할 때 유용\n- didn't have anything to do : 할 일이 없었다는 표현. \"nothing to do\"보다 \"didn't have anything to do\"가 더 자연스러운 구어체"
-    },
-    {
-      "time": "오후 06:46",
-      "episode": "How I Met Your Mother - S05E07  The Rough Patch",
-      "dialogues": [
-        "Yeah, well, so what? They're happy...",
-        "Okay. That's it. I'm taking over.",
-        "Then, a Stormtrooper happens to walk by the window.",
-        "this is what they really saw.",
-        "But by the end of it...",
-        "followed by Crazy Meg,",
-        "knowing full well there were thousands of Stormtroopers on it,",
-        "Can I go talk to Barney now? I'm so excited.",
-        "Let me repeat, I am Alan Thicke.",
-        "They knew what they were getting into."
-      ],
-      "koreanHints": [
-        "1. 좋아, 됐어. 내가 맡을게.",
-        "2. 그건 끝날 때쯤엔...",
-        "3. 그들이 뭘 감수하는지 알고 시작한 거야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- That's it : 참다가 한계에 도달했을 때 \"됐어, 그만\"이라고 선언하는 표현. 결정을 내리거나 더 이상 참지 않겠다는 의지를 나타냄\n- take over : 책임이나 통제권을 넘겨받다, 인수하다. 상황을 주도하겠다는 뉘앙스\n- by the end of it : 어떤 일이나 과정이 끝날 무렵에는. 시간의 경과에 따른 변화를 설명할 때 자주 쓰임\n- know what someone is getting into : 어떤 상황에 뛰어들기 전에 그 결과나 어려움을 미리 알고 있다는 의미. 책임을 물을 수 없다는 뉘앙스"
-    },
-    {
-      "time": "오후 10:26",
-      "episode": "Seinfeld - S03E03  The Pen",
-      "dialogues": [
-        "You broke my dental plate.",
-        "Okay, thank you very much. Thank you. Gee, boy.",
-        "Today's over. Then we have tomorrow.",
-        "I got my feet up in the air like I'm in a space capsule.",
-        "It was nice meeting you.",
-        "-Where are you going with those? -I'll put Elaine's stuff in here.",
-        "I have never seen an old person in a new bathing suit...",
-        "You bump into somebody, ''No, I'm parasailing.",
-        "You shouldn't have said anything. What did you expect?",
-        "You wanna switch? I'm on a love seat."
-      ],
-      "koreanHints": [
-        "1. 오늘은 끝났어. 그럼 내일이 있잖아.",
-        "2. 당신이 말을 꺼내지 말았어야지. 뭘 기대한 거야?",
-        "3. 바꿀래? 나 지금 2인용 소파에 앉아 있어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Today's over : 오늘은 이미 끝난 일이라는 의미로, 더 이상 오늘 일에 연연하지 말자는 뉘앙스. over는 완전히 끝났다는 느낌을 강조\n- You shouldn't have said anything : 과거에 하지 말았어야 할 행동을 후회하거나 비난할 때 쓰는 should have p.p.의 부정형\n- What did you expect? : 당연한 결과 아니냐며 상대방의 순진한 기대를 지적할 때 쓰는 반어적 표현\n- You wanna switch? : 상황이나 자리를 바꾸자고 제안할 때 쓰는 캐주얼한 표현"
+      "keyExpressions": "💡 핵심 표현:\n- tons of : '엄청 많은'이라는 뜻으로 일상 대화에서 lots of보다 더 강조할 때 쓰는 표현. a lot of나 many보다 구어체적이고 자연스러움.\n- That's it? : '그게 다야? 그게 전부야?'라는 의미로 기대 이하일 때 실망감이나 의아함을 표현하는 관용구. 상대방의 말이나 행동이 예상보다 적거나 부족하다고 느낄 때 사용.\n- thinking-through : 깊이 생각하기, 숙고하는 과정을 의미. minimal과 함께 쓰여 '별로 생각할 필요 없다'는 뉘앙스 전달."
     }
   ]
 }
