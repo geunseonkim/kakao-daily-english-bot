@@ -1,93 +1,27 @@
 {
-  "date": "2026. 6. 3.",
+  "date": "2026. 6. 4.",
   "sessions": [
     {
-      "time": "오전 01:13",
-      "episode": "How I Met Your Mother - S06E07  Canning Randy",
+      "time": "오전 01:29",
+      "episode": "Seinfeld - S04E10  The Virgin",
       "dialogues": [
-        "Uh, just want you to know, we are making good progress on this new project.",
-        "So when you arrived at the GNB party after we left,",
-        "My class loves me. I am really makin' an impression on those guys.",
-        "you gonna come get beers with us later?",
-        "I mean the one that takes place the morning of November 1...",
-        "No, it's because that girl... We get it.",
-        "The Annual Post-Halloween Walk Of Shame Parade.",
-        "But you kids have fun trick-or-treating.",
-        "Does it get any better than this?",
-        "So, anyone going to see the, uh, Halloween parade?"
+        "Carol. This guy's writing a sitcom.",
+        "Oh, I don't believe this.",
+        "- Go out. It's nice out. - There's nothing out there for me.",
+        "at this crazy party I was at last night.",
+        "I mean, like, it's a big, big secret...",
+        "That's Elaine. She's just a friend of mine.",
+        "- Never came back. - Oh, you must have been devastated...",
+        "- I'm in. Let's go for it. - All right. What do you want?",
+        "So I carry around my diaphragm. Who doesn't?",
+        "- Marla, Kramer. - Hello."
       ],
       "koreanHints": [
-        "1. 우리 새 프로젝트 잘 진행되고 있다는 거 알려드리고 싶어서요.",
-        "2. 제 수업 애들이 저를 정말 좋아해요. 제가 아이들한테 정말 강한 인상을 남기고 있어요.",
-        "3. 나중에 우리랑 맥주 한잔하러 올 거야?"
+        "1. 나한테 밖에 나가봤자 얻을 게 없어.",
+        "2. 얼마나 망연자실했겠어...",
+        "3. 좋아, 나도 낄래. 한번 해보자고."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- make good progress on : 단순히 progress가 아니라 good progress로 쓰면 순조롭게, 착실하게 진행되고 있다는 긍정적 뉘앙스를 전달. 업무나 프로젝트 상황 보고할 때 자주 쓰는 표현\n- make an impression on someone : 누군가에게 인상을 남기다, 영향을 주다. good/bad/strong 등의 형용사와 함께 쓰이며 첫인상이나 지속적인 영향력을 이야기할 때 사용\n- come get (something) with us : come and get의 구어체 축약형. 같이 가서 뭔가를 하자고 캐주얼하게 제안할 때 쓰는 자연스러운 표현. gonna come get으로 더욱 구어적"
-    },
-    {
-      "time": "오전 08:26",
-      "episode": "Friends - S01E23  The One with the Birth",
-      "dialogues": [
-        "Who did we fight in WWI?",
-        "- Can you guys run it a couple times? - Yeah, sure.",
-        "- Cookie? Would you...? - No.",
-        "I'm sorry. I'm sorry.",
-        "If you need money, it's a bad time. I'm buying 128 dinners tomorrow.",
-        "Did he say what kind of neckline he's wearing?",
-        "Who will make sure nothing happens to it?",
-        "Dad, please. As I was saying...",
-        "Could I have your attention?",
-        "...I've waited for you to flip out."
-      ],
-      "koreanHints": [
-        "1. 지금은 때가 안 좋아. 내일 저녁 식사를 128개나 사야 해서.",
-        "2. 네가 폭발할 때를 기다려왔어.",
-        "3. 여러분 주목해 주시겠어요?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- it's a bad time : 지금은 좋지 않은 타이밍이다, 때가 안 좋다. 요청을 부드럽게 거절하거나 상황이 여의치 않음을 전달할 때 쓰는 자연스러운 표현\n- flip out : 화를 내다, 이성을 잃고 폭발하다. 감정적으로 격하게 반응하는 것을 표현하는 구어체 표현\n- Could I have your attention? : 여러 사람의 주목을 끌 때 쓰는 정중한 표현. May I보다 더 자연스럽고 일상적"
-    },
-    {
-      "time": "오후 03:55",
-      "episode": "The Office - S08E18  Last Day in Florida",
-      "dialogues": [
-        "to buy cookies from me?",
-        "you to fight over me.",
-        "That is a great idea.",
-        "but I started using my makeup",
-        "Shallow end, deep end.",
-        "You created a wonderful space",
-        "that way, I guess it does",
-        "I told her I was moving here",
-        "everyone's wise to us.",
-        "the guy from Operation."
-      ],
-      "koreanHints": [
-        "1. 정말 좋은 생각이네요.",
-        "2. 당신이 제 때문에 싸우는 거 원치 않아요.",
-        "3. 모두가 우리 눈치챘어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- That is a great idea : 상대방의 제안에 진심 어린 동의를 표할 때 쓰는 표현. That's이 아닌 That is로 강조하면 더 정중하고 격식 있는 느낌\n- fight over someone : 누군가를 두고 다투다, 경쟁하다는 뜻. 연애 관계뿐 아니라 인재 영입, 관심 쟁탈 등 다양한 상황에 사용\n- wise to : 무언가를 눈치채다, 알아차리다는 뜻의 관용 표현. onto보다 약간 더 격식 있는 느낌"
-    },
-    {
-      "time": "오후 08:55",
-      "episode": "Friends - S01E04  The One with George Stephanopoulos",
-      "dialogues": [
-        "Wait. Wait. Wait. Wait. Is that true what you said?",
-        "- Well, what's up? Is Phoebe okay? - Oh, yeah, yeah.",
-        "{y:i}It did that the last time!",
-        "- So how'd the date go? - Well, it was awful.",
-        "- Maybe you were having an off night. - Hey!",
-        "Did l...? Did I actually ask you?",
-        "Do you want me to get into the tub and... thrash?",
-        "...naughty cavewoman who he unfroze from a block of ice.",
-        "How great you are. But...",
-        "- Sorry, I didn't catch that. - Mike Hanigan."
-      ],
-      "koreanHints": [
-        "1. 데이트 어땠어?",
-        "2. 어쩌다 컨디션이 안 좋았던 거 아니야?",
-        "3. 미안, 잘 못 들었어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- How'd it go? : 어떤 일이나 경험이 어땠는지 가볍게 물어볼 때 쓰는 자연스러운 표현. How was it?보다 구어적이고 캐주얼함\n- have an off night/day : 평소와 달리 컨디션이 안 좋거나 실력 발휘를 못한 날을 의미. 스포츠나 업무, 데이트 등 모든 상황에 활용 가능\n- catch that : 상대방의 말을 못 알아듣거나 못 들었을 때 쓰는 표현. hear보다 훨씬 자연스럽고 원어민다운 표현"
+      "keyExpressions": "💡 핵심 표현:\n- There's nothing out there for me : 밖에 나가도 나한테 의미 있는 게 없다는 뉘앙스. out there는 '세상에', '저 바깥에'라는 느낌으로 연애, 직업, 기회 등을 이야기할 때 자주 씀\n- You must have been devastated : 과거 상황에 대한 강한 추측과 공감을 표현. devastated는 '완전히 무너진, 망연자실한' 정도의 강한 감정\n- I'm in : '나도 낄게, 참여할게'라는 뜻으로 제안이나 계획에 동참할 때 쓰는 캐주얼한 표현\n- Let's go for it : '한번 해보자, 도전해보자'는 뜻으로 결정을 내릴 때 쓰는 격려 표현"
     }
   ]
 }
