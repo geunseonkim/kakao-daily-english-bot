@@ -1,93 +1,27 @@
 {
-  "date": "2026. 6. 4.",
+  "date": "2026. 6. 5.",
   "sessions": [
     {
-      "time": "오전 01:29",
-      "episode": "Seinfeld - S04E10  The Virgin",
+      "time": "오전 08:00",
+      "episode": "Seinfeld - S04E07  The Bubble Boy",
       "dialogues": [
-        "Carol. This guy's writing a sitcom.",
-        "Oh, I don't believe this.",
-        "- Go out. It's nice out. - There's nothing out there for me.",
-        "at this crazy party I was at last night.",
-        "I mean, like, it's a big, big secret...",
-        "That's Elaine. She's just a friend of mine.",
-        "- Never came back. - Oh, you must have been devastated...",
-        "- I'm in. Let's go for it. - All right. What do you want?",
-        "So I carry around my diaphragm. Who doesn't?",
-        "- Marla, Kramer. - Hello."
+        "I'll have a cup of coffee and a turkey club.",
+        "- ... to pay him a visit and just say hello. - Oh, well, tomorrow, I-",
+        "What'd you say, it's /ik e E/mer Fudd sitting on a juicer?",
+        "- Ah, Kramer. - Hello, boys.",
+        "Why don't you play a game of Trivial Pursuit?",
+        "That's right, buddy. It's private. It's very private.",
+        "Yeah, see? That's why I hate it.",
+        "- Did you-? - No, no, we'll talk about it later.",
+        "This thing has never worked right.",
+        "Why not? That's all I want."
       ],
       "koreanHints": [
-        "1. 나한테 밖에 나가봤자 얻을 게 없어.",
-        "2. 얼마나 망연자실했겠어...",
-        "3. 좋아, 나도 낄래. 한번 해보자고."
+        "1. 왜 안 돼? 나는 그것만 원하는데.",
+        "2. 그래, 맞아? 그래서 내가 싫어하는 거야.",
+        "3. 이거 제대로 작동한 적이 한 번도 없어."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- There's nothing out there for me : 밖에 나가도 나한테 의미 있는 게 없다는 뉘앙스. out there는 '세상에', '저 바깥에'라는 느낌으로 연애, 직업, 기회 등을 이야기할 때 자주 씀\n- You must have been devastated : 과거 상황에 대한 강한 추측과 공감을 표현. devastated는 '완전히 무너진, 망연자실한' 정도의 강한 감정\n- I'm in : '나도 낄게, 참여할게'라는 뜻으로 제안이나 계획에 동참할 때 쓰는 캐주얼한 표현\n- Let's go for it : '한번 해보자, 도전해보자'는 뜻으로 결정을 내릴 때 쓰는 격려 표현"
-    },
-    {
-      "time": "오전 08:25",
-      "episode": "Friends - S04E13  The One with Rachel's Crush",
-      "dialogues": [
-        "GOD! ARE YOU OUT OF A JOB?",
-        "SO, THE FIRST TIME YOU ASKED A GUY OUT",
-        "MAKING DELICIOUS TREATS",
-        "I SERVED THE BEST AIR.",
-        "THE BARTENDER TAUGHT ME A TRICK, THOUGH.",
-        "JUST 'CAUSE THEY WORK TOGETHER",
-        "♪ IT'S LIKE YOU'RE ALWAYS STUCK IN SECOND GEAR ♪",
-        "♪ I'LL BE THERE FOR YOU ♪",
-        "TO TRASH THEIR PLACE?",
-        "♪ I'LL BE THERE FOR YOU ♪"
-      ],
-      "koreanHints": [
-        "1. 네가 처음 남자한테 먼저 연락한 게 언제야?",
-        "2. 그 사람이 같이 일한다고 해서 그게 무슨 상관이야?",
-        "3. 바텐더가 나한테 비법 하나 알려줬어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- ask someone out : 데이트 신청을 하다, 만남을 제안하다. 단순히 밖에 나가자는 게 아니라 로맨틱한 의미를 담고 있는 표현\n- just 'cause : because의 구어체 축약형. 캐주얼한 대화에서 자주 쓰며 \"그냥 ~라는 이유로\"라는 뉘앙스\n- teach someone a trick : 누군가에게 요령이나 비법을 알려주다. trick은 여기서 속임수가 아니라 유용한 팁을 의미\n- though : 문장 끝에 붙여서 \"그런데, 하지만\"의 뉘앙스를 부드럽게 추가. 원어민이 매우 자주 사용"
-    },
-    {
-      "time": "오후 03:44",
-      "episode": "Friends - S04E15  The One with All the Rugby",
-      "dialogues": [
-        "Do you even know how long you're gonna be gone?",
-        "I just need a pretend ticket.",
-        "Anyway, she thought the very idea of me playing rugby with him was, like, hilarious.",
-        "You know, you really didn't have to take me to the airport.",
-        "Well, actually, the last time you and I saw each other was the next morning.",
-        "Oh. You are not gonna believe it. Joshua came in today, and guess what.",
-        "I'm just gonna go and say hello to the lads.",
-        "You realize we have not seen each other since the night of that U2 concert?",
-        "Who would've thought that Cupid had a station at 14th Street Nails?",
-        "You know, I'm packing because I'm moving to Yemen tomorrow."
-      ],
-      "koreanHints": [
-        "1. 얼마나 오래 떠나있을지 알기는 해?",
-        "2. 사실 우리가 마지막으로 본 게 그 다음날 아침이었잖아.",
-        "3. 공항까지 데려다 줄 필요 없었는데."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Do you even know: 상대방이 기본적인 것조차 모르고 있다는 것을 지적하거나 의아해할 때 쓰는 표현. even을 넣어 강조와 약간의 비판적 뉘앙스를 더함\n- be gone: 단순히 go가 아니라 '떠나서 없는 상태'를 강조하는 표현. 부재의 지속을 나타냄\n- didn't have to: 의무나 필요가 없었다는 뉘앙스. 상대가 해준 일에 대해 고마움과 동시에 부담스러움을 표현할 때 자주 사용\n- the last time you and I saw each other: 격식을 차린 표현으로 each other를 써서 쌍방향 만남을 강조"
-    },
-    {
-      "time": "오후 07:38",
-      "episode": "The Office - S04E02  Dunder Mifflin Infinity",
-      "dialogues": [
-        "When he started the fire.",
-        "These people just don't",
-        "going to win them back.",
-        "I had to have the dent",
-        "No. No, don't help him.",
-        "helps business, okay?",
-        "It's funny you bring that up",
-        "I figure I'll get a sandwich,",
-        "were to downsize Kelly",
-        "probably smells like."
-      ],
-      "koreanHints": [
-        "1. 그걸 네가 먼저 꺼내니까 웃기네",
-        "2. 샌드위치나 하나 사먹을까 생각 중이야",
-        "3. 아니야, 그 사람 도와주지 마"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- It's funny you bring that up : 상대방이 언급한 내용이 공교롭게도 자신이 생각하던 것과 일치하거나 타이밍이 절묘할 때 쓰는 표현. \"그거 말이 나와서 말인데\", \"공교롭게도\" 같은 뉘앙스\n- I figure : I think보다 좀 더 계산적이고 합리적인 판단을 내렸다는 느낌. \"~할 생각이야\", \"~하는 게 낫겠다 싶어\" 정도의 뉘앙스로 일상대화에서 자주 사용\n- bring up : 화제나 주제를 꺼내다, 언급하다. mention보다 자연스럽고 회화적인 표현"
+      "keyExpressions": "💡 핵심 표현:\n- Why not? : 단순히 \"왜 안 돼?\"라는 의미를 넘어서, 상대방의 거절이나 반대에 대해 정당한 이유를 요구하거나 불만을 표현할 때 쓰는 간결하고 강력한 반문. 구어체에서 매우 자주 사용됨.\n- That's why~ : \"그게 바로 ~한 이유야\"라는 뜻으로, 앞서 언급된 내용을 근거로 자신의 감정이나 행동을 설명할 때 쓰는 자연스러운 연결 표현.\n- work right : 단순히 \"작동하다(work)\"를 넘어 \"제대로/올바르게 작동하다\"는 의미. right를 붙여 기능이 정상적으로 수행되는지를 표현하는 원어민다운 표현.\n- That's all I want : \"그것만 원할 뿐이야\"라는 뜻으로, 자신의 요구가 과하지 않고 합리적임을 강조할 때 쓰는 표현. 상황에 따라 간절함이나 정당성을 드러냄."
     }
   ]
 }
