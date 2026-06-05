@@ -1,71 +1,27 @@
 {
-  "date": "2026. 6. 5.",
+  "date": "2026. 6. 6.",
   "sessions": [
     {
-      "time": "오전 08:00",
-      "episode": "Seinfeld - S04E07  The Bubble Boy",
+      "time": "오전 07:57",
+      "episode": "Modern Family - S09E10  No Small Feet",
       "dialogues": [
-        "I'll have a cup of coffee and a turkey club.",
-        "- ... to pay him a visit and just say hello. - Oh, well, tomorrow, I-",
-        "What'd you say, it's /ik e E/mer Fudd sitting on a juicer?",
-        "- Ah, Kramer. - Hello, boys.",
-        "Why don't you play a game of Trivial Pursuit?",
-        "That's right, buddy. It's private. It's very private.",
-        "Yeah, see? That's why I hate it.",
-        "- Did you-? - No, no, we'll talk about it later.",
-        "This thing has never worked right.",
-        "Why not? That's all I want."
+        "I can assure you... This house is filled",
+        "We don't even know who Demi Lovato is!",
+        "About that... I got something to show you.",
+        "I'm pretty sure that's all coming off of me,",
+        "still within walking distance to my psychic.",
+        "Which we used to rent for money,",
+        "but Pam's Mommy and Me class is only an hour,",
+        "I'm a divorce lawyer, Cam.",
+        "Say \"antibiotics\" one more time.",
+        "But, uh, don't feel you have to live up to this."
       ],
       "koreanHints": [
-        "1. 왜 안 돼? 나는 그것만 원하는데.",
-        "2. 그래, 맞아? 그래서 내가 싫어하는 거야.",
-        "3. 이거 제대로 작동한 적이 한 번도 없어."
+        "1. 그건 다 내 몸에서 나오는 거라고 확신해요.",
+        "2. 그 점에 대해서는... 보여줄 게 있어요.",
+        "3. 이 정도까지 할 필요는 없어요."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- Why not? : 단순히 \"왜 안 돼?\"라는 의미를 넘어서, 상대방의 거절이나 반대에 대해 정당한 이유를 요구하거나 불만을 표현할 때 쓰는 간결하고 강력한 반문. 구어체에서 매우 자주 사용됨.\n- That's why~ : \"그게 바로 ~한 이유야\"라는 뜻으로, 앞서 언급된 내용을 근거로 자신의 감정이나 행동을 설명할 때 쓰는 자연스러운 연결 표현.\n- work right : 단순히 \"작동하다(work)\"를 넘어 \"제대로/올바르게 작동하다\"는 의미. right를 붙여 기능이 정상적으로 수행되는지를 표현하는 원어민다운 표현.\n- That's all I want : \"그것만 원할 뿐이야\"라는 뜻으로, 자신의 요구가 과하지 않고 합리적임을 강조할 때 쓰는 표현. 상황에 따라 간절함이나 정당성을 드러냄."
-    },
-    {
-      "time": "오후 03:25",
-      "episode": "Modern Family - S08E19  Frank's Wedding",
-      "dialogues": [
-        "Maybe that's how he got in.",
-        "This principle, and its opposite,",
-        "that Lorraine didn't even know about.",
-        "Hey, tell me if they call my name.",
-        "I go... okay, I'm going, Mitchell.",
-        "Would you mind going through my luggage",
-        "with your striking regularness, they would have put me",
-        "Okay! Mitchell! Mitchell, okay.",
-        "You know you're the person i look up to mo-o-o-o-o-St...",
-        "And if they find out, then they'll just know"
-      ],
-      "koreanHints": [
-        "1. 그게 그가 들어온 방법일지도 몰라.",
-        "2. 내 짐 좀 확인해 줄래?",
-        "3. 그들이 알아내면, 그냥 알게 되는 거지 뭐."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- That's how: 방법이나 이유를 설명할 때 쓰는 자연스러운 표현. \"그렇게 해서~\", \"그런 식으로~\"의 뉘앙스\n- Would you mind -ing: 정중하게 부탁할 때 쓰는 표현. 직역하면 \"~하는 것 꺼리시나요?\"지만 \"~해주실래요?\"의 뉘앙스\n- go through: 단순히 \"통과하다\"가 아니라 \"자세히 살펴보다, 검토하다\"의 의미로 실생활에서 자주 사용\n- find out: discover보다 훨씬 자연스러운 구어체. \"알아내다, 발견하다\"\n- they'll just know: just를 넣어서 \"어쩔 수 없이 그냥~하게 되는\" 체념의 뉘앙스를 표현"
-    },
-    {
-      "time": "오후 07:45",
-      "episode": "Modern Family - S06E17  Closet? You'll Love It!",
-      "dialogues": [
-        "by some commercial that's not even that catchy.",
-        "Untraceable. As you can guess, I'm a droner myself.",
-        "No! This is ridiculous. She's not even singing.",
-        "a local ad for Pritchett's Closets,",
-        "You see what our competition's airing?",
-        "It's a day that every father knows may come but hopes it never will.",
-        "They're a wreck. She may not have gotten our talent,",
-        "Okay, here comes Andrew.",
-        "Then why not, \"Like it? You'll closet!\"? That makes no sense.",
-        "Oh, I think our firm donated one of our old fax machines to you guys."
-      ],
-      "koreanHints": [
-        "1. 우리 경쟁사들이 뭘 내보내는지 봤어?",
-        "2. 언젠가는 올 수 있지만 절대 오지 않기를 바라는 그런 날이야, 모든 아버지가 아는.",
-        "3. 저 애들 엉망이야. 우리 재능을 못 물려받았을 수도 있어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- air (방송하다, 내보내다) : TV나 라디오에서 프로그램이나 광고를 방영할 때 쓰는 자연스러운 동사. broadcast보다 캐주얼하고 일상적\n- may come but hopes it never will : 가능성은 인정하되 일어나지 않기를 바라는 복잡한 심경을 표현하는 구조. know와 hope의 대조가 핵심\n- be a wreck : 정신적/신체적으로 엉망인 상태를 표현하는 구어체. mess보다 더 심각한 느낌\n- gotten : 미국 영어에서 get의 과거분사. 영국 영어는 got 사용\n- may not have gotten : 과거 사실에 대한 불확실한 추측을 나타내는 may have p.p의 부정형"
+      "keyExpressions": "💡 핵심 표현:\n- I'm pretty sure: 거의 확신한다는 뉘앙스. I think보다 확신의 정도가 높지만 100% 단정은 아닐 때 쓰는 자연스러운 표현\n- About that: 상대방이 방금 언급한 주제로 화제를 전환할 때 쓰는 관용구. 보통 뒤에 반전이나 추가 정보가 나옴\n- live up to: 기대나 기준을 충족시키다, ~에 부응하다. 부담을 주거나 덜어줄 때 자주 쓰는 표현\n- coming off of: ~에서 나오다, 분리되다. 물리적/비유적으로 모두 사용 가능"
     }
   ]
 }
