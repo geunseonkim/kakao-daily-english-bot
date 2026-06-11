@@ -1,93 +1,27 @@
 {
-  "date": "2026. 6. 11.",
+  "date": "2026. 6. 12.",
   "sessions": [
     {
-      "time": "오전 12:22",
-      "episode": "Modern Family - S07E01  Summer Lovin'",
+      "time": "오전 12:49",
+      "episode": "The Office - S06E06  The Lover",
       "dialogues": [
-        "We're too late for anywhere else.",
-        "You don't look like you feel good. Well, yeah, he was--",
-        "Haley apparently had feelings for me, and I had no clue!",
-        "It's the smart thing to do.",
-        "All right. Who's ready for my famous chicken salad?",
-        "if Andy were to find out that Haley almost--",
-        "That's a far cry from telling Andy Haley was in love with him",
-        "and drove the golf cart off the little bridge into the lake.",
-        "Sometimes I just tap into my emotions,",
-        "uh, things I want to see, places I want to go,"
+        "Maybe you can use supplemental coverage of some kind.",
+        "And you usually can get out of stuff like this,",
+        "I'm sorry, we're having our salads.",
+        "Thank you so much. I really appreciate it.",
+        "I'll bring this back to my boss",
+        "You want to do this, junior? I didn't think so.",
+        "Why would you cancel Jim's credit cards?",
+        "He's a good mechanic.",
+        "I will. I will, Kevin. I will make that my top priority.",
+        "What? Wait. I didn't hear a thing you just said."
       ],
       "koreanHints": [
-        "1. 다른 데는 이제 너무 늦었어.",
-        "2. 그게 현명한 선택이야.",
-        "3. 가끔은 그냥 내 감정에 솔직해지는 거야."
+        "1. 추가 보장 같은 걸로 해결할 수 있지 않을까요?",
+        "2. 그런 건 보통 잘 빠져나가잖아요.",
+        "3. 제 최우선 순위로 삼겠습니다, 케빈."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- too late for: ~하기엔 너무 늦은. 시간이 지나 기회를 놓쳤을 때 쓰는 표현\n- the smart thing to do: 현명한 선택, 똑똑한 판단. 합리적 결정을 권유하거나 정당화할 때 사용\n- tap into: (감정, 능력, 자원 등을) 활용하다, 끌어내다. 내면의 무언가에 접근한다는 뉘앙스"
-    },
-    {
-      "time": "오전 08:18",
-      "episode": "How I Met Your Mother - S05E13  Jenkins",
-      "dialogues": [
-        "This is so embarrassing. Please don't tell anyone.",
-        "She didn't like it anyway. Said it woke her up.",
-        "I gotta make her jealous.",
-        "What? No, of course not.",
-        "are all on a plane piloted by Oprah,",
-        "Hey, so Lily and I are gonna go back to that college bar again,",
-        "and it's about to crash into an art museum",
-        "Step three, we do step two first.",
-        "I'm here because of a small but significant cheese incident that occurred.",
-        "You thought she was into me?"
-      ],
-      "koreanHints": [
-        "1. 정말 창피하네요. 아무한테도 말하지 말아줘요.",
-        "2. 그녀를 질투나게 만들어야겠어.",
-        "3. 그녀가 나한테 관심 있는 줄 알았어요?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- This is so embarrassing : 창피한 상황을 인정하고 표현할 때 쓰는 자연스러운 말. 'I'm embarrassed'보다 상황 자체에 초점을 둔 표현\n- gotta : 'have got to'의 구어체 축약형. 해야만 한다는 강한 필요성을 캐주얼하게 표현할 때 사용\n- make someone jealous : 누군가를 질투나게 만들다. 연애 상황에서 자주 쓰이는 표현\n- be into someone : 누군가에게 관심이 있다, 호감이 있다는 뜻의 구어적 표현. like보다 더 자연스럽고 캐주얼함"
-    },
-    {
-      "time": "오후 03:51",
-      "episode": "Modern Family - S06E11  The Day We Almost Died",
-      "dialogues": [
-        "We almost died. Yeah. About what you said in the car...",
-        "Are you sure about this? Just go. I'm walking home.",
-        "but it's probably best we didn't.",
-        "I just wish there was something that you could teach me.",
-        "I had a chance to do something and be a hero to my mom,",
-        "Yes, Claire, I got an alpaca... again.",
-        "He may have his faults, but at least he's not a crazy person.",
-        "Gil, please, let's keep this civil.",
-        "No more putting my dreams on hold.",
-        "And there's nothing you can say about it."
-      ],
-      "koreanHints": [
-        "1. 그게 확실해? 그냥 가. 나는 걸어갈게.",
-        "2. 내가 뭔가 할 기회가 있었는데 엄마한테 영웅이 될 수 있었어.",
-        "3. 내 꿈을 더 이상 미루지 않을 거야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Are you sure about this? : 상대방의 결정이나 선택에 대해 재확인할 때 쓰는 자연스러운 표현. \"정말 괜찮아?\" 정도의 뉘앙스\n- I'm walking home : \"걸어서 집에 갈게\"라는 의미로, walk home은 교통수단 없이 도보로 귀가한다는 일상 표현\n- had a chance to : \"~할 기회가 있었다\"는 뜻으로, 기회를 얻었거나 놓쳤을 때 자주 쓰는 표현\n- be a hero to someone : 누군가에게 영웅이 되다. to를 써서 특정인에게 영웅이 된다는 의미를 표현\n- put something on hold : 무언가를 보류하다, 미루다. 계획이나 꿈을 잠시 접어두는 상황에서 자주 사용"
-    },
-    {
-      "time": "오후 08:21",
-      "episode": "Friends - S06E17  The One Where Ross Dates a Student",
-      "dialogues": [
-        "WHY IS HE JUMPING ON THOSE WOMEN?",
-        "YOU KNOW, YOUR BIRTHDAY'S IN A MONTH AND A HALF.",
-        "YOU READY TO OPEN YOURS?",
-        "I'M GOING CRAZY, OKAY?",
-        "YOU ARE WAY TOO YOUNG TO HAVE SEEN THAT.",
-        "OF YOUR FAVORITE MEALS.",
-        "YOU WILL NOT FIND A SINGLE GAME SHOW HOST",
-        "UH, CAN I GET A LITTLE PIECE OF THAT CAKE?",
-        "I FORGET TO GET YOU A PRESENT FOR THAT, TOO?",
-        "WELL, I DID PUT A LOT OF THOUGHT INTO THE TAPE."
-      ],
-      "koreanHints": [
-        "1. 너 그거 보기엔 너무 어린데.",
-        "2. 미치겠어, 진짜.",
-        "3. 네 생일이 한 달 반밖에 안 남았잖아."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- way too : 단순 too보다 훨씬 강조된 표현. '정말 너무', '엄청 너무'의 뉘앙스로 원어민들이 일상에서 매우 자주 사용\n- too young to have seen : to부정사의 완료형으로 과거 경험을 언급할 때 사용. '~했기에는 너무 어리다'는 의미\n- go crazy : 문자 그대로 미치다는 뜻도 있지만 일상에서는 '답답하다', '참을 수 없다', '스트레스 받다'는 의미로 흔히 사용\n- in a month and a half : 시간 표현에서 in은 '~후에'를 의미. a half를 붙여 '한 달 반'처럼 자연스럽게 표현"
+      "keyExpressions": "💡 핵심 표현:\n- supplemental coverage : 보험이나 보장 범위에서 '추가 보장'을 의미. supplemental은 '보충의, 추가의'라는 뉘앙스로 비즈니스와 일상에서 모두 유용\n- get out of something : 의무나 곤란한 상황에서 '빠져나가다, 피하다'라는 의미의 자연스러운 구어 표현\n- make something one's top priority : 무언가를 '최우선 순위로 삼다'는 직장과 일상에서 자주 쓰는 표현"
     }
   ]
 }
