@@ -1,93 +1,27 @@
 {
-  "date": "2026. 6. 13.",
+  "date": "2026. 6. 14.",
   "sessions": [
     {
-      "time": "오전 08:06",
-      "episode": "Modern Family - S01E08  Great Expectations",
+      "time": "오전 07:53",
+      "episode": "How I Met Your Mother - S07E13  Tailgate",
       "dialogues": [
-        "♪♪ He's... He's awesome, honey.",
-        "I was so proud of myself when I thought of it...",
-        "He was in the phone book. How '80s is that?",
-        "Seriously, you bastards. We've been talking about it forever.",
-        "We're doing it. We're going to Cabo. Let's do it. Let's do it.",
-        "but made by Jay, which they love.",
-        "You know, she deserves it.",
-        "few drinks, no baby talk.",
-        "Haley wasn't throwing anything at me I hadn't seen before...",
-        "Did she just... I'm scared."
+        "instead of having to hide your booze in a coffee mug.",
+        "Lily, don't you think it's a bit narcissistic",
+        "who will stomp on your heart.",
+        "Lily and I were going to spend New Year's",
+        "He's at some board game convention in Chicago.",
+        "It was an idiot in a gorilla suit.",
+        "Of course! We could buy a bar!",
+        "Don't worry, he's here.",
+        "starting without us was worse,",
+        "Okay, people are getting rowdy and drunk and breaking things."
       ],
       "koreanHints": [
-        "1. 그녀도 그럴 자격 있어요.",
-        "2. 술 몇 잔 하고, 아기 얘기는 빼고요.",
-        "3. 헤일리가 내게 던진 건 전에 못 봤던 게 아니었어요..."
+        "1. 커피 머그잔에 술을 숨겨야 하는 것보다는 낫지.",
+        "2. 네 마음을 짓밟을 사람이야.",
+        "3. 사람들이 시끄럽게 술 먹고 물건 부수고 난리야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- deserve it : 그럴 자격이 있다, 그럴 만하다는 의미. 긍정적인 상황(칭찬, 보상)이나 부정적인 상황(처벌) 모두 사용 가능\n- baby talk : 아기에 관한 대화. 어린 자녀를 둔 부모들이 항상 아이 얘기만 하는 것을 지칭할 때 자주 쓰는 표현\n- throw something at someone : 누군가에게 무언가를 던지다. 비유적으로는 어려운 질문이나 상황을 제시하다는 의미\n- I hadn't seen before : 전에 본 적 없는. 과거완료로 경험의 부재를 나타내며, 새로운 상황이 아니라는 뉘앙스 전달"
-    },
-    {
-      "time": "오후 03:19",
-      "episode": "Seinfeld - S06E04  The Chinese Woman",
-      "dialogues": [
-        "I mean, I don't know how they missed it.",
-        "There she'll get the structure and discipline she needs right now.",
-        "...that's twice as many visits.",
-        "...Paul was convinced I was having an affair...",
-        "Your line's crossed with a Chinese woman.",
-        "Oh, the lines are crossed. You're getting his calls.",
-        "...is he wearing a cape?",
-        "...because whoever was answering was always making boring chit-chat...",
-        "I mean, maybe it was somebody...",
-        "I assume he's not a high-talker."
-      ],
-      "koreanHints": [
-        "1. 어떻게 그걸 놓쳤는지 모르겠어.",
-        "2. 전화선이 중국인 여자랑 엉켜있어요.",
-        "3. 그 사람은 늘 지루한 잡담만 하고 있더라고요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I don't know how they missed it : 명백한 것을 놓쳤을 때 쓰는 표현. \"어떻게 그걸 못 봤는지 모르겠다\"라는 뉘앙스로 실수나 간과에 대한 의아함을 나타냄\n- Your line's crossed : 전화선이 교차되어 엉킨 상태. 요즘은 비유적으로 \"의사소통이 꼬였다\"는 의미로도 사용\n- chit-chat : small talk보다 더 캐주얼한 표현으로 별 내용 없는 잡담을 의미. 동사로도 명사로도 사용 가능"
-    },
-    {
-      "time": "오후 06:55",
-      "episode": "Friends - S08E01  The One After \"I Do\"",
-      "dialogues": [
-        "Someone just take this away from me.",
-        "Thank you, thank you very much. Now if everone would please take your seats, dinner will be served.",
-        "The only thing left will be Radio. That's just for ugly people.",
-        "Well you know, it's a funny story. -Funny \"ha-ha\" or funny..(bursting sound)..oh?",
-        "Hey I thought you were at table six.",
-        "I mean, how's she..how's she gonna handle this financially?",
-        "Okay, fine, I'm a seven!",
-        "...supposedly, she was once quite the hotty of the plant world.",
-        "Oh! Come On. Mona Lisa! -Ahem. -Mona...",
-        "Better. Now just bend your arms a little more."
-      ],
-      "koreanHints": [
-        "1. 누가 좀 이거 나한테서 치워줘.",
-        "2. 그녀가 경제적으로 이걸 어떻게 감당할까?",
-        "3. 알았어, 인정할게, 난 7점이야!"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- take this away from me : 스스로 통제가 안 될 때 다른 사람에게 물건을 치워달라고 하는 표현. 유혹을 참기 힘들거나 자제력이 필요한 상황에서 자주 씀\n- handle this financially : 경제적으로 감당하다, 재정적으로 처리하다. handle은 상황을 다루거나 대처한다는 뉘앙스\n- Okay, fine : 마지못해 인정하거나 항복할 때 쓰는 표현. 약간 불만스럽지만 받아들인다는 뉘앙스"
-    },
-    {
-      "time": "오후 10:49",
-      "episode": "Seinfeld - S03E07  The Cafe",
-      "dialogues": [
-        "What did you come in here for?",
-        "I'll take the test in here.",
-        "Jerry, don't do that. That is so annoying.",
-        "Well, uh, I've been looking forward to it.",
-        "cheating on an I.Q. test.",
-        "Nonsmoking would be great.",
-        "JERRY: He's serving Mexican, Italian, Chinese.",
-        "No, see, he's not smart.",
-        "Come on, George, open up.",
-        "It has a certain indefinable charm."
-      ],
-      "koreanHints": [
-        "1. 그거 진짜 짜증나니까 하지 마.",
-        "2. 뭔가 딱 꼬집어 말할 수 없는 매력이 있어.",
-        "3. 야, 조지, 문 좀 열어봐."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- That is so annoying : 일상에서 짜증나는 행동을 지적할 때 쓰는 직접적인 표현. so를 붙여 강조하면 더 자연스러움\n- indefinable charm : 설명하기 어려운 매력을 표현할 때 쓰는 세련된 말. certain과 함께 쓰면 \"뭔가 모를\"이라는 뉘앙스\n- Come on, open up : come on은 재촉이나 설득할 때, open up은 문을 열라는 직접적 의미와 마음을 열라는 이중 의미로 쓰임"
+      "keyExpressions": "💡 핵심 표현:\n- booze: 술을 뜻하는 구어체 표현. alcohol이나 drink보다 캐주얼하고 일상적인 느낌\n- stomp on your heart: 마음을 짓밟다, 감정적으로 상처를 주다. break your heart보다 더 강하고 거친 느낌\n- get rowdy: 소란스럽게 굴다, 난동 부리다. 파티나 술자리에서 사람들이 통제 불가능하게 시끄러워질 때 쓰는 표현\n- instead of having to: ~해야 하는 것 대신에. 불편한 상황을 피하게 되어 다행이라는 뉘앙스"
     }
   ]
 }
