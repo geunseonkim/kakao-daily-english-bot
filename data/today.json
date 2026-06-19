@@ -1,71 +1,27 @@
 {
-  "date": "2026. 6. 19.",
+  "date": "2026. 6. 20.",
   "sessions": [
     {
-      "time": "오전 08:27",
-      "episode": "The Office - S08E23  Turf War",
+      "time": "오전 07:42",
+      "episode": "Friends - S08E05  The One with Rachel's Date",
       "dialogues": [
-        "I'll still be talking about geishas",
-        "Jim couldn't land me in a thousand years.",
-        "Anyway, Robert is gonna run this company to the ground...",
-        "Don't, and I will find another buyer.",
-        "effete, soft-penised debutante.",
-        "he's just thinking of 15 different ways to do you?",
-        "- What do you want from me? - Now we get to the bottom of Nellie's",
-        "I might be a mother soon.",
-        "So hire me back, that business is yours.",
-        "You'll be surprised by how ugly it gets."
+        "And dump him the same day? He'll kill himself.",
+        "- Books? - Okay, car magazines, cereal boxes..",
+        "- How are you and Phoebe? - Great. Thanks for introducing us.",
+        "I don't think so. Books say wait till the third date to tell the guy..",
+        "Aren't we talking about those big boats that go really slow?",
+        "Dude, what is going on?",
+        "It will be in a minute.",
+        "You got something growing in your uterus.",
+        "What do you want to do tonight?",
+        "- She's got a date? With who? - I set her up with this actor."
       ],
       "koreanHints": [
-        "1. 나 곧 엄마가 될 수도 있어.",
-        "2. 그래봤자 나한테 절대 못 꼬셔.",
-        "3. 얼마나 험악해지는지 보면 놀랄 걸."
+        "1. 같은 날 차버리면? 걔 자살하겠는걸.",
+        "2. 우린 어때? 소개해줘서 고마워.",
+        "3. 오늘 밤에 뭐 할래?"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- land someone : (연애 관계에서) 누군가를 성공적으로 사귀다, 꼬시다, 따내다. 고기를 낚아 올리듯 상대를 얻는다는 뉘앙스의 구어체 표현\n- in a thousand years : 절대 불가능함을 강조하는 과장 표현. \"아무리 시간이 지나도\"라는 의미\n- how ugly it gets : 상황이 얼마나 나빠지는지, 험악해지는지를 표현. get ugly는 \"상황이 심각해지다, 추해지다\"라는 뉘앙스"
-    },
-    {
-      "time": "오후 04:09",
-      "episode": "Seinfeld - S07E01  The Engagement",
-      "dialogues": [
-        "What kind of dog did you say it was?",
-        "What? What am I gonna do?",
-        "\"How was your day today?\"",
-        "Well, what's the hurry?",
-        "Georgie's getting married!",
-        "criticizing people behind their backs.",
-        "\"Happy, pappy.\" What does that mean?",
-        "Are we going to be sitting here when we're 60, like two idiots?",
-        "Anyway... ELAINE: Yeah.",
-        "So we're all straightened out?"
-      ],
-      "koreanHints": [
-        "1. 뭘 그렇게 서두르는데?",
-        "2. 우리 60살이 되어서도 여기 이렇게 두 바보처럼 앉아 있을 건가?",
-        "3. 이제 다 정리된 거야?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- What's the hurry? : 급하게 서두를 필요 없다고 말하거나, 상대방이 왜 그렇게 서두르는지 물을 때 쓰는 캐주얼한 표현. \"천천히 해도 되는데\"라는 뉘앙스를 담고 있음\n- like two idiots : 자신이나 타인의 어리석은 모습을 강조할 때 쓰는 직설적인 표현. 친한 사이에서 자조적으로 쓰이며 상황의 한심함을 부각시킴\n- straightened out : 문제나 오해가 해결되고 정리된 상태를 의미하는 구동사. 복잡했던 상황이 깔끔하게 해결됐을 때 자주 사용"
-    },
-    {
-      "time": "오후 08:21",
-      "episode": "Seinfeld - S09E18  The Frogger",
-      "dialogues": [
-        "Kramer, listen to me.",
-        "I got it from my cop buddy, Doug.",
-        "Do you have anything that's been...",
-        "Have we even been in public?",
-        "I have to sneak back in and even it out.",
-        "I don't know if I'm the best.",
-        "Kramer, you're in charge of taping off a loading zone.",
-        "No point in wasting 1200 bucks.",
-        "That was my mail-order bride.",
-        "You weren't even married yet."
-      ],
-      "koreanHints": [
-        "1. 우리가 공공장소에 같이 나간 적이나 있었나?",
-        "2. 몰래 다시 들어가서 똑같이 맞춰놔야 돼.",
-        "3. 1200달러 날릴 이유가 없잖아."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Have we even ~? : 의문을 강조하며 \"~한 적이나 있었나?\"라는 뉘앙스. even이 회의적인 느낌을 더함\n- sneak back in : 들키지 않게 몰래 다시 들어가다. sneak은 은밀한 행동을 표현할 때 자주 쓰임\n- even it out : 균형을 맞추다, 고르게 하다. 물리적/추상적 상황 모두에 사용\n- No point in ~ing : ~할 이유가 없다, ~해봤자 소용없다. There's no point in ~과 같은 의미"
+      "keyExpressions": "💡 핵심 표현:\n- dump someone : 연인을 차다, 관계를 끝내다. break up with보다 더 직접적이고 일방적인 뉘앙스\n- the same day : 바로 그날, 같은 날. 시간적 즉각성을 강조할 때 사용\n- kill oneself : (비유적으로) 극도로 상심하다, 절망하다\n- How are you and (someone)? : 두 사람의 관계가 어떤지 묻는 자연스러운 표현\n- Thanks for introducing us : 소개팅이나 인맥 소개에 감사할 때 쓰는 정형화된 표현\n- What do you want to do : 계획을 함께 세울 때 쓰는 캐주얼한 제안 표현"
     }
   ]
 }
