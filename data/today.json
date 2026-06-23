@@ -1,93 +1,27 @@
 {
-  "date": "2026. 6. 23.",
+  "date": "2026. 6. 24.",
   "sessions": [
     {
-      "time": "오전 01:46",
-      "episode": "Seinfeld - S02E08  The Heart Attack",
+      "time": "오전 07:58",
+      "episode": "How I Met Your Mother - S04E19  Murtaugh",
       "dialogues": [
-        "Then you come in. \"Why don't you loan her 5000?",
-        "...l'm a much bigger idiot than you are.",
-        "The aliens were always dropping in...",
-        "Oh, man. You know, you're crazy. You're a good-looking guy.",
-        "I got you an apartment in the building.",
-        "It's the thickness of the paint, but I'm aware of it.",
-        "Oh, this is gonna be great.",
-        "...but standing is good for jumping up and down.",
-        "She didn't have her wig on. It was horrifying.",
-        "- Yeah, the guy with the flat head. - He's a cube."
+        "keep score? How do you know...",
+        "maybe the best I've ever seen.",
+        "in the world that I could relate to.",
+        "And for that matter, we're too old for laser tag.",
+        "Old guy paired up with a young, renegade cop.",
+        "You can't just jump to the end. The journey is the best part.",
+        "I must say, there is something admirable",
+        "When we were in our early 20s, every time we had a party,",
+        "By the way, how good is Lethal Weapon?",
+        "But I'm gonna give you one last shot."
       ],
       "koreanHints": [
-        "1. 너 훨씬 더 멍청한 거 알지?",
-        "2. 너 미쳤어. 근데 잘생기긴 했네.",
-        "3. 이거 진짜 끝내줄 거 같은데."
+        "1. 끝으로 바로 건너뛸 순 없어. 그 과정 자체가 가장 좋은 부분이잖아.",
+        "2. 그건 그렇고, 리썰 웨폰 진짜 명작 아니야?",
+        "3. 마지막으로 한 번만 더 기회를 줄게."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- a much bigger idiot : '훨씬 더 바보'라는 뜻으로, much bigger를 사용해 비교급을 강조. a lot bigger, way bigger도 같은 용법\n- you're crazy : 칭찬이나 놀림의 맥락에서 '너 미쳤어, 정신 나갔어'라는 뜻. 긍정적 뉘앙스로 자주 쓰임\n- good-looking : 외모가 좋다는 표현. handsome, attractive보다 캐주얼하고 남녀 모두 사용 가능\n- this is gonna be great : 앞으로 일어날 일에 대한 기대감 표현. gonna는 going to의 구어체"
-    },
-    {
-      "time": "오전 08:11",
-      "episode": "How I Met Your Mother - S08E17  The Ashtray",
-      "dialogues": [
-        "Art consultant. What's that?",
-        "and I want you to be completely honest.",
-        "- A harpoon gun? - A double-barreled harpoon gun!",
-        "Aldrin justice, baby.",
-        "All right. You were there. Tell me the story.",
-        "Still, he's being a jerk.",
-        "Oh, boy, that was a crazy story.",
-        "I mean, I get why he's mad. I did stick it to his ex-wife.",
-        "Oh, man. He seems pissed.",
-        "- I'm sorry. Where are my... - Manners."
-      ],
-      "koreanHints": [
-        "1. 완전히 솔직하게 말해줬으면 좋겠어.",
-        "2. 좋아, 네가 거기 있었잖아. 그때 얘기 좀 해줘.",
-        "3. 그 사람 완전 화난 것 같은데."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- be completely honest : 완전히 솔직해지다. 진심을 말하다. 상대에게 거짓 없이 있는 그대로 말해달라고 부탁할 때 쓰는 표현\n- You were there : 네가 그 자리에 있었잖아. 현장에 있던 사람에게 증언이나 설명을 요구할 때 쓰는 자연스러운 표현\n- seems pissed : 화난 것 같다. seem + 형용사로 추측을 나타내며, pissed는 angry보다 구어적이고 강한 표현"
-    },
-    {
-      "time": "오후 03:09",
-      "episode": "Friends - S06E10  The One with the Routine",
-      "dialogues": [
-        "HEY, WHEN THE SNIPPY GUY SEES THE ROUTINE",
-        "DICK WILL WANT IT FOR THE BLOOPERS SHOW.",
-        "LOOK, YOU, UH... YOU DATING THIS GIRL YOU CAME WITH?",
-        "I WAS WONDERING, ARE THERE ANY PRESENTS AROUND HERE FOR ME",
-        "WE DON'T WANT TO LOOK STUPID.",
-        "WE GOT HONORABLE MENTION",
-        "YOU STILL KEEP STORING THAT STUFF FOR JOEY.",
-        "FOR THE MILLENNIAL MOMENT.",
-        "I WAS THINKING ABOUT MAYBE GOING INTO THE ROBOT, YOU KNOW.",
-        "LOOKING GOOD, GELLERS."
-      ],
-      "koreanHints": [
-        "1. 우리 바보같이 보이고 싶지 않아.",
-        "2. 너 지금 같이 온 그 여자랑 사귀는 거야?",
-        "3. 혹시 여기 어딘가에 내 선물 있어?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- look stupid : 바보같이 보이다. look 뒤에 형용사를 붙여 ~하게 보이다라는 뉘앙스를 전달. look good, look tired처럼 일상에서 매우 자주 쓰임\n- the girl you came with : 너랑 같이 온 여자. 관계대명사 that/who를 생략한 자연스러운 구어체 표현\n- I was wondering : 혹시~인지 궁금해서요. 정중하게 질문하거나 부탁할 때 사용하는 완곡한 표현으로 원어민이 매우 애용함\n- around here : 이 근처 어딘가에. 구체적 위치는 모르지만 주변 어딘가를 가리킬 때 사용"
-    },
-    {
-      "time": "오후 07:35",
-      "episode": "Modern Family - S10E20  Can't Elope",
-      "dialogues": [
-        "And the entire time without my blessing.",
-        "Mom seemed pretty bummed about it, but, you know, this is what we want.",
-        "Are you saying what I think you're saying?",
-        "will you... Oh! Going over, okay. Okay, I'm fine, I'm fine. It's okay.",
-        "Don't be. He puts on his sweaters one leg at a time.",
-        "Seriously? Because, I've proposed, like, six times.",
-        "Tonight is the LA premiere of Sophie's Choice: The Musical.",
-        "I've always been faithful to you.",
-        "Cardiac arrest. Crash cart! NURSE: BP's dropping.",
-        "Okay. This is not my first time impressing your business associates."
-      ],
-      "koreanHints": [
-        "1. 엄마는 꽤 실망하신 것 같았지만, 뭐 어때, 이게 우리가 원하는 거잖아.",
-        "2. 지금 내가 생각하는 걸 말하는 거야?",
-        "3. 이번이 처음이 아니에요, 당신 업계 사람들한테 좋은 인상 주는 거."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- be bummed about : 실망하거나 우울해하다. upset이나 disappointed보다 구어적이고 자연스러운 표현\n- Are you saying what I think you're saying? : 상대방의 의도를 확인할 때 쓰는 관용적 표현. 놀람이나 기대감이 담긴 뉘앙스\n- This is not my first time -ing : ~하는 게 처음이 아니다. 경험과 자신감을 나타낼 때 쓰는 표현\n- business associates : 업무상 관계가 있는 사람들. colleagues보다 더 공식적이고 넓은 범위"
+      "keyExpressions": "💡 핵심 표현:\n- jump to the end : 과정을 생략하고 결과로 바로 가려는 행동을 표현. 인생, 관계, 업무 등에서 조급함을 지적할 때 자주 사용\n- the journey is the best part : 과정 자체가 가장 가치있다는 의미의 관용적 표현. 결과보다 과정의 중요성을 강조할 때 사용\n- by the way : 화제를 전환하거나 부가적인 질문을 던질 때 사용하는 자연스러운 연결 표현\n- how good is... : 얼마나 좋은지 강조하며 동의를 구하는 수사적 질문 패턴\n- give someone one last shot : 마지막 기회를 주다는 관용 표현. shot은 기회, 시도를 의미"
     }
   ]
 }
