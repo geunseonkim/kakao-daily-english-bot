@@ -1,93 +1,27 @@
 {
-  "date": "2026. 6. 28.",
+  "date": "2026. 6. 29.",
   "sessions": [
     {
       "time": "오전 07:53",
-      "episode": "Seinfeld - S08E05  The Package",
+      "episode": "Friends - S01E11  The One with Mrs. Bing",
       "dialogues": [
-        "-Never done it before. -Why start?",
-        "Check these out. l just picked them up from Sheila.",
-        "Well, that was a long time ago.",
-        "You know, l notice that someone wrote in my chart...",
-        "-...you send her one right back. -Oh, l don't know.",
-        "See, what they gotta do is lose a plane or a Greenpeace boat.",
-        "-One chart coming up. -Okay.",
-        "l have a few questions of my own.",
-        "l don't know what Newman wanted me for.",
-        "How l've longed for this moment, Seinfeld."
+        "This is the way that I find out. Most moms use the phone.",
+        "- Right. - Oh, come on, kiddo.",
+        "I don't hear anything. Wait, wait, wait.",
+        "- Me neither. - I'm mad at you for not telling me.",
+        "I spent the entire day with you. Why didn't you tell me?",
+        "- Hey. - What are you guys doing out here?",
+        "I just thought I'd drop these off on the way. My way.",
+        "...and Nora... Mrs. Mom, your Bing, was...",
+        "It was me. I'm sorry. I kissed your mom.",
+        "How would I know? I wasn't here."
       ],
       "koreanHints": [
-        "1. 한 번도 해본 적 없는데. / 그럼 왜 지금 시작해?",
-        "2. 그게 언제 얘긴데.",
-        "3. 내가 직접 몇 가지 물어볼 게 있어."
+        "1. 보통 엄마들은 전화로 알려주던데.",
+        "2. 하루 종일 같이 있었잖아. 왜 말 안 했어?",
+        "3. 내가 어떻게 알아? 나 여기 없었는데."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- Why start? : 지금까지 안 했는데 굳이 왜 시작해? 라는 뉘앙스로, 불필요한 행동을 반대할 때 쓰는 짧고 강력한 반문. Why bother? 와 비슷한 용법\n- That was a long time ago : 과거 일을 언급하며 지금은 상관없다, 옛날 얘기다 라는 뉘앙스를 전달. 과거와 선 긋기할 때 자주 사용\n- questions of my own : my own을 붙여 나도, 내 입장에서도 라는 강조. of one's own은 소유와 독립성을 동시에 나타내는 중급 표현"
-    },
-    {
-      "time": "오후 03:20",
-      "episode": "Seinfeld - S02E12  The Busboy",
-      "dialogues": [
-        "How did you get all this?",
-        "It takes 45 minutes to get there.",
-        "Sperry Rand Building, 14th floor, Morgan Apparel.",
-        "Are you still using that same old alarm clock?",
-        "\"That's about Dallas. Texas, anyway.",
-        "for getting you fired.",
-        "Just move it. Put your clothes on.",
-        "Tomorrow? Are you crazy?",
-        "So, did you have a nice week together?",
-        "I can't take your sweater."
-      ],
-      "koreanHints": [
-        "1. 거기 가는데 45분이나 걸리는데.",
-        "2. 너 아직도 그 낡은 알람시계 쓰고 있어?",
-        "3. 같이 즐거운 한 주 보냈어?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- It takes + 시간 + to 동사 : 어떤 일을 하는 데 시간이 얼마나 걸린다는 표현. 소요 시간을 말할 때 원어민이 가장 자주 쓰는 패턴\n- that same old : 변하지 않은 그 똑같은, 그 낡은. 식상함이나 약간의 비판적 뉘앙스를 담을 때 쓰는 표현\n- have a nice + 시간 : 즐거운 시간을 보내다. Have a nice day보다 확장된 활용으로 week, weekend, time 등과 함께 자주 쓰임"
-    },
-    {
-      "time": "오후 06:56",
-      "episode": "Modern Family - S02E19  The Musical Man",
-      "dialogues": [
-        "Can I go? I'm late for soccer practice.",
-        "Irene even lost 20 pounds due to stress.",
-        "Ay, is the chair broken? Almost.",
-        "And then when you get her, you can tell her whatever you want.",
-        "Not to mention our minivan. So that's really happening?",
-        "why don't you just step over here...",
-        "Why? 'Cause it's fun. Try it.",
-        "Only Dad can make our minivan even lamer.",
-        "My brother sits in this chair, goes out from under him. Bam. Masterpiece.",
-        "♪ Fair England do I see ♪"
-      ],
-      "koreanHints": [
-        "1. 나 가도 돼? 축구 연습 늦었어.",
-        "2. 그것만이 아니라 우리 미니밴도 그래.",
-        "3. 왜? 재밌잖아. 해봐."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I'm late for: ~에 늦었다는 의미로, 약속이나 일정에 늦을 때 가장 자연스럽게 쓰는 표현. to가 아닌 for를 쓰는 것이 포인트.\n- Not to mention: ~은 말할 것도 없고, ~은 물론이고. 앞서 말한 것에 더해 추가 정보를 강조할 때 쓰는 관용구.\n- Try it: 단순히 시도하라는 뜻을 넘어, 상대방을 설득하거나 권유할 때 쓰는 자연스러운 표현. 짧지만 강한 권유의 뉘앙스."
-    },
-    {
-      "time": "오후 10:26",
-      "episode": "How I Met Your Mother - S08E12  The Final Page (2)",
-      "dialogues": [
-        "would take a jinx so seriously.",
-        "And so, kids, on that cold December night I decided to take your Uncle Marshall's advice",
-        "# And the horsie says, \"Good night\" #",
-        "get the hell out of this car.",
-        "- We did it. - Yeah, we did.",
-        "I can't believe the GNB Tower opens tonight.",
-        "one: you can't try to talk me out of it, and two:",
-        "Plus, I keep having this nightmare where King Kong shows up to the opening",
-        "Thanks for the spicy beef jerky, dude.",
-        "of your career. Why isn't Barney coming?"
-      ],
-      "koreanHints": [
-        "1. 그 사람이 농담을 그렇게 진지하게 받아들일 줄은 몰랐어.",
-        "2. 차에서 당장 내려.",
-        "3. 우리가 해냈어. 응, 해냈지."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- take something seriously : 무언가를 진지하게 받아들이다, 심각하게 여기다. 상대방이 과도하게 반응할 때나 반대로 가볍게 여기지 말라고 할 때 자주 사용\n- get the hell out : 강한 어조로 '당장 나가라'는 표현. get out보다 훨씬 강하고 화가 났거나 급박한 상황에서 사용\n- We did it : 목표를 달성했을 때 쓰는 축하 표현. 함께 노력한 결과를 기뻐하며 나누는 말"
+      "keyExpressions": "💡 핵심 표현:\n- This is the way (that) ~ : (부정적 상황에서) \"이런 식으로 ~하다니\"라는 불만이나 서운함을 나타낼 때 사용. 예상치 못한 방식으로 소식을 듣거나 일이 진행될 때 쓰는 표현\n- spend the entire day with ~ : \"~와 하루 종일 함께 보내다\"라는 의미. entire은 whole보다 강조의 느낌이 강하며, 시간을 다 같이 있었다는 것을 강조할 때 사용\n- How would I know? : \"내가 어떻게 알겠어?\"라는 반문. 자신이 알 수 없는 상황이었음을 강조하며 약간 방어적이거나 짜증 섞인 뉘앙스를 담고 있음"
     }
   ]
 }
