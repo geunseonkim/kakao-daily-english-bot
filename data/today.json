@@ -1,93 +1,27 @@
 {
-  "date": "2026. 6. 30.",
+  "date": "2026. 7. 1.",
   "sessions": [
     {
-      "time": "오전 12:37",
-      "episode": "The Office - S08E11  Trivia",
+      "time": "오전 08:02",
+      "episode": "Seinfeld - S07E06  The Soup Nazi",
       "dialogues": [
-        "Oh. Hello, Mr. Schrute I'll tell him you're here Can I get you anything at all?",
-        "And my character is one that will never give up",
-        "What? No, no. Excuse me, lady",
-        "Lamar winning Sixth Man was a big storyline on Chloe and Lamar.",
-        "Now, when something comes along",
-        "All right, guys, time's up.",
-        "Dwight, today is not my day at all, I'm afraid",
-        "God bless you You are an American classic",
-        "Take me to his house It's a condo.",
-        "I can't help it, Oscar It's just really good"
+        "I just want you to know that I was so proud of you today,",
+        "Hey, let me ask you something.",
+        "Yeah. All right, you guys go ahead.",
+        "First of all, it looks half-digested",
+        "Just forget it. Let it go.",
+        "Your knees buckle. Huh. All right.",
+        "Oh, this line is huge.",
+        "He's always raving. I finally got a chance to go",
+        "You know, I don't see how you can sit there eating that,",
+        "Okay. We ready to go?"
       ],
       "koreanHints": [
-        "1. 오늘 정말 하루종일 꼬이네요.",
-        "2. 어쩔 수가 없어요, 진짜 너무 맛있어서요.",
-        "3. 좋아요, 여러분, 시간 다 됐습니다."
+        "1. 그냥 잊어버려. 신경 꺼.",
+        "2. 너 그거 먹으면서 어떻게 그렇게 태연하게 앉아있을 수 있는지 모르겠다.",
+        "3. 오늘 네가 정말 자랑스러웠어."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- not my day: 일이 계속 안 풀리거나 운이 없는 하루를 표현할 때 쓰는 관용구. \"오늘은 내 날이 아니다\"라는 뉘앙스.\n- I can't help it: 어쩔 수 없다, 참을 수 없다는 의미로 자신의 행동이나 반응을 통제할 수 없을 때 사용하는 자연스러운 표현.\n- time's up: 시간이 다 됐다는 의미로 시험, 게임, 회의 등에서 마감을 알릴 때 쓰는 간결한 구어 표현."
-    },
-    {
-      "time": "오전 07:45",
-      "episode": "Seinfeld - S08E07  The Checks",
-      "dialogues": [
-        "You gotta get 'em down here,",
-        "How much would these run you in Tokyo?",
-        "Hello. Twelve dollars.",
-        "You forgot to sign your check.",
-        "Don't worry. It's no charge to you.",
-        "So your firm designed",
-        "The man doesn't want a history lesson.",
-        "I'll fax over my catalog.",
-        "Good luck with that. But I--",
-        "Who buys an umbrella anyway?"
-      ],
-      "koreanHints": [
-        "1. 도쿄에서 사면 얼마나 하는데?",
-        "2. 걱정 마세요. 비용은 안 받을게요.",
-        "3. 어차피 누가 우산을 사?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- run you : 비용이 들다, 얼마가 나오다. cost나 be보다 훨씬 구어적이고 자연스러운 표현. How much does this run?처럼 가격을 물을 때 원어민들이 즐겨 쓰는 표현.\n- no charge to you : 당신에게는 비용이 청구되지 않는다는 뜻. free보다 공식적이고 전문적인 느낌. 비즈니스나 서비스 상황에서 자주 사용.\n- anyway : 문장 끝에 붙여서 '어차피, 어쨌든'이라는 뉘앙스를 더함. 반문이나 불평을 표현할 때 자주 쓰이며, 화자의 태도를 부드럽게 만들어줌."
-    },
-    {
-      "time": "오후 03:14",
-      "episode": "Friends - S09E21  The One with the Fertility Test",
-      "dialogues": [
-        "Because I was ashamed, okay? I sold out for the cash.",
-        "But what if it's not okay?",
-        "Now, do you have any idea what you just said?",
-        ". . .Monet is not spelled M-O-N-A-Y. I just--",
-        "Yeah, that means-- We just don't have time for this.",
-        "Oh, someone's a little cranky today because they have to do it in a cup.",
-        ". . .as his elusive subject was light itself.",
-        "Damn. I wish I knew if that was right.",
-        "-Wow. What an interesting name. -Yeah.",
-        "Please go. Just let me know if you need a hand."
-      ],
-      "koreanHints": [
-        "1. 난 부끄러웠어, 알겠어? 돈 때문에 양심을 팔아버렸다고.",
-        "2. 근데 괜찮지 않으면 어떡해?",
-        "3. 오늘 누가 좀 예민하네, 컵에다 해야 되니까 그런 거지?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- sell out : 돈이나 이익을 위해 자신의 신념이나 원칙을 포기하다, 양심을 팔다. 부정적 뉘앙스가 강한 표현으로 예술가가 상업성을 택하거나 친구를 배신할 때 사용\n- what if : 만약 ~하면 어쩌지? 걱정이나 가능성을 제기할 때 쓰는 자연스러운 표현. 단순한 if 조건문보다 불안감이나 호기심의 뉘앙스가 있음\n- cranky : 짜증나는, 까칠한, 심술궂은. 특히 피곤하거나 배고프거나 불편한 상황 때문에 기분이 안 좋을 때 쓰는 구어체 표현"
-    },
-    {
-      "time": "오후 07:31",
-      "episode": "Modern Family - S03E02  When Good Kids Go Bad",
-      "dialogues": [
-        "Well, don't get too comfortable in there, girls.",
-        "It's all his fault, just like I said! I was right!",
-        "How many times do you have to change your outfit?",
-        "He's saying that Manny stole some girl's locket.",
-        "Kids usually pick that habit up from other kids,",
-        "I don't know, Claire. It's got a lot of potential.",
-        "Oh, it's funnier than your freestyle \"sandwich rap.\"",
-        "going to a trick-or-treat bag in my closet,",
-        "like what really happened to the \"Titanic.\"",
-        "Could you please just go put her in her car seat"
-      ],
-      "koreanHints": [
-        "1. 거기서 너무 편하게 있지는 마, 얘들아.",
-        "2. 아이들이 보통 그런 습관은 다른 아이들한테서 배우거든요.",
-        "3. 카시트에 좀 태워줄래요?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- get too comfortable : 너무 편하게 굴다, 자리를 너무 차지하다. 누군가에게 현재 상황이 일시적임을 상기시키거나 경계를 설정할 때 쓰는 표현\n- pick up (a habit) : (습관을) 배우다, 익히다. learn보다 자연스럽고 무의식적으로 습득하는 느낌\n- Could you please just : 부드럽지만 약간 답답함이 섞인 부탁. just가 들어가면서 \"그냥 좀\", \"제발 좀\" 같은 간절함이나 짜증의 뉘앙스가 추가됨\n- put someone in their car seat : 누군가를 카시트에 태우다. 육아 필수 표현"
+      "keyExpressions": "💡 핵심 표현:\n- let it go : 단순히 '놓아주다'가 아니라 '신경 끄다, 집착하지 말고 잊어버리다'라는 뉘앙스. 상대방이 계속 신경 쓰는 일을 그만 신경 쓰라고 조언할 때 사용\n- I don't see how : '어떻게 ~하는지 모르겠다'는 의미로, 상대방의 행동이나 상황을 이해할 수 없다는 뉘앙스를 부드럽게 표현. 직접적인 비판보다 완곡한 표현\n- I was so proud of you : 과거 특정 순간에 자랑스러웠다는 감정을 전달. 'I'm proud of you'보다 구체적인 상황이나 행동에 대한 칭찬\n- sit there -ing : '그냥 거기 앉아서 ~하다'라는 표현으로, 상대의 태연함이나 무심함을 강조할 때 사용"
     }
   ]
 }
