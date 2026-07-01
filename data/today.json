@@ -1,71 +1,27 @@
 {
-  "date": "2026. 7. 1.",
+  "date": "2026. 7. 2.",
   "sessions": [
     {
-      "time": "오전 08:02",
-      "episode": "Seinfeld - S07E06  The Soup Nazi",
+      "time": "오전 08:01",
+      "episode": "Friends - S03E15  The One Where Ross and Rachel Take a Break",
       "dialogues": [
-        "I just want you to know that I was so proud of you today,",
-        "Hey, let me ask you something.",
-        "Yeah. All right, you guys go ahead.",
-        "First of all, it looks half-digested",
-        "Just forget it. Let it go.",
-        "Your knees buckle. Huh. All right.",
-        "Oh, this line is huge.",
-        "He's always raving. I finally got a chance to go",
-        "You know, I don't see how you can sit there eating that,",
-        "Okay. We ready to go?"
+        "♪ 'CAUSE YOU'RE THERE FOR ME, TOO. ♪",
+        "I HAVE GOT A DEADLINE.",
+        "AND I DON'T KNOW WHERE HIS COUNTRY IS.",
+        "BUT I TOLD YOU ON THE PHONE",
+        "PEOPLE OF EARTH, SURRENDER.",
+        "OH, YEAH? WHAT HAPPENED?",
+        "YEAH, BUT I'VE GOT COUSCOUS.",
+        "I HAVE A DATE WITH THIS DIPLOMAT I MET",
+        "IS SHE GOING TO CANCEL ON ME AGAIN?",
+        "HEY. I NEED AN ATLAS."
       ],
       "koreanHints": [
-        "1. 그냥 잊어버려. 신경 꺼.",
-        "2. 너 그거 먹으면서 어떻게 그렇게 태연하게 앉아있을 수 있는지 모르겠다.",
-        "3. 오늘 네가 정말 자랑스러웠어."
+        "1. 마감 기한이 있어요.",
+        "2. 오, 그래? 무슨 일 있었어?",
+        "3. 지도책이 필요해."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- let it go : 단순히 '놓아주다'가 아니라 '신경 끄다, 집착하지 말고 잊어버리다'라는 뉘앙스. 상대방이 계속 신경 쓰는 일을 그만 신경 쓰라고 조언할 때 사용\n- I don't see how : '어떻게 ~하는지 모르겠다'는 의미로, 상대방의 행동이나 상황을 이해할 수 없다는 뉘앙스를 부드럽게 표현. 직접적인 비판보다 완곡한 표현\n- I was so proud of you : 과거 특정 순간에 자랑스러웠다는 감정을 전달. 'I'm proud of you'보다 구체적인 상황이나 행동에 대한 칭찬\n- sit there -ing : '그냥 거기 앉아서 ~하다'라는 표현으로, 상대의 태연함이나 무심함을 강조할 때 사용"
-    },
-    {
-      "time": "오후 03:35",
-      "episode": "Friends - S04E16  The One with the Fake Party",
-      "dialogues": [
-        "Or maybe you didn't want it to end?",
-        "I can't believe you'd do that for me.",
-        "I can't find anything to eat. Everything makes me nauseous.",
-        "So this was really fun.",
-        "...is really bothering me.",
-        "...I'll sell him a coat and put this note in the pocket.",
-        "We can still make dinner if we skip the appetizers.",
-        "But in Ross' case, they both know two weeks is it.",
-        "Pregnancy does give you some weird cravings.",
-        "This is the same kind of deal."
-      ],
-      "koreanHints": [
-        "1. 아니면 끝나길 원하지 않았던 거 아냐?",
-        "2. 네가 나한테 그렇게까지 해줄 줄 몰랐어.",
-        "3. 임신하면 정말 이상한 게 당기더라."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- want it to end: 끝나길 바라다, 관계나 상황의 종료를 원할 때 쓰는 자연스러운 표현. 연애, 프로젝트, 대화 등 다양한 상황에 적용 가능\n- I can't believe you'd do that: 상대방의 행동에 대한 감사나 놀라움을 표현하는 관용구. 'would'를 써서 그 사람의 성향이나 의지를 강조\n- give you cravings: 무언가를 간절히 원하게 만들다. 임신, 다이어트, 스트레스 등 상황에서 특정 음식이나 것을 갈구할 때 사용"
-    },
-    {
-      "time": "오후 07:40",
-      "episode": "Modern Family - S10E16  Red Alert",
-      "dialogues": [
-        "It is so nice to be recognized.",
-        "And best of all, the entire house is fully automated.",
-        "our bodies started changing, too.",
-        "and you're never truly gonna be in charge",
-        "Also, making them, selling them, all that other stuff.",
-        "Well, I was, but when I tried, Claire was in such a mood,",
-        "Wanna eat a whole sheet cake? Shut down a bad date?",
-        "hobnobbing with Congressmen.",
-        "I have a video shoot for a big listing today,",
-        "reading my operating system's user agreement."
-      ],
-      "koreanHints": [
-        "1. 인정받으니까 정말 기분이 좋네요.",
-        "2. 뭔가 하려고 했는데, 막상 해보려니까 클레어가 엄청 기분이 안 좋더라고.",
-        "3. 케이크 한 판 통째로 먹고 싶다고? 별로인 데이트 자리 끝내고 싶다고?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- be recognized : 단순히 '알아보다'를 넘어 '인정받다, 평가받다'는 뉘앙스. 자신의 노력이나 능력을 타인이 알아줄 때 쓰는 표현\n- be in such a mood : 기분이 안 좋거나 예민한 상태를 완곡하게 표현. in a bad mood보다 덜 직접적이고 상황의 미묘함을 강조\n- shut down : 물리적으로 '끄다'뿐 아니라 대화나 상황을 '종료시키다, 차단하다'는 의미로 일상에서 자주 활용되는 표현\n- a whole sheet cake : whole을 강조해서 '통째로, 전부'라는 뉘앙스를 전달하는 구어체 표현"
+      "keyExpressions": "💡 핵심 표현:\n- I have got a deadline : 'have got'은 'have'의 구어체 강조 표현으로 특히 영국식 영어에서 자주 쓰임. deadline은 업무나 학업에서 필수적으로 알아야 할 단어로 '마감 기한'을 의미\n- Oh, yeah? What happened? : 'Oh, yeah?'은 상대방의 말에 흥미나 의심을 표현하는 자연스러운 반응. 단순한 'Really?'보다 더 구어적이고 원어민다운 표현\n- I need an atlas : 직접적인 필요 표현. 'I need + 명사' 구조는 실생활에서 가장 빈번하게 사용되는 기본 패턴"
     }
   ]
 }
