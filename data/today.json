@@ -1,93 +1,27 @@
 {
-  "date": "2026. 7. 3.",
+  "date": "2026. 7. 4.",
   "sessions": [
     {
-      "time": "오전 07:56",
-      "episode": "Modern Family - S08E01  A Tale of Three Cities",
+      "time": "오전 07:54",
+      "episode": "Seinfeld - S04E12  The Airport",
       "dialogues": [
-        "She's gonna be so jealous now that she knows",
-        "They just call them cookies.",
-        "Aromatic cedar flakeboard... Game a-changed.",
-        "It makes my heart go fast.",
-        "She couldn't have been nicer. We talked about Joe.",
-        "I had to get to Raleigh for the Carolina closet caucus.",
-        "Cam, come on. She's 95 years old and plugged into a wall.",
-        "We can use Luke’s carnival settlement money.",
-        "We had a lot of fun, though, didn't we?",
-        "Could be that, or it could be the last time you saw her,"
+        "Look at you, you run like a girl.",
+        "[LATCH CLICKS] [SIGHS]",
+        "There's always \"a small problem.\"",
+        "See, you won't know what you're missing.",
+        "There's tiny food, tiny liquor bottles,",
+        "♪ Boo boo da Bah bah ♪",
+        "[LAUGHING] He's waving at it.",
+        "So this worked out pretty good.",
+        "\"We're just trying to get one of those little trucks",
+        "All right, fine, I'll take it off. Grab the wheel."
       ],
       "koreanHints": [
-        "1. 이제 그녀가 알게 됐으니까 완전 질투할 거야.",
-        "2. 그녀 정말 친절하더라. 우리 조에 대해 얘기했어.",
-        "3. 우리 재미 많이 있었잖아, 그렇지?"
+        "1. 항상 '작은 문제'가 있다니까.",
+        "2. 봐봐, 그러면 네가 뭘 놓치는지도 모를 거야.",
+        "3. 이거 꽤 잘 풀렸네."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- now that : ~한 이상, ~하게 됐으니까. because보다 자연스럽고 구어적인 이유 표현. 상황 변화를 강조할 때 사용\n- couldn't have been 형용사er : 최상급을 우회적으로 표현하는 원어민다운 방식. 더 이상 ~할 수 없었다는 뜻으로 극찬을 나타냄\n- though : 문장 끝에 붙여 양보나 대조를 부드럽게 표현. but보다 캐주얼하고 자연스러운 뉘앙스\n- didn't we : 확인을 구하는 부가의문문. 동의를 유도하거나 추억을 공유할 때 자주 사용"
-    },
-    {
-      "time": "오후 02:55",
-      "episode": "Modern Family - S06E17  Closet? You'll Love It!",
-      "dialogues": [
-        "[Imitating Scarface] Say hello to my little closet.",
-        "No! I was reading my horoscope.",
-        "♪ Nope, Daddy's lonely ♪ ♪♪ [Continues]",
-        "Okay. Go get some water.",
-        "199... Oh, I remember. I remember.",
-        "- We're scrapping it. - What? I worked for two months on that.",
-        "I am gathering every Binky...",
-        "♪♪ [Descending Scales]",
-        "See the lasers? Special effects?",
-        "because a grown man should not have a nemesis."
-      ],
-      "koreanHints": [
-        "1. 우리 그거 폐기하기로 했어. 뭐라고? 나 그거 두 달 동안 작업했는데.",
-        "2. 괜찮아. 가서 물 좀 마셔.",
-        "3. 성인 남자가 천적을 두는 건 안 되는 거잖아."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- scrap: 계획이나 프로젝트를 완전히 폐기하거나 포기할 때 쓰는 표현. cancel보다 더 강한 느낌으로 완전히 버린다는 뉘앙스\n- work on something: 어떤 것에 시간과 노력을 들여 작업하다. 진행형이나 현재완료 시제와 자주 쓰임\n- Go get: go and get의 구어체 표현으로 가서 뭔가를 가져오거나 하라는 캐주얼한 명령문\n- grown man: 단순히 성인이 아니라 성숙해야 할 나이의 어른 남자를 강조. 유치한 행동을 비판할 때 자주 사용\n- nemesis: 단순한 적이 아니라 숙명적인 천적이나 라이벌. 과도하게 진지하거나 극적인 느낌을 줌"
-    },
-    {
-      "time": "오후 06:57",
-      "episode": "Friends - S08E15  The One with the Birthing Video",
-      "dialogues": [
-        "- It's horrible! - I know, I know! I'm so sorry for you!",
-        "It's yelling, bleeding, dilating.",
-        "And I want relief from the wrenching pain of knowing that won't happen!",
-        "Right outside is a real, live, furry playmate.",
-        "She's been away all week, but she'll be cool.",
-        "- Oh! Hey, Rach! - Hi.",
-        "- Yeah, just relax. - I love you, St. Valentine.",
-        "When I get depressed thinking about..",
-        "Oh, not that kind of fun.",
-        "I want a lot of things."
-      ],
-      "koreanHints": [
-        "1. 끔찍해! 알아, 알아! 정말 안됐다!",
-        "2. 그런 종류의 재미는 아니야.",
-        "3. 나는 많은 것들을 원해."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- I'm so sorry for you : 상대방의 불행이나 안 좋은 상황에 대한 진심 어린 동정과 안타까움을 표현. 단순한 사과가 아니라 \"정말 안됐다\", \"너무 안타깝다\"는 뉘앙스\n- not that kind of ~ : 오해를 바로잡거나 다른 의미임을 명확히 할 때 쓰는 표현. \"그런 종류의 ~이 아니야\"\n- I want a lot of things : 원하는 게 한두 가지가 아님을 강조할 때 쓰는 표현. 불만이나 욕구가 많음을 나타냄"
-    },
-    {
-      "time": "오후 10:52",
-      "episode": "Modern Family - S08E15  Finding Fizbo",
-      "dialogues": [
-        "- All right, now! - Grow up!",
-        "Attractive, intense, sharp-tongued,",
-        "I'm sure you'll find he's a real solid citizen.",
-        "We have to restore Fizbo's good name.",
-        "The Britney queers were eliminated weeks ago.",
-        "All I said was \"Hey, Cam.\"",
-        "Excuse me. Do you serve crabs here?",
-        "I'm sure you say that to a lot of men.",
-        "to have an emotional reaction",
-        "The lady said it'd shrink in the wash."
-      ],
-      "koreanHints": [
-        "1. 그가 정말 모범 시민이라는 걸 알게 되실 거예요.",
-        "2. 그냥 \"안녕, 캠\"이라고만 했어.",
-        "3. 아주머니가 빨면 줄어든다고 했어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- solid citizen : 모범적이고 믿을 만한 사람, 책임감 있고 신뢰할 수 있는 구성원이라는 의미. 누군가의 성격이나 신뢰도를 보증할 때 자주 쓰는 표현\n- all I said was : 내가 한 말은 고작 ~일 뿐이야. 자신의 말이나 행동이 별것 아니었음을 강조하거나 변명할 때 쓰는 패턴\n- shrink in the wash : 빨래하면 줄어들다. 의류나 섬유 제품에 대해 일상적으로 쓰는 자연스러운 표현"
+      "keyExpressions": "💡 핵심 표현:\n- There's always ~ : 늘 ~가 있다는 패턴으로, 반복되는 상황에 대한 불만이나 체념을 표현할 때 사용. 비꼬는 뉘앙스가 있음\n- you won't know what you're missing : 경험하지 않으면 그게 얼마나 좋은지 모른다는 의미. 상대방이 기회를 놓치고 있음을 은근히 지적할 때 사용\n- work out : 계획이나 상황이 잘 풀리다, 잘 되어가다. pretty good과 함께 쓰여 만족스러운 결과를 표현"
     }
   ]
 }
