@@ -1,93 +1,27 @@
 {
-  "date": "2026. 7. 4.",
+  "date": "2026. 7. 5.",
   "sessions": [
     {
-      "time": "오전 07:54",
-      "episode": "Seinfeld - S04E12  The Airport",
+      "time": "오전 07:46",
+      "episode": "The Office - S06E24  The Cover-Up",
       "dialogues": [
-        "Look at you, you run like a girl.",
-        "[LATCH CLICKS] [SIGHS]",
-        "There's always \"a small problem.\"",
-        "See, you won't know what you're missing.",
-        "There's tiny food, tiny liquor bottles,",
-        "♪ Boo boo da Bah bah ♪",
-        "[LAUGHING] He's waving at it.",
-        "So this worked out pretty good.",
-        "\"We're just trying to get one of those little trucks",
-        "All right, fine, I'll take it off. Grab the wheel."
+        "I thought it was one of those...",
+        "Why would you throw something wet at me?",
+        "Hasn't even opened the tissue box in there.",
+        "So the most likely scenario is that Michael matured overnight?",
+        "But I figured I'd rather live with ants than with his creepy little disk.",
+        "Would you like to have dinner with us tonight",
+        "Best game I've ever seen in my life.",
+        "The other guys can go die. Baseball!",
+        "Right there. Look, follow my finger.",
+        "He wakes up early. He goes to bed early."
       ],
       "koreanHints": [
-        "1. 항상 '작은 문제'가 있다니까.",
-        "2. 봐봐, 그러면 네가 뭘 놓치는지도 모를 거야.",
-        "3. 이거 꽤 잘 풀렸네."
+        "1. 왜 젖은 걸 나한테 던지는 거야?",
+        "2. 그 사람이 하룻밤 새 성숙해졌다는 게 제일 가능성 높은 시나리오라는 거야?",
+        "3. 개미들이랑 사는 게 낫지, 그 섬뜩한 디스크랑 사는 것보단."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- There's always ~ : 늘 ~가 있다는 패턴으로, 반복되는 상황에 대한 불만이나 체념을 표현할 때 사용. 비꼬는 뉘앙스가 있음\n- you won't know what you're missing : 경험하지 않으면 그게 얼마나 좋은지 모른다는 의미. 상대방이 기회를 놓치고 있음을 은근히 지적할 때 사용\n- work out : 계획이나 상황이 잘 풀리다, 잘 되어가다. pretty good과 함께 쓰여 만족스러운 결과를 표현"
-    },
-    {
-      "time": "오후 02:48",
-      "episode": "Seinfeld - S04E08  The Cheever Letters",
-      "dialogues": [
-        "When I go, I'm passing it on to her.",
-        "The whole thing was all my...",
-        "All right, let's just get to work.",
-        "You know what I mean?",
-        "So we're on for later?",
-        "And yet women have no problem getting the hand off.",
-        "\"The panties your mother laid out for you\"?",
-        "Have you ever told a woman to stop touching your leg?",
-        "with one of those very same cigars!",
-        "Why, did Jerry say something?"
-      ],
-      "koreanHints": [
-        "1. 내가 죽으면, 그녀한테 물려줄 거야.",
-        "2. 그냥 일이나 합시다.",
-        "3. 제리가 뭐라고 했어?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- when I go : 죽다, 세상을 떠나다를 완곡하게 표현하는 관용구. die나 pass away보다 일상 대화에서 자연스럽게 쓰임\n- pass it on to : ~에게 물려주다, 전달하다. 유산, 지식, 물건 등을 다음 사람에게 넘겨줄 때 쓰는 표현\n- let's just get to work : 잡담 그만하고 본론으로 들어가자, 일이나 하자. just가 들어가면서 약간 답답하거나 재촉하는 뉘앙스\n- did someone say something : 누가 뭔가 말했냐고 물을 때. 보통 자기에 대한 이야기가 오갔는지 의심될 때 쓰는 표현"
-    },
-    {
-      "time": "오후 06:21",
-      "episode": "Seinfeld - S03E01  The Note",
-      "dialogues": [
-        "We have 3:00 appointments.",
-        "He can just block out anything that's going on around him.",
-        "And then I took my pants off.",
-        "\"Oh, yeah. He's the worst.",
-        "Did you hear about that kid that was kidnapped",
-        "No appointments at all?",
-        "I mean if you feel funny about it at all.",
-        "All right, all right.",
-        "Oh, what are you, like a Quaker now?",
-        "That's right. See, now I know it's not him."
-      ],
-      "koreanHints": [
-        "1. 주변에서 무슨 일이 일어나든 상관없이 그냥 차단해버릴 수 있어.",
-        "2. 조금이라도 이상하다고 느끼면 말이야.",
-        "3. 그가 아니라는 걸 이제 확실히 알겠네."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- block out: 의도적으로 차단하다, 무시하다. 소음이나 방해 요소, 불편한 생각 등을 의식적으로 신경 쓰지 않으려 할 때 쓰는 표현\n- feel funny about: 뭔가 이상하거나 불편하게 느끼다. weird보다 부드러운 뉘앙스로 미묘한 위화감을 표현할 때 사용\n- at all: 조금이라도, 전혀. 긍정문에서는 '조금이라도', 부정문에서는 '전혀'의 의미로 강조\n- See: 봐봐, 그러니까. 상대방이 자신의 논리나 증거를 이해하도록 주의를 환기시킬 때 쓰는 표현"
-    },
-    {
-      "time": "오후 10:13",
-      "episode": "Modern Family - S07E08  Clean Out Your Junk Drawer",
-      "dialogues": [
-        "I wemember my mom went into the store and left me all alone in the back of a twuck.",
-        "My dad and sister are here. Let's keep a low profile, light and surfacy.",
-        "When do we get to talk about the dumb things that our husbands do?",
-        "This is nice. No, it's not. It's weird.",
-        "I'm thinking about all that other stuff",
-        "All right, everybody. On your feet.",
-        "But the next three hours will require active participation.",
-        "It... Okay. It bothers me, all right?",
-        "They said it was some sort of therapy.",
-        "- He says you say it a lot, and it drives him crazy. - Phil?"
-      ],
-      "koreanHints": [
-        "1. 우리 남편들이 하는 바보 같은 짓들은 언제 얘기할 수 있는 거야?",
-        "2. 좋네요. 아니, 안 좋아요. 이상해요.",
-        "3. 다음 3시간은 여러분의 적극적인 참여가 필요할 겁니다."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- When do we get to ~ : '언제 ~할 수 있는 거야?'라는 뉘앙스로, 기회나 차례를 기다릴 때 쓰는 표현. 단순히 When can we보다 자연스럽고 구어적임\n- This is nice : 상황을 가볍게 평가할 때 쓰는 표현. 뒤에 반전이 올 때 특히 효과적\n- require active participation : '적극적인 참여가 필요하다'는 격식 있는 표현. 회의, 수업, 행사 등에서 자주 사용됨\n- dumb things : 'stupid'보다 가볍고 일상적인 '바보 같은 짓'을 의미\n- keep a low profile : 눈에 띄지 않게 조용히 행동하는 것 (2번 대사에서)"
+      "keyExpressions": "💡 핵심 표현:\n- Why would you ~ : 비난이나 불만을 표현할 때 쓰는 의문문. \"도대체 왜 ~하는 거야?\"라는 따지는 뉘앙스\n- mature overnight : 하룻밤 새 성숙해지다. overnight는 \"갑자기, 급작스럽게\"라는 의미로 자주 사용\n- I'd rather A than B : B보다는 A하는 게 낫다. 두 가지를 비교하며 선호를 표현하는 필수 패턴"
     }
   ]
 }
