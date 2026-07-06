@@ -1,71 +1,27 @@
 {
-  "date": "2026. 7. 6.",
+  "date": "2026. 7. 7.",
   "sessions": [
     {
-      "time": "오전 07:51",
-      "episode": "Modern Family - S02E01  The Old Wagon",
+      "time": "오전 12:21",
+      "episode": "The Office - S06E01  Gossip",
       "dialogues": [
-        "Manny, open the door. Make her feel welcome.",
-        "I think I'm going to stop eating trans fats too.",
-        "- That one didn't look like it was on purpose. - It was!",
-        "Well, what can I do to make you feel better?",
-        "It still feels hot. Mmm.",
-        "Kelly, good morning. I'm glad you're here.",
-        "And even thinking about it made me mad.",
-        "Wow! That's really good.",
-        "that he wanted to bring home a jar of sunshine so he could always remember.",
-        "Honey, why do we keep this car?"
+        "- Told her it was a stupid idea{\\to go up in that club}. - That's so stupid.",
+        "{\\pos(115,260)}This is the last day of our summer interns.",
+        "Dude, how come you never try to set me up?",
+        "Okay, we all go together or we go one at a time.",
+        "{\\pos(192,240)}This is parkour.",
+        "{\\pos(115,260)}If they get married before I do, I'm gonna kill myself.",
+        "{\\pos(306,215)}{\\a7}Sk0r",
+        "{\\pos(115,260)}Thank you.",
+        "What are you gonna do about it? There's no shotgun, so...",
+        "{\\pos(192,220)}{\\I mean, }The yakkity-yaks in this office would have a field day."
       ],
       "koreanHints": [
-        "1. 그녀가 환영받는다고 느끼게 해줘.",
-        "2. 기분 좀 나아지게 내가 뭘 해줄까?",
-        "3. 우리 왜 이 차를 계속 갖고 있는 거야?"
+        "1. 야, 너는 왜 나한테는 소개팅 주선 같은 거 안 해줘?",
+        "2. 우리 다 같이 가든지 아니면 한 명씩 가든지 해야 해.",
+        "3. 그것에 대해 뭘 어떻게 하려고? 총도 없는데..."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- make someone feel + 형용사 : 누군가가 ~하게 느끼도록 만들다. 상대방의 감정 상태를 적극적으로 유도할 때 쓰는 표현\n- What can I do to... : 상대방을 위해 내가 할 수 있는 것을 물을 때 쓰는 배려 표현. \"어떻게 하면 될까?\"보다 구체적인 행동 의지를 담음\n- Why do we keep... : 불필요하거나 의문스러운 것을 계속 보유하는 이유를 물을 때. 버려야 한다는 암시가 담겨 있음"
-    },
-    {
-      "time": "오후 03:38",
-      "episode": "Friends - S06E20  The One Where Ross Meets Elizabeth's Dad",
-      "dialogues": [
-        "WHAT THE HELL HAPPENED?",
-        "I THOUGHT YOU WERE EXCELLENT.",
-        "DID YOU JUST FLICK ME?",
-        "THE ACTOR PLAYING MAC COULDN'T DO IT.",
-        "OH, WELL, THAT'S GREAT.",
-        "THE LINE IS A DOT TO YOU.",
-        "AND HEY, JUST SO YOU KNOW...",
-        "OH, MAN. IF I EVER RUN INTO THAT GUY AGAIN",
-        "AND WHERE THE HELL'S ALL OF OUR STUFF?",
-        "YOU DON'T HAVE TO WALK AROUND"
-      ],
-      "koreanHints": [
-        "1. 대체 무슨 일이 있었던 거야?",
-        "2. 나는 네가 정말 훌륭했다고 생각해.",
-        "3. 너 방금 나한테 손가락으로 튕긴 거야?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- What the hell : 강한 놀람이나 짜증을 표현할 때 쓰는 구어체. What happened보다 감정이 훨씬 강하고, 화가 났거나 충격받았을 때 사용\n- You were excellent : 과거의 퍼포먼스나 행동을 칭찬할 때 쓰는 표현. Great이나 good보다 격식있고 진심어린 칭찬의 뉘앙스\n- Did you just ~ : 방금 일어난 일에 대한 확인이나 믿기지 않는 행동을 지적할 때 쓰는 패턴. 불쾌함이나 놀람의 감정이 담겨있음\n- Flick : 손가락으로 가볍게 튕기는 동작. 상대를 약올리거나 무시하는 제스처로 쓰일 때가 많음"
-    },
-    {
-      "time": "오후 08:26",
-      "episode": "Friends - S08E04  The One with the Videotape",
-      "dialogues": [
-        "- Your story sucks. - Then you didn't tell it right.",
-        "You raise your hand, put your left hand down your pants and repeat that.",
-        "Are we watching the tape or not?",
-        "{Y:i}Please no drinking liquids \"around the invitations\", \"Rachel. \"",
-        "Greg and Jenny? \"Hi, Greg. I'm Chandler.\"",
-        "\"Oh\", \"I remember how we almost.\"",
-        "Please help me. I have a date tonight.",
-        "Great. I'm across the street having sex right now.",
-        "- Welcome home. - How was the honeymoon?",
-        "- Good luck. - Good luck to you."
-      ],
-      "koreanHints": [
-        "1. 도와주세요. 오늘 저녁에 데이트가 있어요.",
-        "2. 네 이야기는 엉망이야. - 그럼 네가 제대로 말 안 한 거야.",
-        "3. 테이프 볼 거야 말 거야?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- suck : 형편없다, 최악이다라는 뜻의 구어체 표현. 상황, 사람, 경험 등 모든 것에 쓸 수 있는 원어민 필수 표현\n- tell it right : 제대로 말하다, 올바르게 전달하다. get it right, do it right 등 right를 부사로 쓰는 패턴\n- or not : 의문문 끝에 붙여 선택을 강조하고 결정을 재촉하는 뉘앙스. 좀 더 직접적이고 답답함을 표현할 때 사용"
+      "keyExpressions": "💡 핵심 표현:\n- how come : why보다 구어적이고 캐주얼한 표현. 친구나 가까운 사이에서 이유를 물을 때 자주 씀. 어순도 how come + 평서문 순서라는 점이 특징\n- set someone up : 누군가에게 소개팅을 주선해주다. 데이트 상대를 연결해주는 상황에서 원어민들이 가장 자주 쓰는 표현\n- one at a time : 한 번에 하나씩, 한 명씩. 순서대로 차례차례 하자고 할 때 쓰는 실용적인 표현\n- What are you gonna do about it? : 그것에 대해 뭘 어쩔 건데? 상대방의 행동이나 반응을 따질 때, 또는 도전적으로 물을 때 쓰는 표현"
     }
   ]
 }
