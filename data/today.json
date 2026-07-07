@@ -1,93 +1,27 @@
 {
-  "date": "2026. 7. 7.",
+  "date": "2026. 7. 8.",
   "sessions": [
     {
-      "time": "오전 12:21",
-      "episode": "The Office - S06E01  Gossip",
+      "time": "오전 07:50",
+      "episode": "The Office - S01E05  Basketball",
       "dialogues": [
-        "- Told her it was a stupid idea{\\to go up in that club}. - That's so stupid.",
-        "{\\pos(115,260)}This is the last day of our summer interns.",
-        "Dude, how come you never try to set me up?",
-        "Okay, we all go together or we go one at a time.",
-        "{\\pos(192,240)}This is parkour.",
-        "{\\pos(115,260)}If they get married before I do, I'm gonna kill myself.",
-        "{\\pos(306,215)}{\\a7}Sk0r",
-        "{\\pos(115,260)}Thank you.",
-        "What are you gonna do about it? There's no shotgun, so...",
-        "{\\pos(192,220)}{\\I mean, }The yakkity-yaks in this office would have a field day."
+        "Loser buys dinner at Farley's.",
+        "But, you know, it's really just, uh, a good friendly game.",
+        "This is the smallest amount of power",
+        "The last time I was down there, I noticed",
+        "My fiance has plans for us this Saturday,",
+        "You're, uh, you're chickenin' out.",
+        "Yeah. Because corporate, uh,",
+        "Her toaster oven broke.",
+        "And I think that that should be...",
+        "So! Um, 1:00 sharp and we've got a game on."
       ],
       "koreanHints": [
-        "1. 야, 너는 왜 나한테는 소개팅 주선 같은 거 안 해줘?",
-        "2. 우리 다 같이 가든지 아니면 한 명씩 가든지 해야 해.",
-        "3. 그것에 대해 뭘 어떻게 하려고? 총도 없는데..."
+        "1. 진 사람이 팔리스에서 저녁 사는 거다.",
+        "2. 넌 꼬리 내리는 거지.",
+        "3. 그냥 친선 경기일 뿐이야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- how come : why보다 구어적이고 캐주얼한 표현. 친구나 가까운 사이에서 이유를 물을 때 자주 씀. 어순도 how come + 평서문 순서라는 점이 특징\n- set someone up : 누군가에게 소개팅을 주선해주다. 데이트 상대를 연결해주는 상황에서 원어민들이 가장 자주 쓰는 표현\n- one at a time : 한 번에 하나씩, 한 명씩. 순서대로 차례차례 하자고 할 때 쓰는 실용적인 표현\n- What are you gonna do about it? : 그것에 대해 뭘 어쩔 건데? 상대방의 행동이나 반응을 따질 때, 또는 도전적으로 물을 때 쓰는 표현"
-    },
-    {
-      "time": "오전 07:56",
-      "episode": "Modern Family - S03E07  Treehouse",
-      "dialogues": [
-        "I don't wanna scare you off, but my sister's getting married in a couple of weeks,",
-        "Ay, Manny, I told you. It's a 21-and-over club.",
-        "Rainbows. That's just colors in the sky.",
-        "Just get rid of my flair.",
-        "How could I be so cavalier with her emotions?",
-        "That is one classy lady. Which is why I couldn't tell her.",
-        "She's trolling for tips, okay? She totally knows you're gay.",
-        "[Katie] There we go. [Laughs]",
-        "\"Give me your hand and we will run together our whole lives.\"",
-        "Uh, maybe it's the way you ordered a \"drink-a-doodle-doo.\" [Chuckles]"
-      ],
-      "koreanHints": [
-        "1. 겁먹게 하려는 건 아닌데, 우리 여동생이 몇 주 후에 결혼해",
-        "2. 내가 그녀의 감정을 어떻게 그렇게 가볍게 다룰 수 있었을까?",
-        "3. 그녀가 팁을 노리고 있는 거라니까? 너 게이인 거 완전 알고 있어"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- scare someone off : 누군가를 겁먹게 해서 물러나게 만들다, 쫓아버리다. 관계나 상황에서 상대방이 부담을 느껴 떠나게 만들 때 자주 쓰는 표현\n- cavalier with/about : (중요한 것을) 가볍게 다루는, 무신경한. 진지하게 받아들여야 할 것을 너무 대수롭지 않게 취급하는 태도를 나타냄\n- troll for : (무언가를) 노리다, 찾아다니다. 원래 낚시 용어에서 유래했으며, 의도적으로 무언가를 얻으려고 돌아다니는 행동을 뜻함"
-    },
-    {
-      "time": "오후 03:11",
-      "episode": "Modern Family - S11E09  The Last Christmas",
-      "dialogues": [
-        "before you married Jay.",
-        "- Can we get back to the first-class ticket thing? - Yeah. Yeah.",
-        "In her day, did she enjoy the company of a few men? Sure.",
-        "It is time for some farm justice.",
-        "I'm better off just playing it cool.",
-        "- Time out! Time out! - Cam? Cam!",
-        "more than attending college.",
-        "never let him grow a mustache",
-        "Okay, well, you spent three hours making a JibJab",
-        "but an accidental pregnancy"
-      ],
-      "koreanHints": [
-        "1. 그냥 쿨하게 행동하는 게 나아.",
-        "2. 대학 다니는 것보다 더.",
-        "3. 이제 농장식 정의를 실현할 시간이야."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- be better off ~ing : ~하는 게 더 낫다, ~하는 편이 유리하다. 두 가지 선택지를 비교할 때 한쪽이 더 나은 상황임을 표현하는 실용적인 구문\n- play it cool : 침착하게 행동하다, 태연한 척하다. 감정을 드러내지 않고 여유롭게 대처하는 태도를 의미하는 구어체 표현\n- It is time for ~ : ~할 시간이다. 어떤 행동이나 변화가 필요한 시점임을 선언할 때 쓰는 표현"
-    },
-    {
-      "time": "오후 07:24",
-      "episode": "The Office - S02E07  The Client",
-      "dialogues": [
-        "That's not true. I know how to delegate.",
-        "Could we have a table for three please?",
-        "I've been looking forward to it.",
-        "Hey, have they left for the big meeting yet? I got Michael's lucky tie.",
-        "Could you start that one from the beginning?",
-        "Now we know what he looks like.",
-        "when you leave for an hour?",
-        "I always knew Pam has refused to go",
-        "and check some data for me.",
-        "If she was sitting across from you on a train,"
-      ],
-      "koreanHints": [
-        "1. 그건 사실이 아니에요. 일을 위임하는 법은 알아요.",
-        "2. 정말 기대하고 있었어요.",
-        "3. 저 사람이 어떻게 생겼는지 이제 알겠네."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- delegate : 단순히 '위임하다'가 아니라 업무나 책임을 효과적으로 분배하는 능력을 의미. 직장에서 매우 자주 쓰이는 비즈니스 필수 표현\n- look forward to : 미래의 일을 기대할 때 쓰는 가장 자연스러운 표현. to 뒤에는 반드시 명사나 동명사가 와야 함\n- what someone looks like : '누군가의 외모'를 표현하는 가장 일반적인 패턴. how does he look?보다 훨씬 자연스러움"
+      "keyExpressions": "💡 핵심 표현:\n- Loser buys : 내기에서 진 사람이 비용을 부담한다는 뜻. 친구들끼리 가볍게 내기할 때 흔히 쓰는 표현\n- chicken out : 겁먹고 포기하다, 꼬리 내리다. chickenin' out처럼 구어체로 g를 생략해서 발음하기도 함\n- friendly game : 승부에 연연하지 않는 가벼운 친선 경기. 경쟁보다 즐거움이 목적임을 강조할 때 사용"
     }
   ]
 }
