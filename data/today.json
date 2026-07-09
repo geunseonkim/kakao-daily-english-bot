@@ -1,71 +1,27 @@
 {
-  "date": "2026. 7. 9.",
+  "date": "2026. 7. 10.",
   "sessions": [
     {
-      "time": "오전 07:55",
-      "episode": "Friends - S08E14  The One with the Secret Closet",
+      "time": "오전 08:01",
+      "episode": "Friends - S02E17  The One Where Eddie Moves In",
       "dialogues": [
-        "What's with the candy?",
-        "Don't worry about it. No big deal.",
-        "Monica has a secret closet. She won't let me see it.",
-        "And they feasted on human flesh!",
-        "- What's up? - I left my guitar here.",
-        "Hey, Pheebs, what's up?",
-        "Okay. Oh, too late! I'm leaving. Come on, Chandler, let's go.",
-        "I wasn't calm! I've never been more scared in my life.",
-        "I hope it's not an inappropriate time to say..",
-        "- Here's information on Braxton Hicks. - Thanks."
+        "AND THAT WASN'T FUN FOR YOU?",
+        "YOU'LL GET THE PIE OUT OF THE MAN'S HOOD.",
+        "WELL, YOU KNOW WHAT THEY SAY:",
+        "♪ SMELLY, SMELLY, SMELLY ♪ ♪ SMELLY CAT ♪",
+        "IS IT A COFFEE TABLE?",
+        "I MEAN, IT'S A REGULAR SPACE...",
+        "THANKS. YEAH, I LOVE THIS",
+        "YOU REALLY THINK HE'D TAKE ME?",
+        "♪ WHAT ARE THEY FEEDING YOU? ♪",
+        "OH, HEY, IT'S TERRIFIC."
       ],
       "koreanHints": [
-        "1. 그거 가지고 뭐 어쩌겠다는 거야?",
-        "2. 걱정 마. 별일 아니야.",
-        "3. 부적절한 타이밍일 수도 있지만 말하고 싶은데.."
+        "1. 그거 재미없었어?",
+        "2. 사람들이 뭐라고 하잖아.",
+        "3. 정말 날 데려갈 것 같아?"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- What's with~? : 뭔가 이상하거나 평소와 다를 때 \"~는 왜 그래? ~는 뭐야?\"라고 따져 묻는 표현. 직접적으로 비난하지 않으면서도 의아함을 표현할 때 유용함\n- No big deal : \"별일 아니야, 대수롭지 않아\"라는 뜻으로 상대방을 안심시키거나 문제를 축소할 때 쓰는 캐주얼한 표현\n- inappropriate time to say : 말하기 곤란한 타이밍이나 어색한 순간을 인정하면서도 뭔가를 꺼내고 싶을 때 쓰는 정중한 전치 표현"
-    },
-    {
-      "time": "오후 03:07",
-      "episode": "Seinfeld - S04E07  The Bubble Boy",
-      "dialogues": [
-        "No. It's frustrating.",
-        "You are really starting to get under my skin.",
-        "No, it's good for you.",
-        "My friend Jeffrey's sister also, bubble, you know...",
-        "- They're rushing him to hospital. - What?",
-        "What do you mean, not going? We got plans. Call her up.",
-        "Top of the morning to you.",
-        "He's a cheater, aren't you, little twerp?",
-        "I think that's what smoking is really all about.",
-        "Something's happened to the bubble boy!"
-      ],
-      "koreanHints": [
-        "1. 넌 정말 내 신경을 건드리기 시작하는구나.",
-        "2. 안 간다는 게 무슨 소리야? 우리 계획 있잖아. 전화해봐.",
-        "3. 답답하네."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- get under someone's skin : 단순히 짜증나게 하는 것을 넘어서, 지속적으로 신경을 건드리고 성가시게 만드는 상황에 사용. 피부 밑으로 파고든다는 이미지로 떨쳐낼 수 없이 신경 쓰이는 느낌을 표현\n- What do you mean : 상대방의 말이 이해가 안 되거나 받아들일 수 없을 때 반박하며 되묻는 표현. 단순 질문이 아니라 놀람이나 불만의 뉘앙스 포함\n- We got plans : We have plans의 구어체. 이미 확정된 계획이 있음을 강조하며 상대방을 설득하거나 압박할 때 사용\n- Call her up : call과 거의 같지만 up을 붙이면 더 캐주얼하고 구어적. 전화를 걸어 연락을 취한다는 행동의 느낌 강조\n- frustrating : 답답하고 짜증나는 상황. 노력해도 결과가 안 나오거나 상황이 진전되지 않을 때 쓰는 감정 표현"
-    },
-    {
-      "time": "오후 07:29",
-      "episode": "Modern Family - S01E14  Moon Landing",
-      "dialogues": [
-        "Maybe it was just, like, a little bit my fault.",
-        "What? You think I'm guilty too?",
-        "I'm the head of Europe. Well, you know, for the hotel-",
-        "Oh, Valerie, come on. It's me.",
-        "Hope you enjoy that nice, hot shower,",
-        "sometime, when you get a break- Claire! Claire!",
-        "I believe you have something that belongs to me.",
-        "'cause one of my lovers lives in Paris.",
-        "and then the guys start kissing her?",
-        "- Hi. - Is that Valerie?"
-      ],
-      "koreanHints": [
-        "1. 아마 그게 살짝은 내 잘못이었던 것 같아.",
-        "2. 뭐? 너도 내가 유죄라고 생각해?",
-        "3. 내가 가진 거 중에 네 거 있잖아."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- a little bit my fault : 완전히는 아니지만 부분적으로 내 책임이 있다고 인정할 때 쓰는 표현. just, like 등을 함께 써서 책임을 최소화하려는 뉘앙스\n- guilty : 법적 의미뿐 아니라 일상에서 잘못을 저질렀거나 비난받을 만한 상황에서 폭넓게 사용\n- something that belongs to me : 내 소유물을 돌려받을 때 쓰는 정중하면서도 단호한 표현. have my thing보다 격식있고 강한 어조"
+      "keyExpressions": "💡 핵심 표현:\n- wasn't fun for you : 상대방에게 즐겁지 않았냐고 반문할 때 쓰는 표현. 주로 반어적이거나 비꼬는 뉘앙스로 사용됨\n- you know what they say : 흔히 알려진 속담이나 격언을 꺼낼 때 쓰는 표현. \"사람들이 뭐라고 하잖아\"라는 뉘앙스\n- think he'd (would) : 가정이나 추측을 나타낼 때 would를 사용. \"그가 ~할 것 같니?\"라고 물을 때 자연스러운 구조"
     }
   ]
 }
