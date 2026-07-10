@@ -1,71 +1,27 @@
 {
-  "date": "2026. 7. 10.",
+  "date": "2026. 7. 11.",
   "sessions": [
     {
-      "time": "오전 08:01",
-      "episode": "Friends - S02E17  The One Where Eddie Moves In",
+      "time": "오전 07:49",
+      "episode": "Modern Family - S11E08  Tree's a Crowd",
       "dialogues": [
-        "AND THAT WASN'T FUN FOR YOU?",
-        "YOU'LL GET THE PIE OUT OF THE MAN'S HOOD.",
-        "WELL, YOU KNOW WHAT THEY SAY:",
-        "♪ SMELLY, SMELLY, SMELLY ♪ ♪ SMELLY CAT ♪",
-        "IS IT A COFFEE TABLE?",
-        "I MEAN, IT'S A REGULAR SPACE...",
-        "THANKS. YEAH, I LOVE THIS",
-        "YOU REALLY THINK HE'D TAKE ME?",
-        "♪ WHAT ARE THEY FEEDING YOU? ♪",
-        "OH, HEY, IT'S TERRIFIC."
+        "while I offer up a Tibetan pain chant?",
+        "Listen, um... what just happened?",
+        "Come on into the house!",
+        "and not be a part of their life.",
+        "Well, I had an aunt that lived to 110,",
+        "Well, what this baby needs is rhythm.",
+        "I've seen you make out with a Mr. Potato Head.",
+        "Dede, I never would have flirted with another woman",
+        "I don't think that I can have a kid in the world",
+        "- Oh. Oh, of course. - Okay. That's on us."
       ],
       "koreanHints": [
-        "1. 그거 재미없었어?",
-        "2. 사람들이 뭐라고 하잖아.",
-        "3. 정말 날 데려갈 것 같아?"
+        "1. 방금 무슨 일이 있었던 거야?",
+        "2. 세상에 내 아이가 있으면서 그 아이의 삶에 참여하지 않을 수는 없을 것 같아.",
+        "3. 이 아기에게 필요한 건 리듬이야."
       ],
-      "keyExpressions": "💡 핵심 표현:\n- wasn't fun for you : 상대방에게 즐겁지 않았냐고 반문할 때 쓰는 표현. 주로 반어적이거나 비꼬는 뉘앙스로 사용됨\n- you know what they say : 흔히 알려진 속담이나 격언을 꺼낼 때 쓰는 표현. \"사람들이 뭐라고 하잖아\"라는 뉘앙스\n- think he'd (would) : 가정이나 추측을 나타낼 때 would를 사용. \"그가 ~할 것 같니?\"라고 물을 때 자연스러운 구조"
-    },
-    {
-      "time": "오후 03:05",
-      "episode": "Seinfeld - S05E14  The Marine Biologist",
-      "dialogues": [
-        "Boing! Heh, heh. (SQUEAKING)",
-        "-I'm gonna work on that one. -Ah, give it to me!",
-        "You're watching the African dung beetle.",
-        "Yeah. Mr. Lippman, it was his mistress who insisted",
-        "I was living with the turtles.",
-        "Why, you don't think it's a good job?",
-        "I'm just sayin' I wanna have some fun.",
-        "Who wants to have some fun?!",
-        "Kramer, I've been wanting to get one of these things.",
-        "Golden Boy's always the first shirt I wear out of the laundry."
-      ],
-      "koreanHints": [
-        "1. 그게 좋은 직업이 아니라고 생각하는 거야?",
-        "2. 그냥 좀 재미있게 놀고 싶다는 거야.",
-        "3. 누가 재미 좀 볼래?!"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- You don't think~ : 상대방의 부정적인 생각을 확인하거나 반박할 때 쓰는 표현. \"~이 아니라고 생각하는 거야?\"라는 뉘앙스로 상대방의 의견에 대해 약간 방어적이거나 도전적인 어조를 담을 수 있음\n- I'm just sayin' : 자신의 의견을 부드럽게 표현하거나 변명조로 말할 때 쓰는 표현. \"그냥 ~라는 거야\"라는 뉘앙스로 강하게 주장하는 게 아니라 가볍게 말하는 느낌\n- wanna : want to의 구어체 축약형. 일상 대화에서 매우 자연스럽게 쓰이며 격식 없는 친근한 느낌\n- have some fun : 단순히 즐겁게 지내다, 재미있게 놀다는 의미. 일상에서 매우 자주 쓰이는 자연스러운 표현\n- Who wants to~ : 누가 ~할래? 라고 제안하거나 권유할 때 쓰는 표현. 열정적이고 적극적인 어조로 쓰임"
-    },
-    {
-      "time": "오후 07:22",
-      "episode": "Seinfeld - S05E14  The Marine Biologist",
-      "dialogues": [
-        "Oh, it's a fascinating field.",
-        "-Unbelievable. -Yeah.",
-        "He's working on lowering the cholesterol level in whales.",
-        "Now picture this. We find a nice, sweet spot between the dunes...",
-        "-Yeah, plugging along. -I got the alumni magazine.",
-        "I've seen you on TV. You're doing great.",
-        "Yeah, I'm gonna get a paper.",
-        "George? She said George?",
-        "Well, he's kind of modest.",
-        "Because if this is a lie, if this is a joke..."
-      ],
-      "koreanHints": [
-        "1. 정말 흥미로운 분야예요.",
-        "2. 그냥 꾸준히 하고 있어.",
-        "3. 만약 이게 거짓말이라면, 만약 이게 장난이라면..."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- fascinating field : 특정 분야나 영역이 매우 흥미롭고 관심을 끌 만하다는 의미. 전문 분야나 학문, 직업에 대해 긍정적으로 말할 때 자주 쓰는 표현\n- plugging along : 화려하진 않지만 꾸준히, 묵묵히 계속 진행하고 있다는 뉘앙스. 특별한 성과는 없어도 포기하지 않고 계속한다는 의미\n- if this is a lie, if this is a joke : 같은 구조를 반복해서 경고나 심각함을 강조하는 표현. 상대방이 거짓말하지 않기를 바라며 압박할 때 사용"
+      "keyExpressions": "💡 핵심 표현:\n- what just happened? : 방금 일어난 일에 대해 설명을 요구하거나 상황 파악이 안 될 때 쓰는 표현. 혼란스럽거나 놀랐을 때 자연스럽게 사용\n- have a kid in the world : 세상 어딘가에 자신의 아이가 존재한다는 의미. 직접 키우지 않더라도 생물학적으로 자녀가 있는 상황을 표현\n- be a part of someone's life : 누군가의 삶에 참여하다, 관여하다. 단순히 존재하는 게 아니라 적극적으로 관계를 맺는다는 뉘앙스\n- what someone needs is : 누군가에게 필요한 것은 바로 이것이라고 확신 있게 제안할 때 쓰는 패턴"
     }
   ]
 }
