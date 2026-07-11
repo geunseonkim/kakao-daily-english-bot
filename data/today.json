@@ -1,93 +1,27 @@
 {
-  "date": "2026. 7. 11.",
+  "date": "2026. 7. 12.",
   "sessions": [
     {
-      "time": "오전 07:49",
-      "episode": "Modern Family - S11E08  Tree's a Crowd",
+      "time": "오전 07:36",
+      "episode": "Friends - S01E01  Pilot",
       "dialogues": [
-        "while I offer up a Tibetan pain chant?",
-        "Listen, um... what just happened?",
-        "Come on into the house!",
-        "and not be a part of their life.",
-        "Well, I had an aunt that lived to 110,",
-        "Well, what this baby needs is rhythm.",
-        "I've seen you make out with a Mr. Potato Head.",
-        "Dede, I never would have flirted with another woman",
-        "I don't think that I can have a kid in the world",
-        "- Oh. Oh, of course. - Okay. That's on us."
+        "Go back to the island, Gunjo!",
+        "It is called a 'Heavenly Maiden'-",
+        "You're being awfully honest now.",
+        "We'll make money off of them.",
+        "Crap, crap, crap, crap...",
+        "Approach from the other side and cut him off!",
+        "They're tough-looking samurai!",
+        "It's just like you said.",
+        "That's why I told you!",
+        "I told you that I can't go!"
       ],
       "koreanHints": [
-        "1. 방금 무슨 일이 있었던 거야?",
-        "2. 세상에 내 아이가 있으면서 그 아이의 삶에 참여하지 않을 수는 없을 것 같아.",
-        "3. 이 아기에게 필요한 건 리듬이야."
+        "1. 지금 엄청 솔직하네.",
+        "2. 바로 네가 말한 대로야.",
+        "3. 그러게 내가 말했잖아!"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- what just happened? : 방금 일어난 일에 대해 설명을 요구하거나 상황 파악이 안 될 때 쓰는 표현. 혼란스럽거나 놀랐을 때 자연스럽게 사용\n- have a kid in the world : 세상 어딘가에 자신의 아이가 존재한다는 의미. 직접 키우지 않더라도 생물학적으로 자녀가 있는 상황을 표현\n- be a part of someone's life : 누군가의 삶에 참여하다, 관여하다. 단순히 존재하는 게 아니라 적극적으로 관계를 맺는다는 뉘앙스\n- what someone needs is : 누군가에게 필요한 것은 바로 이것이라고 확신 있게 제안할 때 쓰는 패턴"
-    },
-    {
-      "time": "오후 02:15",
-      "episode": "Modern Family - S07E11  Spread Your Wings",
-      "dialogues": [
-        "Unless-- There's someone else, isn't there?",
-        "Well, maybe if you give it a chance. No. You know what, Dad?",
-        "is they remind him of you guys.",
-        "I swear she spent all morning looking at her reflection in the water bowl.",
-        "Everyone just talks to their own dorm mate.",
-        "and you pulled it out of your back pocket.",
-        "- Hey, did you bring those headphones? - Yeah. Right here.",
-        "Look. I think that might be the dumb Luke duck.",
-        "Kim-ly, we're punching and we're stepping. Care to join us?",
-        "She has this weird power to get them to do all the work."
-      ],
-      "koreanHints": [
-        "1. 한번 기회를 줘보는 건 어때요?",
-        "2. 그녀는 자기들한테 일을 다 시키는 이상한 능력이 있어.",
-        "3. 네가 뒷주머니에서 꺼내더라고."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- give it a chance : 단순히 '기회를 주다'를 넘어 '한번 제대로 시도해보다, 거부하지 말고 시도해보다'라는 의미. 새로운 음식, 사람, 아이디어 등에 열린 태도를 가지라고 권유할 때 자주 사용\n- get someone to do something : '누군가를 설득하거나 유도해서 무언가를 하게 만들다'. make와 달리 강제보다는 영향력이나 설득의 뉘앙스\n- pull something out of your back pocket : 마치 뒷주머니에서 무언가를 꺼내듯 '예상치 못한 해결책이나 아이디어를 갑자기 제시하다'. 마법처럼 뭔가를 꺼내놓는다는 관용적 표현"
-    },
-    {
-      "time": "오후 05:45",
-      "episode": "Seinfeld - S06E04  The Chinese Woman",
-      "dialogues": [
-        "All right, let me just say one thing.",
-        "Well, if she's available now,",
-        "And then, just as their reconciling,",
-        "Anything you say, she does.",
-        "You better never tell this woman to jump off the brooklyn bridge.",
-        "Apparently, you have tremendous influence over this woman.",
-        "If I have this much influence over her,",
-        "I don't trust men in capes.",
-        "I guess I just didn't realize it.",
-        "Don't you see what's going on here?"
-      ],
-      "koreanHints": [
-        "1. 네가 이 여자한테 엄청난 영향력을 가지고 있는 게 분명해.",
-        "2. 내가 그녀한테 이렇게까지 영향력이 있다면,",
-        "3. 지금 무슨 일이 벌어지고 있는지 안 보여?"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- have influence over someone : 누군가에게 영향력을 행사하다, 누군가를 좌지우지하다. on이 아니라 over를 쓰는 것이 포인트. 통제력이나 지배력의 뉘앙스가 있음\n- apparently : 명백히, 분명히. obviously보다 약간 더 추측이나 관찰에 기반한 느낌. 겉으로 보기에는 이라는 뉘앙스\n- this much : 이 정도로, 이렇게까지. so much보다 구어적이고 자연스러우며, 손동작과 함께 쓰이는 경우가 많음\n- Don't you see : 안 보여?, 모르겠어?라는 뉘앙스로 상대방이 뭔가 명백한 걸 못 보고 있을 때 쓰는 표현\n- what's going on : 무슨 일이 일어나고 있는지. 상황을 파악하지 못하는 사람에게 현재 상황을 지적할 때 자주 씀"
-    },
-    {
-      "time": "오후 10:07",
-      "episode": "Modern Family - S08E17  Pig Moon Rising",
-      "dialogues": [
-        "into naming our daughter after bacon.",
-        "No, I'm trying to get tickets",
-        "Well, don't leave us in suspense. What did they say?",
-        "We're always looking for a credible reason to leave early.",
-        "\"We regret to inform you\"...",
-        "after we get back from your dad's.",
-        "It's a perfect night to pay tribute.",
-        "- W-why? - The Pig Moon.",
-        "I knew Mitchell was lying.",
-        "I was very close to that pig."
-      ],
-      "koreanHints": [
-        "1. 우리 궁금하게 하지 말고 얘기해 봐. 뭐래?",
-        "2. 일찍 나올 그럴싸한 핑계를 항상 찾고 있거든.",
-        "3. 거절 편지가 왔어요."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- leave someone in suspense : 누군가를 궁금증에 매달리게 하다, 초조하게 기다리게 하다. 상대방이 중요한 정보를 말하지 않고 미루거나 지연시킬 때 쓰는 표현\n- credible reason : 믿을 만한 이유, 그럴싸한 핑계. believable이나 reasonable보다 더 공식적이고 신빙성 있는 느낌\n- We regret to inform you : 유감스럽게도 알려드립니다. 거절 편지나 나쁜 소식을 전할 때 쓰는 공식적인 표현"
+      "keyExpressions": "💡 핵심 표현:\n- awfully: 부정적 의미가 아니라 '정말, 굉장히'라는 뜻의 강조 부사. very보다 감정이 더 실림\n- You're being: 일시적인 행동이나 태도를 지적할 때 사용. 평소와 다른 모습을 강조\n- just like you said: '네 말이 맞았어'라는 인정의 표현. 상대방의 예측이나 조언이 맞았을 때 사용\n- That's why: '그래서, 그게 바로 이유야'라며 원인과 결과를 연결. I told you와 함께 쓰면 '내가 미리 경고했잖아'는 뉘앙스"
     }
   ]
 }
