@@ -1,93 +1,27 @@
 {
-  "date": "2026. 7. 14.",
+  "date": "2026. 7. 15.",
   "sessions": [
     {
-      "time": "오전 07:43",
-      "episode": "Modern Family - S06E01  The Long Honeymoon",
+      "time": "오전 07:45",
+      "episode": "Modern Family - S09E09  Tough Love",
       "dialogues": [
-        "Ay, no! I'm so sorry!",
-        "All right, in the briefest possible way, why don't you let me know what's going on?",
-        "Oh, please. They don't even know I'm here.",
-        "You might just miss it. I know I do.",
-        "No, because I love you for you.",
-        "Oh! Let me get that, husband.",
-        "I'm ready now. Let's go.",
-        "Uh, a little flashy, that extra zipper. It's like a staircase to nowhere.",
-        "Which I know sounds awful, but she loves it.",
-        "I just want to put you in a box and stick swords in you."
+        "Why don't I get us something to drink",
+        "So, tell us, Dr. Karen, what do you teach?",
+        "and they're headed... out...",
+        "Till a local sheriff put me in jail.",
+        "I mean, It's nice to be with a mature woman,",
+        "Something going on with you?",
+        "because they're only for the good children!",
+        "I mean, where's the crazy Colombian the one time I need her?",
+        "Come place your hands on my neck.",
+        "Shouldn't be but a few hours."
       ],
       "koreanHints": [
-        "1. 최대한 간단하게, 무슨 일인지 말해줄래?",
-        "2. 끔찍하게 들리는 거 알지만, 그녀는 그걸 좋아해.",
-        "3. 그냥 너를 상자에 넣고 칼로 찌르고 싶어."
+        "1. 우리 마실 거 좀 가져올게요.",
+        "2. 성숙한 여성과 함께 있으니까 좋네요.",
+        "3. 너 무슨 일 있어?"
       ],
-      "keyExpressions": "💡 핵심 표현:\n- in the briefest possible way : 가능한 한 가장 짧게, 요점만 간추려서 말할 때 쓰는 표현. in the simplest way, in the shortest way 등으로 응용 가능\n- I know it sounds... but : 내 말이 ~하게 들리는 거 아는데, 라며 상대방의 예상 반응을 미리 인정하고 양보하는 뉘앙스\n- let me know what's going on : 상황 설명을 요청할 때 쓰는 자연스러운 표현. tell me보다 부드러운 느낌"
-    },
-    {
-      "time": "오후 01:53",
-      "episode": "Seinfeld - S07E14  The Cadillac (1)",
-      "dialogues": [
-        "Well, I waited all morning again.",
-        "I didn't hear what you said.",
-        "Old people in Florida, they drive slow,",
-        "Are you out of your mind?",
-        "Now, what more proof do you want?",
-        "Actually, I was thinking of donating",
-        "a large portion of it to charity.",
-        "because you got a Cadillac?",
-        "He's never been able to afford it.",
-        "I can talk to you anymore."
-      ],
-      "koreanHints": [
-        "1. 정신 나갔어요?",
-        "2. 이제 무슨 증거가 더 필요해?",
-        "3. 사실 그 돈 중 상당 부분을 자선단체에 기부하려고 생각 중이었어."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- Are you out of your mind? : 상대방이 비상식적이거나 무모한 행동을 할 때 쓰는 표현. \"미쳤어?\"보다는 \"제정신이야?\"에 가까운 뉘앙스\n- what more proof do you want : 이미 충분한 증거가 있는데도 계속 의심할 때 쓰는 반문. 약간 답답함이나 짜증이 섞인 어조\n- I was thinking of ~ing : 계획이나 의도를 부드럽게 표현할 때 쓰는 표현. 확정보다는 고려 중임을 나타냄\n- a large portion of : 전체 중 상당 부분을 지칭. a lot of보다 격식있고 구체적인 느낌"
-    },
-    {
-      "time": "오후 06:03",
-      "episode": "Seinfeld - S08E21  The Muffin Tops",
-      "dialogues": [
-        "Ieaving those muffin pieces behind our shelter?",
-        "He makes problems go away.",
-        "And I think my relationship's in trouble.",
-        "I lost my job with the Yankees.",
-        "If I'm curt, then I apologize.",
-        "- What is this guy again? - They call him a cleaner.",
-        "The sanitation department won't get rid of them all.",
-        "I don't want her to think I'm one of those low-rise briefs guys...",
-        "Nobody wants to go on a three-hour bus tour...",
-        "- What's that? - Well, look."
-      ],
-      "koreanHints": [
-        "1. 그 사람은 문제를 해결해주는 사람이야.",
-        "2. 내 생각에 우리 관계가 위기에 처한 것 같아.",
-        "3. 무뚝뚝하게 굴었다면 사과할게."
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- make something go away : 문제나 곤란한 상황을 완전히 해결하거나 없애버린다는 뉘앙스. 'solve'보다 더 깔끔하게 사라지게 한다는 느낌\n- be in trouble : 위기나 곤경에 처한 상태. 관계, 일, 건강 등 다양한 상황에 쓰이는 자연스러운 표현\n- If I'm curt : 말투가 무뚝뚝하거나 퉁명스러울 때 쓰는 표현. 'rude'보다 완곡하고 격식있는 사과 방식"
-    },
-    {
-      "time": "오후 10:22",
-      "episode": "How I Met Your Mother - S01E11  The Limo",
-      "dialogues": [
-        "Okay, I'll go with you.",
-        "but in reality, it's always just a big letdown,",
-        "get a chance to meet.",
-        "The former Soviet Republic of Drunk-Off-Her-Ass-Istan?",
-        "And the answer is right here:",
-        "Last New Year's, we went our separate ways,",
-        "who's your new friend?",
-        "all five parties before midnight,",
-        "party together or not at all.",
-        "Hey, what are we waiting for? We got"
-      ],
-      "koreanHints": [
-        "1. 솔직히 현실은 항상 실망스럽기만 하지",
-        "2. 지난 새해 전날에 우리는 각자 따로 놀았어",
-        "3. 다 같이 파티하거나 아예 안 하거나 둘 중 하나야"
-      ],
-      "keyExpressions": "💡 핵심 표현:\n- a big letdown : 큰 실망, 기대에 못 미치는 것. 'disappointment'보다 구어적이고 자연스러운 표현으로, 기대했던 것이 실망스럽게 끝날 때 원어민들이 즐겨 쓰는 말\n- go our separate ways : 각자의 길을 가다, 헤어지다. 친구들이나 커플이 서로 다른 방향으로 가거나 관계를 정리할 때 쓰는 자연스러운 표현\n- or not at all : 아니면 아예 안 하거나. 극단적인 선택지를 제시할 때 쓰는 표현으로, '중간은 없다'는 강한 의지를 나타냄"
+      "keyExpressions": "💡 핵심 표현:\n- Why don't I : 내가 ~할게요 라는 부드러운 제안. Why don't we보다 더 적극적으로 본인이 먼저 나서서 행동하겠다는 의사 표현\n- get us something : ~을 가져다주다, 준비해주다. bring이나 prepare보다 캐주얼하고 자연스러운 표현\n- It's nice to be with : ~와 함께 있으니 좋다. 상대방에게 호감을 부드럽게 전달하는 표현\n- mature woman : 성숙한 여성. 나이 든 여성을 완곡하게 표현하는 방식\n- Something going on with you : 너한테 무슨 일 있어? 평소와 다른 모습을 보이는 사람에게 걱정하며 묻는 자연스러운 표현"
     }
   ]
 }
